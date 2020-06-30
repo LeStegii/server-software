@@ -5,4 +5,4 @@ Click the links below to get to the different lists.
 
 <a href="PROXIES.md">Proxies (Bungeecord, ...)</a>
 </br>
-<a href="SERVER.md">Server (Bukkit, Spigot, ...)</a>
+<a href="SERVERS.md">Server (Bukkit, Spigot, ...)</a>
