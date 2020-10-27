@@ -1,6 +1,10 @@
 # Servers
 Minecraft servers make it possible to play minecraft in multiplayer. Some versions allow the use of mods or plugins.
 The softwares are split into **Plugins** and **Mods**, all softwares in the **Mods** category support playing with Fabric or Forge mods.
+</br></br>
+Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SERVERS.md#plugins) to go to Plugins.
+</br>
+Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SERVERS.md#mods) to go to Mods.
 
 ## Plugins
 **Bukkit/CraftBukkit**
@@ -47,3 +51,4 @@ The softwares are split into **Plugins** and **Mods**, all softwares in the **Mo
   - Link: https://glowstone.net/
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
   - Mods: ❌
+  ## Mods
