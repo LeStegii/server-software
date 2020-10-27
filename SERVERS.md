@@ -8,7 +8,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
 
 ## Vanilla
 
-**Vanilla Minecraft**
+### 🌍 Vanilla Minecraft
   - Version: 1.2.5-LATEST
   - Author: Mojang
   - Fork: -
@@ -18,6 +18,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Mods: ❌
 
 ## Plugins
+
 ### 🧺 Bukkit/CraftBukkit
   - Version: 1.8-1.16
   - Author: various authors, maintained by md_5/SpigotMC
@@ -75,7 +76,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
  ## Mods
   
 ### 🔨 Forge
-  - Version: 1.1 - 1.16
+  - Version: 1.1-1.16
   - Author: MinecraftForge
   - Fork: -
   - Description: Allows the use of Forge Mods on your server
