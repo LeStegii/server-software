@@ -20,4 +20,18 @@ Minecraft servers make it possible to play minecraft in multiplayer. Some versio
   - Author: PaperMC
   - Fork: Bukkit --> Spigot --> Paper
   - Description: Spigot with performance patches and more features
-  - Link: https://papermc.io/
+  - Link: https://papermc.io/  
+
+**TacoSpigot**
+  - Version: 1.8, 1.11, 1.12
+  - Author: Techcable
+  - Fork: Bukkit --> Spigot --> Paper --> TacoSpigot
+  - Description: PaperSpigot with even higher performance
+  - Link: https://tacospigot.github.io/
+
+**Glowstone**
+  - Version: 1.12
+  - Author: GlowstoneMC
+  - Fork: -
+  - Description: Completely open source Minecraft server that doesn't rely on any of Mojang's code and supports Bukkit/Spigot/Paper plugins
+  - Link: https://glowstone.net/
