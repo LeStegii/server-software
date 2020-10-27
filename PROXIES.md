@@ -31,7 +31,7 @@ Proxies manage different single minecraft servers and manage player connections 
   
 **Aegis**
   - Version: 1.7 - 1.16
-  - Author: PaperMC
+  - Author: yooniks
   - Fork: Bungeecord --> Aegis
   - Description: Bungeecord with 1.7 support, antibot/anticrash systems and many other features
   - Link: https://minemen.com/resources/216/ (paid)
