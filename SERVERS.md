@@ -68,7 +68,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Author: SpongePowered
   - Fork: -
   - Description: Software that allows the use of Sponge plugins without mods
-  - Link: https://glowstone.net/
+  - Link: https://www.spongepowered.org/downloads/spongevanilla/
   - Plugins: ✔️ (Sponge)
   - Mods: ❌
  
