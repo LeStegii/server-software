@@ -62,6 +62,15 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Link: https://glowstone.net/
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
   - Mods: ❌
+
+**SpongeVanilla**
+  - Version: 1.8-1.12
+  - Author: SpongePowered
+  - Fork: -
+  - Description: Software that allows the use of Sponge plugins without mods
+  - Link: https://glowstone.net/
+  - Plugins: ✔️ (Sponge)
+  - Mods: ❌
  
  ## Mods
   
