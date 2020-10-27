@@ -28,7 +28,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Plugins: ✔️ (Bukkit)
   - Mods: ❌
   
-### 🚿 Spigot
+### 🚰 Spigot
   - Version: 1.8-1.16
   - Author: md_5/SpigotMC
   - Fork: Bukkit --> Spigot
