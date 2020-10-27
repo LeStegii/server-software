@@ -79,10 +79,46 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Version: 1.1-1.16
   - Author: MinecraftForge
   - Fork: -
-  - Description: Allows the use of Forge Mods on your server
+  - Description: Software that allows the use of Forge Mods on your server
   - Link: http://files.minecraftforge.net/
   - Plugins: ❌
-  - Mods: ✔️ (Forge)
+  - Mods: ✔️ (Forge)  
+  
+### 🧻 Fabric
+  - Version: 1.14-1.16
+  - Author: FabricMC
+  - Fork: -
+  - Description: Software that allows the use of Fabric Mods on your server
+  - Link: https://fabricmc.net/
+  - Plugins: ❌
+  - Mods: ✔️ (Fabric)
+
+### 🔶 Magma
+  - Version: 1.12, 1.15, 1.16
+  - Author: MagmaFoundation/Hexeption
+  - Fork: Forge/Spigot/Paper --> Magma
+  - Description: Software that allows the use of Forge Mods and Bukkit/Spigot/Paper plugins on your server
+  - Link: https://magmafoundation.org
+  - Plugins: ✔️ (Bukkit, Spigot, Paper) 
+  - Mods: ✔️ (Forge) 
+  
+### 🪐 Mohist
+  - Version: 1.12, 1.16
+  - Author: Mgazul
+  - Fork: Forge/Spigot/Paper/Atom/Thermos/um_bukkit --> Mohist
+  - Description: Software that allows the use of Forge Mods and Bukkit/Spigot/Paper plugins on your server
+  - Link: https://mohistmc.com
+  - Plugins: ✔️ (Bukkit, Spigot, Paper) 
+  - Mods: ✔️ (Forge)   
+  
+### 😺 CatServer
+  - Version: 1.12
+  - Author: Luohuayu
+  - Fork: Forge/Spigot/Paper --> CatServer
+  - Description: Software that allows the use of Forge Mods and Bukkit/Spigot/Paper plugins on your server
+  - Link: https://mohistmc.com
+  - Plugins: ✔️ (Bukkit, Spigot, Paper) 
+  - Mods: ✔️ (Forge) 
   
 ### 🧽 SpongeForge
   - Version: 1.10-1.12
@@ -92,3 +128,12 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Link: https://www.spongepowered.org/downloads/spongeforge/
   - Plugins: ✔️ (Sponge)
   - Mods: ✔️ (Forge)
+
+### 🧻 Bukkit for Fabric
+  - Version: 1.16
+  - Author: IsaiahPatton
+  - Fork: -
+  - Description: Forge Mod that allows the use of Bukkit/Spigot/Paper Plugins (ALPHA!)
+  - Link: https://www.curseforge.com/minecraft/mc-mods/bukkit
+  - Plugins: ✔️ (Bukkit, Spigot, Paper)
+  - Mods: ✔️ (Fabric)
