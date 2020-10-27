@@ -6,6 +6,17 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
 </br>
 Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SERVERS.md#mods) to go to Mods.
 
+## Vanilla
+
+**Vanilla Minecraft**
+  - Version: 1.2.5-LATEST
+  - Author: Mojang
+  - Fork: -
+  - Description: Official Minecraft Vanilla Multiplayer server by Mojang
+  - Link: https://www.minecraft.net/download/server (or in the launcher)
+  - Plugins: ❌
+  - Mods: ❌
+
 ## Plugins
 **Bukkit/CraftBukkit**
   - Version: 1.8-1.16
