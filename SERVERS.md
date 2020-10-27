@@ -62,4 +62,23 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Link: https://glowstone.net/
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
   - Mods: ❌
-  ## Mods
+ 
+ ## Mods
+  
+**Forge**
+  - Version: 1.1 - 1.16
+  - Author: MinecraftForge
+  - Fork: -
+  - Description: Allows the use of Forge Mods on your server
+  - Link: http://files.minecraftforge.net/
+  - Plugins: ❌
+  - Mods: ✔️ (Forge)
+  
+**SpongeForge**
+  - Version: 1.10-1.12
+  - Author: SpongePowered
+  - Fork: -
+  - Description: Forge Mod that allows the use of Sponge Plugins
+  - Link: https://www.spongepowered.org/downloads/spongeforge/
+  - Plugins: ✔️ (Sponge)
+  - Mods: ✔️ (Forge)
