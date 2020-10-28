@@ -51,7 +51,16 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Version: 1.8.8, 1.11.2, 1.12.2
   - Author: Techcable
   - Fork: Bukkit --> Spigot --> Paper --> TacoSpigot
-  - Description: PaperSpigot with even higher performance
+  - Description: Paper with even higher performance
+  - Link: https://tacospigot.github.io/
+  - Plugins: ✔️ (Bukkit, Spigot, Paper)
+  - Mods: ❌
+  
+### ♠️ Tuinity
+  - Version: 1.15.2, 1.16.3
+  - Author: Techcable
+  - Fork: Bukkit --> Spigot --> Paper --> Tuinity
+  - Description: Fork Paper aimed at improving server performance at high playercounts
   - Link: https://tacospigot.github.io/
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
   - Mods: ❌
