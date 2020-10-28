@@ -7,6 +7,8 @@ Click the links below to get to the different lists.
 </br>
 📗 <a href="SERVERS.md">Server (Bukkit, Spigot, ...)</a>
 </br>
+📙 <a href="BEDROCK.md">Bedrock (Nukkit, PocketMine ...)</a>
+</br>
 📘 <a href="OTHERS.md">Others (GeyserMC, ...)</a>
 </br></br>
 📀 Recommend softwares for different uses: <a href="RECOMMEND.md">Click here</a>
