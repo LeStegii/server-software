@@ -3,7 +3,7 @@ Here you can find the recommended softwares for your case.
 
 ### 🌍 Minecraft Vanilla
   - If you just want to play Minecraft without any modifications you can use the [Vanilla](https://github.com/UeberallGebannt/server-softwares/blob/master/SERVERS.md#-vanilla-minecraft) server. 
-  - If you want to have some bug fixes and better performance you can use [Spigot](https://github.com/UeberallGebannt/server-softwares/blob/master/SERVERS.md#-vanilla-minecraft)/[Paper](https://github.com/UeberallGebannt/server-softwares/blob/master/SERVERS.md#-vanilla-minecraft).
+  - If you want to have some bug fixes and better performance you can use [Spigot](https://github.com/UeberallGebannt/server-softwares/blob/master/SERVERS.md#-spigot)/[Paper](https://github.com/UeberallGebannt/server-softwares/blob/master/SERVERS.md#-paper).
   
 ### 🚰 Minecraft Vanilla with plugins
   - If you want to use plugins on your server you can use [Spigot](https://github.com/UeberallGebannt/server-softwares/blob/master/SERVERS.md#-vanilla-minecraft) or [Paper](https://github.com/UeberallGebannt/server-softwares/blob/master/SERVERS.md#-vanilla-minecraft).  
