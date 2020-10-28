@@ -60,8 +60,17 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Version: 1.15.2, 1.16.3
   - Author: Spottedleaf
   - Fork: Bukkit --> Spigot --> Paper --> Tuinity
-  - Description: Fork Paper aimed at improving server performance at high playercounts
-  - Link: https://tacospigot.github.io/
+  - Description: Fork of Paper aimed at improving server performance at high playercounts
+  - Link: https://github.com/Spottedleaf/Tuinity
+  - Plugins: ✔️ (Bukkit, Spigot, Paper)
+  - Mods: ❌  
+  
+### ⬛️ Yatopia
+  - Version: 1.16.3
+  - Author: YatopiaMC
+  - Fork: Bukkit --> Spigot --> Paper --> Tuinity + other Forks --> Yatopia
+  - Description: Fork of Tuinity that combines the best patches from different forks
+  - Link: https://github.com/YatopiaMC/Yatopia
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
   - Mods: ❌
 
