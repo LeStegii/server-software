@@ -58,7 +58,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   
 ### ♠️ Tuinity
   - Version: 1.15.2, 1.16.3
-  - Author: Techcable
+  - Author: Spottedleaf
   - Fork: Bukkit --> Spigot --> Paper --> Tuinity
   - Description: Fork Paper aimed at improving server performance at high playercounts
   - Link: https://tacospigot.github.io/
