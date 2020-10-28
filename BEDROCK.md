@@ -9,7 +9,7 @@ This list contains Minecraft server softwares for Bedrock players.
   - Plugins: ✔️ (Nukkit)
   
 ### 💠 PocketMine-MP
-  - Author: CloudburstMC
+  - Author: pmmp
   - Fork: -
   - Description: Server software for Minecraft: Bedrock Edition written in PHP
   - Link: https://github.com/pmmp/PocketMine-MP
