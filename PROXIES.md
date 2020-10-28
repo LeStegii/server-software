@@ -35,3 +35,10 @@ Proxies manage different single minecraft servers and manage player connections 
   - Fork: Bungeecord --> Aegis
   - Description: Bungeecord with 1.7 support, antibot/anticrash systems and many other features
   - Link: https://minemen.com/resources/216/ (paid)
+  
+### 🔰 Velocity
+  - Version: 1.8 - 1.16
+  - Author: VelocityPowered
+  - Fork: -
+  - Description: Proxy with unparalleled server support, scalability, and flexibility.
+  - Link: https://www.velocitypowered.com/
