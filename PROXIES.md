@@ -22,7 +22,7 @@ Proxies manage different single minecraft servers and manage player connections 
   - Description: Bungeecord focused on stability, new features and scalability
   - Link: https://github.com/PaperMC/Waterfall
   
-### 🌠 Travertine
+### 🌌 Travertine
   - Version: 1.7 - 1.16
   - Author: PaperMC
   - Fork: Bungeecord --> Waterfall --> Travertine
@@ -36,7 +36,7 @@ Proxies manage different single minecraft servers and manage player connections 
   - Description: Bungeecord with 1.7 support, antibot/anticrash systems and many other features
   - Link: https://minemen.com/resources/216/ (paid)
   
-### 🔰 Velocity
+### 🌠 Velocity
   - Version: 1.8 - 1.16
   - Author: VelocityPowered
   - Fork: -
