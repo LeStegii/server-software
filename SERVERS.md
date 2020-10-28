@@ -1,6 +1,7 @@
 # Servers
 Minecraft servers make it possible to play minecraft in multiplayer. Some versions allow the use of mods or plugins.
 The softwares are split into **Plugins** and **Mods**, all softwares in the **Mods** category support playing with Fabric or Forge mods.
+The versions that are listed are the ones that you can download officially without visiting some weird sites. 
 </br></br>
 Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SERVERS.md#plugins) to go to Plugins.
 </br>
@@ -29,7 +30,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Mods: ❌
   
 ### 🚰 Spigot
-  - Version: 1.8-1.16
+  - Version: 1.8-1.16.3
   - Author: md_5/SpigotMC
   - Fork: Bukkit --> Spigot
   - Description: Bukkit with performance patches, more features and bungeecord support
@@ -38,7 +39,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Mods: ❌
   
 ### ✉️ Paper
-  - Version: 1.7-1.8, 1.12-1.16
+  - Version: 1.7.10-1.8.8, 1.12.2-1.16.3
   - Author: PaperMC
   - Fork: Bukkit --> Spigot --> Paper
   - Description: Spigot with performance patches and more features
@@ -47,7 +48,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Mods: ❌
 
 ### 🌮 TacoSpigot
-  - Version: 1.8, 1.11, 1.12
+  - Version: 1.8.8, 1.11.2, 1.12.2
   - Author: Techcable
   - Fork: Bukkit --> Spigot --> Paper --> TacoSpigot
   - Description: PaperSpigot with even higher performance
@@ -56,7 +57,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Mods: ❌
 
 ### 🔆 Glowstone
-  - Version: 1.12
+  - Version: 1.12.2
   - Author: GlowstoneMC
   - Fork: -
   - Description: Completely open source Minecraft server that doesn't rely on any of Mojang's code and supports Bukkit/Spigot/Paper plugins
@@ -65,7 +66,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Mods: ❌
 
 ### 🧽 SpongeVanilla
-  - Version: 1.8-1.12
+  - Version: 1.8-1.12.2
   - Author: SpongePowered
   - Fork: -
   - Description: Software that allows the use of Sponge plugins without mods
@@ -76,7 +77,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
  ## Mods
   
 ### 🔨 Forge
-  - Version: 1.1-1.16
+  - Version: 1.1-1.16.3
   - Author: MinecraftForge
   - Fork: -
   - Description: Software that allows the use of Forge Mods on your server
@@ -85,7 +86,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Mods: ✔️ (Forge)  
   
 ### 🧻 Fabric
-  - Version: 1.14-1.16
+  - Version: 1.14.4-1.16.3
   - Author: FabricMC
   - Fork: -
   - Description: Software that allows the use of Fabric Mods on your server
@@ -94,7 +95,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Mods: ✔️ (Fabric)
 
 ### 🔶 Magma
-  - Version: 1.12, 1.15, 1.16
+  - Version: 1.12.2, 1.15.2, 1.16.3
   - Author: MagmaFoundation/Hexeption
   - Fork: Forge/Spigot/Paper --> Magma
   - Description: Software that allows the use of Forge Mods and Bukkit/Spigot/Paper plugins on your server
@@ -103,7 +104,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Mods: ✔️ (Forge) 
   
 ### 🪐 Mohist
-  - Version: 1.12, 1.16
+  - Version: 1.12.2, 1.16.3
   - Author: Mgazul
   - Fork: Forge/Spigot/Paper/Atom/Thermos/um_bukkit --> Mohist
   - Description: Software that allows the use of Forge Mods and Bukkit/Spigot/Paper plugins on your server
@@ -112,7 +113,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Mods: ✔️ (Forge)   
   
 ### 😺 CatServer
-  - Version: 1.12
+  - Version: 1.12.2
   - Author: Luohuayu
   - Fork: Forge/Spigot/Paper --> CatServer
   - Description: Software that allows the use of Forge Mods and Bukkit/Spigot/Paper plugins on your server
@@ -121,7 +122,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Mods: ✔️ (Forge) 
   
 ### 🧽 SpongeForge
-  - Version: 1.10-1.12
+  - Version: 1.10.2-1.12.2
   - Author: SpongePowered
   - Fork: -
   - Description: Forge Mod that allows the use of Sponge Plugins
@@ -130,7 +131,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Mods: ✔️ (Forge)
 
 ### 🧻 Bukkit for Fabric
-  - Version: 1.16
+  - Version: 1.16.3
   - Author: IsaiahPatton
   - Fork: -
   - Description: Forge Mod that allows the use of Bukkit/Spigot/Paper Plugins (ALPHA!)
@@ -139,7 +140,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Mods: ✔️ (Fabric)
   
 ### ☕️ Thermos
-  - Version: 1.7
+  - Version: 1.7.10
   - Author: CyberdyneCC
   - Fork: kCauldron --> Thermos
   - Description: Software that allows the use of Forge Mods and Bukkit/Spigot/Paper plugins on your server
