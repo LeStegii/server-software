@@ -135,7 +135,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Author: Luohuayu
   - Fork: Forge/Spigot/Paper --> CatServer
   - Description: Software that allows the use of Forge Mods and Bukkit/Spigot/Paper plugins on your server
-  - Link: https://mohistmc.com
+  - Link: https://github.com/Luohuayu/CatServer
   - Plugins: ✔️ (Bukkit, Spigot, Paper) 
   - Mods: ✔️ (Forge) 
   
