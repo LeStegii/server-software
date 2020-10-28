@@ -20,7 +20,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
 ## Plugins
 
 ### 🧺 Bukkit/CraftBukkit
-  - Version: 1.8-1.16
+  - Version: 1.8-1.16.3
   - Author: various authors, maintained by md_5/SpigotMC
   - Fork: -
   - Description: Software that allows using plugins on servers
@@ -137,3 +137,12 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Link: https://www.curseforge.com/minecraft/mc-mods/bukkit
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
   - Mods: ✔️ (Fabric)
+  
+### ☕️ Thermos
+  - Version: 1.7
+  - Author: CyberdyneCC
+  - Fork: kCauldron --> Thermos
+  - Description: Software that allows the use of Forge Mods and Bukkit/Spigot/Paper plugins on your server
+  - Link: https://www.curseforge.com/minecraft/mc-mods/bukkit
+  - Plugins: ✔️ (Bukkit, Spigot)
+  - Mods: ✔️ (Forge)
