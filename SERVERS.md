@@ -65,6 +65,15 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
   - Mods: ❌  
   
+### 🟣 Purpur
+  - Version: 1.14.4-1.16.3
+  - Author: pl3xgaming 
+  - Fork: Bukkit --> Spigot --> Paper --> Tuinity --> Purpur
+  - Description: Fork of Tuinity with the goal of providing new and interesting configuration options
+  - Link: https://github.com/pl3xgaming/Purpur
+  - Plugins: ✔️ (Bukkit, Spigot, Paper)
+  - Mods: ❌
+  
 ### ⬛️ Yatopia
   - Version: 1.16.3
   - Author: YatopiaMC
