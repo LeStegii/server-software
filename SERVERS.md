@@ -144,6 +144,24 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Author: CyberdyneCC
   - Fork: kCauldron --> Thermos
   - Description: Software that allows the use of Forge Mods and Bukkit/Spigot/Paper plugins on your server
-  - Link: https://www.curseforge.com/minecraft/mc-mods/bukkit
+  - Link: https://github.com/CyberdyneCC/Thermos
+  - Plugins: ✔️ (Bukkit, Spigot)
+  - Mods: ✔️ (Forge)
+  
+### ☕️ Crucible
+  - Version: 1.7.10
+  - Author: CrucibleMC
+  - Fork: kCauldron --> Thermos --> Crucible
+  - Description: Updated version of Thermos with bug fixes and improvements
+  - Link: https://github.com/CrucibleMC/Crucible
+  - Plugins: ✔️ (Bukkit, Spigot)
+  - Mods: ✔️ (Forge)
+  
+### ☢️ Uranium
+  - Version: 1.7.10
+  - Author: UraniumMC
+  - Fork: kCauldron --> Uranium
+  - Description: Software that allows the use of Forge Mods and Bukkit/Spigot/Paper plugins on your server
+  - Link: https://github.com/UraniumMC/Uranium
   - Plugins: ✔️ (Bukkit, Spigot)
   - Mods: ✔️ (Forge)
