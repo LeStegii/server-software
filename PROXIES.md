@@ -15,6 +15,13 @@ Proxies manage different single minecraft servers and manage player connections 
   - Description: Bungeecord with basic 1.7 and 1.7 forge support
   - Link: https://github.com/HexagonMC/BungeeCord
   
+### 🕳 KettleCord
+  - Version: 1.7.10 - 1.16.4
+  - Author: UeberallGebannt/KettleMC
+  - Fork: Bungeecord --> Hexacord --> KettleCord
+  - Description: HexaCord with patches for additional mod support and some new features
+  - Link: https://github.com/UeberallGebannt/KettleCord
+  
 ### 🌊 Waterfall
   - Version: 1.8 - 1.16.4
   - Author: PaperMC
