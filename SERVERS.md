@@ -21,7 +21,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
 ## Plugins
 
 ### 🧺 Bukkit/CraftBukkit
-  - Version: 1.8-1.16.3
+  - Version: 1.8-1.16.4
   - Author: various authors, maintained by md_5/SpigotMC
   - Fork: -
   - Description: Software that allows using plugins on servers
@@ -30,7 +30,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Mods: ❌
   
 ### 🚰 Spigot
-  - Version: 1.8-1.16.3
+  - Version: 1.8-1.16.4
   - Author: md_5/SpigotMC
   - Fork: Bukkit --> Spigot
   - Description: Bukkit with performance patches, more features and bungeecord support
@@ -39,7 +39,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Mods: ❌
   
 ### ✉️ Paper
-  - Version: 1.7.10-1.8.8, 1.12.2-1.16.3
+  - Version: 1.7.10-1.8.8, 1.12.2-1.16.4
   - Author: PaperMC
   - Fork: Bukkit --> Spigot --> Paper
   - Description: Spigot with performance patches and more features
@@ -57,7 +57,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Mods: ❌
   
 ### ♠️ Tuinity
-  - Version: 1.15.2, 1.16.3
+  - Version: 1.15.2, 1.16.4
   - Author: Spottedleaf
   - Fork: Bukkit --> Spigot --> Paper --> Tuinity
   - Description: Fork of Paper aimed at improving server performance at high playercounts
@@ -66,7 +66,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Mods: ❌  
   
 ### 🟣 Purpur
-  - Version: 1.14.4-1.16.3
+  - Version: 1.14.4-1.16.4
   - Author: pl3xgaming 
   - Fork: Bukkit --> Spigot --> Paper --> Tuinity --> Purpur
   - Description: Fork of Tuinity with the goal of providing new and interesting configuration options
@@ -75,7 +75,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Mods: ❌
   
 ### ⬛️ Yatopia
-  - Version: 1.16.3
+  - Version: 1.16.4
   - Author: YatopiaMC
   - Fork: Bukkit --> Spigot --> Paper --> Tuinity + other Forks --> Yatopia
   - Description: Fork of Tuinity that combines the best patches from different forks
@@ -104,7 +104,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
  ## Mods
   
 ### 🔨 Forge
-  - Version: 1.1-1.16.3
+  - Version: 1.1-1.16.4
   - Author: MinecraftForge
   - Fork: -
   - Description: Software that allows the use of Forge Mods on your server
@@ -113,7 +113,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Mods: ✔️ (Forge)  
   
 ### 🧻 Fabric
-  - Version: 1.14.4-1.16.3
+  - Version: 1.14.4-1.16.4
   - Author: FabricMC
   - Fork: -
   - Description: Software that allows the use of Fabric Mods on your server
@@ -122,7 +122,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Mods: ✔️ (Fabric)
 
 ### 🔶 Magma
-  - Version: 1.12.2, 1.15.2, 1.16.3
+  - Version: 1.12.2, 1.15.2, 1.16.4
   - Author: MagmaFoundation/Hexeption
   - Fork: Forge/Spigot/Paper --> Magma
   - Description: Software that allows the use of Forge Mods and Bukkit/Spigot/Paper plugins on your server
@@ -131,7 +131,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Mods: ✔️ (Forge) 
   
 ### 🪐 Mohist
-  - Version: 1.12.2, 1.16.3
+  - Version: 1.12.2, 1.16.4
   - Author: Mgazul
   - Fork: Forge/Spigot/Paper/Atom/Thermos/um_bukkit --> Mohist
   - Description: Software that allows the use of Forge Mods and Bukkit/Spigot/Paper plugins on your server
@@ -158,7 +158,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Mods: ✔️ (Forge)
 
 ### 🧻 Bukkit for Fabric
-  - Version: 1.16.3
+  - Version: 1.16.4
   - Author: IsaiahPatton
   - Fork: -
   - Description: Forge Mod that allows the use of Bukkit/Spigot/Paper Plugins (ALPHA!)
