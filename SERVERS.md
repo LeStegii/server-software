@@ -157,11 +157,11 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Plugins: ✔️ (Sponge)
   - Mods: ✔️ (Forge)
 
-### 🧻 Bukkit for Fabric
-  - Version: 1.16.4
-  - Author: IsaiahPatton
+### 🧻 Cardboard (Bukkit for Fabric)
+  - Version: 1.16.4-1.17-snapshots
+  - Author: IsaiahPatton (CardboardPowered)
   - Fork: -
-  - Description: Forge Mod that allows the use of Bukkit/Spigot/Paper Plugins (ALPHA!)
+  - Description: Fabric Mod that allows the use of Bukkit/Spigot/Paper Plugins (ALPHA!)
   - Link: https://www.curseforge.com/minecraft/mc-mods/bukkit
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
   - Mods: ✔️ (Fabric)
