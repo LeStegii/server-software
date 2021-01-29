@@ -36,13 +36,6 @@ Proxies manage different single minecraft servers and manage player connections 
   - Description: Waterfall with 1.7 support
   - Link: https://github.com/PaperMC/Travertine
   
-### 🔰 Aegis
-  - Version: 1.7.10 - 1.16.5
-  - Author: yooniks
-  - Fork: Bungeecord --> Waterfall --> Travertine --> Aegis
-  - Description: Bungeecord with 1.7 support, antibot/anticrash systems and many other features
-  - Link: https://minemen.com/resources/216/ (paid)
-  
 ### 🌠 Velocity
   - Version: 1.7.2 - 1.16.5
   - Author: VelocityPowered

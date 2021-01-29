@@ -1,6 +1,8 @@
 # 🖥 Server Softwares
 This repository contains lists of server softwares for minecraft.
 </br>
+**IMPORTANT!** Paid softwares/forks are not included.
+</br>
 Click the links below to get to the different lists.
 
 📕 <a href="PROXIES.md">Proxies (Bungeecord, ...)</a>
