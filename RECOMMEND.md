@@ -17,3 +17,6 @@ Here you can find the recommended softwares for your case.
   - If you want to use Forge mods and plugins on 1.12.2 or higher you can use [Magma](https://github.com/UeberallGebannt/server-softwares/blob/master/SERVERS.md#-magma).
   - If you want to use Forge mods and plugins on 1.7.10 you can use [Crucible](https://github.com/UeberallGebannt/server-softwares/blob/master/SERVERS.md#-crucible).
   - If you want to use Fabric mods and plugins you can use [Cardboard](https://github.com/UeberallGebannt/server-softwares/blob/master/SERVERS.md#-cardboard-bukkit-for-fabric).
+
+### 📙 Minecraft Bedrock
+  - If you want to make a Minecraft Bedrock Server with plugins, use Spigot or Paper in combination with [Geyser](https://github.com/UeberallGebannt/server-softwares/blob/master/OTHERS.md#-geysermc).
