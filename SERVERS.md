@@ -28,7 +28,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Link: https://www.spigotmc.org/wiki/buildtools/
   - Plugins: ✔️ (Bukkit)
   - Mods: ❌
-  
+
 ### 🚰 Spigot
   - Version: 1.8-1.16.5
   - Author: md_5/SpigotMC
@@ -37,7 +37,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Link: https://www.spigotmc.org/wiki/buildtools/
   - Plugins: ✔️ (Bukkit, Spigot)
   - Mods: ❌
-  
+
 ### ✉️ Paper
   - Version: 1.7.10-1.8.8, 1.12.2-1.16.5
   - Author: PaperMC
@@ -55,7 +55,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Link: https://tacospigot.github.io/
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
   - Mods: ❌
-  
+
 ### ♠️ Tuinity
   - Version: 1.15.2, 1.16.5
   - Author: Spottedleaf
@@ -64,7 +64,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Link: https://github.com/Spottedleaf/Tuinity
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
   - Mods: ❌  
-  
+
 ### 🟣 Purpur
   - Version: 1.14.4-1.16.5
   - Author: pl3xgaming 
@@ -73,7 +73,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Link: https://github.com/pl3xgaming/Purpur
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
   - Mods: ❌
-  
+
 ### ⬛️ Yatopia
   - Version: 1.16.5
   - Author: YatopiaMC
@@ -101,8 +101,8 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Plugins: ✔️ (Sponge)
   - Mods: ❌
  
- ## Mods
-  
+## Mods
+
 ### 🔨 Forge
   - Version: 1.1-1.16.5
   - Author: MinecraftForge
@@ -111,7 +111,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Link: http://files.minecraftforge.net/
   - Plugins: ❌
   - Mods: ✔️ (Forge)  
-  
+
 ### 🧻 Fabric
   - Version: 1.14.4-1.16.5
   - Author: FabricMC
@@ -129,7 +129,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Link: https://magmafoundation.org
   - Plugins: ✔️ (Bukkit, Spigot, Paper) 
   - Mods: ✔️ (Forge) 
-  
+
 ### 🪐 Mohist
   - Version: 1.12.2, 1.16.5
   - Author: Mgazul
@@ -138,7 +138,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Link: https://mohistmc.com
   - Plugins: ✔️ (Bukkit, Spigot, Paper) 
   - Mods: ✔️ (Forge)   
-  
+
 ### 😺 CatServer
   - Version: 1.12.2
   - Author: Luohuayu
@@ -147,7 +147,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Link: https://github.com/Luohuayu/CatServer
   - Plugins: ✔️ (Bukkit, Spigot, Paper) 
   - Mods: ✔️ (Forge) 
-  
+
 ### 🧽 SpongeForge
   - Version: 1.10.2-1.12.2
   - Author: SpongePowered
@@ -165,7 +165,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Link: https://www.curseforge.com/minecraft/mc-mods/bukkit
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
   - Mods: ✔️ (Fabric)
-  
+
 ### ☕️ Thermos
   - Version: 1.7.10
   - Author: CyberdyneCC
@@ -174,7 +174,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Link: https://github.com/CyberdyneCC/Thermos
   - Plugins: ✔️ (Bukkit, Spigot)
   - Mods: ✔️ (Forge)
-  
+
 ### ☕️ Crucible
   - Version: 1.7.10
   - Author: CrucibleMC
@@ -183,7 +183,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Link: https://github.com/CrucibleMC/Crucible
   - Plugins: ✔️ (Bukkit, Spigot)
   - Mods: ✔️ (Forge)
-  
+
 ### ☢️ Uranium
   - Version: 1.7.10
   - Author: UraniumMC
