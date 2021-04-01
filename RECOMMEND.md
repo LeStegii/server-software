@@ -3,7 +3,7 @@ Here you can find the recommended softwares for your case.
 
 ### 🌍 Minecraft Vanilla
   - If you just want to play Minecraft without any modifications you can use the [Vanilla](https://github.com/UeberallGebannt/server-softwares/blob/master/SERVERS.md#-vanilla-minecraft) server. 
-  - If you want to have some bug fixes and better performance you can use [Spigot](https://github.com/UeberallGebannt/server-softwares/blob/master/SERVERS.md#-spigot) or [Paper](https://github.com/UeberallGebannt/server-softwares/blob/master/SERVERS.md#-paper).
+  - If you want to have some bug fixes, settings and better performance you can use [Fabric](https://github.com/UeberallGebannt/server-softwares/blob/master/SERVERS.md#-fabric) with the [Carpet](https://www.curseforge.com/minecraft/mc-mods/carpet) or [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) mod.
   
 ### 🚰 Minecraft Vanilla with plugins
   - If you want to use plugins on your server use [Spigot](https://github.com/UeberallGebannt/server-softwares/blob/master/SERVERS.md#-spigot) or [Paper](https://github.com/UeberallGebannt/server-softwares/blob/master/SERVERS.md#-paper).
