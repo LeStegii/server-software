@@ -2,7 +2,7 @@
 This list contains softwares that are related to minecraft servers but are no servers or proxies.
 
 ### 💧 GeyserMC 
-  - Version: Latest
+  - Version: 1.17 (Latest Bedrock/Java Server Version)
   - Author: GeyserMC
   - Fork: -
   - Description: Software that allows bedrock players to join Java servers
