@@ -56,6 +56,15 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
   - Mods: ❌
 
+### ⚽ SportPaper
+  - Version: 1.8.8
+  - Author: Electroid
+  - Fork: Bukkit --> Spigot --> Paper --> SportPaper
+  - Description: A fork of Paper 1.8 with changes for the Stratus Network using Magnet's build system.
+  - Link: https://github.com/Electroid/SportPaper
+  - Plugins: ✔️ (Bukkit, Spigot, Paper)
+  - Mods: ❌
+
 ### ♠️ Tuinity
   - Version: 1.15.2, 1.16.5, 1.17.1
   - Author: Spottedleaf
@@ -63,7 +72,16 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Description: Fork of Paper aimed at improving server performance at high playercounts
   - Link: https://github.com/Spottedleaf/Tuinity
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
-  - Mods: ❌  
+  - Mods: ❌ 
+
+### ✈️ Airplane
+  - Version: 1.16.5-1.17.1
+  - Author: TECHNOVÉ
+  - Fork: Bukkit --> Spigot --> Paper --> Tuinity --> Airplane
+  - Description: A stable, optimized, well supported Paper fork. 
+  - Link: https://github.com/TECHNOVE/Airplane
+  - Plugins: ✔️ (Bukkit, Spigot, Paper)
+  - Mods: ❌
 
 ### 🟣 Purpur
   - Version: 1.14.4-1.17.1
