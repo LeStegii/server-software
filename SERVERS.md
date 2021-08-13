@@ -96,7 +96,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Version: 1.16.5
   - Author: YatopiaMC
   - Fork: Bukkit --> Spigot --> Paper --> Tuinity + other Forks --> Yatopia
-  - Description: Fork of Tuinity that combines the best patches from different forks
+  - Description: Fork of Tuinity that combines the best patches from different forks (Note: not recommended and abandoned)
   - Link: https://github.com/YatopiaMC/Yatopia
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
   - Mods: ❌
