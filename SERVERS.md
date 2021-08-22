@@ -47,7 +47,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
   - Mods: ❌
 
-### 🌮 TacoSpigot
+### 🌮 TacoSpigot [ABANDONNED]
   - Version: 1.8.8, 1.11.2, 1.12.2
   - Author: Techcable
   - Fork: Bukkit --> Spigot --> Paper --> TacoSpigot
@@ -92,7 +92,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
   - Mods: ❌
 
-### ⬛️ Yatopia
+### ⬛️ Yatopia [ABANDONNED]
   - Version: 1.16.5
   - Author: YatopiaMC
   - Fork: Bukkit --> Spigot --> Paper --> Tuinity + other Forks --> Yatopia
@@ -184,7 +184,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
   - Mods: ✔️ (Fabric)
 
-### ☕️ Thermos
+### ☕️ Thermos [ABANDONNED]
   - Version: 1.7.10
   - Author: CyberdyneCC
   - Fork: kCauldron --> Thermos
