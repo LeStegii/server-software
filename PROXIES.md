@@ -36,7 +36,7 @@ Proxies manage different single minecraft servers and manage player connections 
   - Description: Waterfall fork with Netty Exploits fixes and built-in firewall
   - Link: https://github.com/2lstudios-mc/FlameCord
   
-### 🌌 Travertine [ABANDONNED]
+### 🌌 Travertine [ABANDONED]
   - Version: 1.7.10 - 1.16.5
   - Author: PaperMC
   - Fork: Bungeecord --> Waterfall --> Travertine
