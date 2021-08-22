@@ -28,8 +28,15 @@ Proxies manage different single minecraft servers and manage player connections 
   - Fork: Bungeecord --> Waterfall
   - Description: Bungeecord focused on stability, new features and scalability
   - Link: https://github.com/PaperMC/Waterfall
+
+### ️‍🔥 FlameCord
+  - Version: 1.8 - 1.17.1
+  - Author: 2lstudios-mc
+  - Fork: Bungeecord --> Waterfall --> FlameCord
+  - Description: Waterfall fork with Netty Exploits fixes and built-in firewall
+  - Link: https://github.com/2lstudios-mc/FlameCord
   
-### 🌌 Travertine
+### 🌌 Travertine [ABANDONNED]
   - Version: 1.7.10 - 1.16.5
   - Author: PaperMC
   - Fork: Bungeecord --> Waterfall --> Travertine
