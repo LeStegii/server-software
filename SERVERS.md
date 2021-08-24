@@ -130,7 +130,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Plugins: ❌
   - Mods: ✔️ (Forge)  
 
-### 🔨 GoldenForge
+### ⭐ GoldenForge
   - Version: 1.16.5
   - Author: manugame
   - Fork: Forge --> GoldenForge
