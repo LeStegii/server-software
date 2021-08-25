@@ -130,6 +130,15 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Plugins: ❌
   - Mods: ✔️ (Forge)  
 
+### ⭐ GoldenForge
+  - Version: 1.16.5
+  - Author: manugame
+  - Fork: Forge --> GoldenForge
+  - Description: Fork of Forge 1.16.5 which implement some Paper patches
+  - Link: https://github.com/GoldenForge/GoldenForge
+  - Plugins: ❌
+  - Mods: ✔️ (Forge)  
+
 ### 🧻 Fabric
   - Version: 1.14.4-1.17.1
   - Author: FabricMC
@@ -154,6 +163,15 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Fork: Forge/Spigot/Paper/Atom/Thermos/um_bukkit --> Mohist
   - Description: Software that allows the use of Forge Mods and Bukkit/Spigot/Paper plugins on your server
   - Link: https://mohistmc.com
+  - Plugins: ✔️ (Bukkit, Spigot, Paper) 
+  - Mods: ✔️ (Forge)   
+
+### 🌫️ Mist
+  - Version: 1.16.5
+  - Author: KR33PY
+  - Fork: Forge/Spigot/Paper/Atom/Thermos/um_bukkit --> Mohist --> Mist
+  - Description: Fork of Mohist 1.16.5 which implement some Paper patches
+  - Link: https://github.com/MinecraftMist/Mist
   - Plugins: ✔️ (Bukkit, Spigot, Paper) 
   - Mods: ✔️ (Forge)   
 
