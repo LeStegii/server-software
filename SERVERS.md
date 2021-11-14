@@ -65,7 +65,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
   - Mods: ❌
 
-### ♠️ Tuinity
+### ♠️ Tuinity [ABANDONED (Merged into Paper)]
   - Version: 1.15.2, 1.16.5, 1.17.1
   - Author: Spottedleaf
   - Fork: Bukkit --> Spigot --> Paper --> Tuinity
