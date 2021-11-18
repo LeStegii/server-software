@@ -10,7 +10,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
 ## Vanilla
 
 ### 🌍 Vanilla Minecraft
-  - Version: 1.2.5-LATEST
+  - Version: Alpha 1.0.15-LATEST
   - Author: Mojang
   - Fork: -
   - Description: Official Minecraft Vanilla Multiplayer server by Mojang
