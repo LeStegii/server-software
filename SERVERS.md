@@ -102,7 +102,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Mods: ❌
 
 ### 🔆 Glowstone
-  - Version: 1.12.2
+  - Version: 1.12.2, 1.16.5
   - Author: GlowstoneMC
   - Fork: -
   - Description: Completely open source Minecraft server that doesn't rely on any of Mojang's code and supports Bukkit/Spigot/Paper plugins
