@@ -9,7 +9,7 @@ Proxies manage different single minecraft servers and manage player connections 
   - Link: https://github.com/SpigotMC/BungeeCord
   
 ### 🛑 Hexacord
-  - Version: 1.7.10 - 1.18
+  - Version: 1.7.10 - 1.18.1
   - Author: HexagonMC
   - Fork: Bungeecord --> Hexacord
   - Description: Bungeecord with basic 1.7 and 1.7 forge support
@@ -30,7 +30,7 @@ Proxies manage different single minecraft servers and manage player connections 
   - Link: https://github.com/PaperMC/Waterfall
 
 ### ️‍🔥 FlameCord
-  - Version: 1.8 - 1.18
+  - Version: 1.8 - 1.18.1
   - Author: 2lstudios-mc
   - Fork: Bungeecord --> Waterfall --> FlameCord
   - Description: Waterfall fork with Netty Exploits fixes and built-in firewall
