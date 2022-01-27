@@ -19,3 +19,7 @@ Here you can find the recommended softwares for your case.
 
 ### 📙 Minecraft Bedrock
   - If you want to make a Minecraft Bedrock Server with plugins, use Spigot or Paper in combination with [Geyser](https://github.com/UeberallGebannt/server-softwares/blob/master/OTHERS.md#-geysermc).
+
+
+### 🌐 Minecraft Networks
+  - If you want to connect servers with each other, use [Velocity](https://github.com/UeberallGebannt/server-softwares/blob/master/PROXIES.md#-velocity) or [Waterfall](https://github.com/UeberallGebannt/server-softwares/blob/master/PROXIES.md#-waterfall).
