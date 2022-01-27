@@ -1,5 +1,7 @@
 # Bedrock Servers
 This list contains Minecraft server softwares for Bedrock players.
+
+It's recommended to use [GeyserMC](https://github.com/UeberallGebannt/server-softwares/blob/master/OTHERS.md#-geysermc) (Bedrock to Java Bridge) instead.
   
 ### ☢️ Nukkit
   - Author: CloudburstMC
