@@ -175,7 +175,16 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Plugins: ✔️ (Bukkit, Spigot, Paper) 
   - Mods: ✔️ (Forge)   
 
-### 🌫️ Mist
+### 🏔 Arclight
+  - Version: 1.14-1.18.1
+  - Author: IzzelAliz
+  - Fork: Forge/Bukkit/Spigot --> Arclight
+  - Description: A Bukkit(1.16/1.18) server implementation on Forge using Mixin.
+  - Link: https://github.com/IzzelAliz/Arclight
+  - Plugins: ✔️ (Bukkit, Spigot, Paper) 
+  - Mods: ✔️ (Forge)   
+
+### 🌫️ Mist [ABANDONED]
   - Version: 1.16.5
   - Author: KR33PY
   - Fork: Forge/Spigot/Paper/Atom/Thermos/um_bukkit --> Mohist --> Mist
