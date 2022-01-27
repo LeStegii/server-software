@@ -74,12 +74,21 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
   - Mods: ❌ 
 
-### ✈️ Airplane
+### ✈️ Airplane [ABANDONED (See Pufferfish)]
   - Version: 1.16.5-1.17.1
   - Author: TECHNOVÉ
   - Fork: Bukkit --> Spigot --> Paper --> Tuinity --> Airplane
   - Description: A stable, optimized, well supported Paper fork. 
   - Link: https://github.com/TECHNOVE/Airplane
+  - Plugins: ✔️ (Bukkit, Spigot, Paper)
+  - Mods: ❌
+
+### 🐡 Pufferfish
+  - Version: 1.18.1
+  - Author: pufferfish-gg
+  - Fork: Bukkit --> Spigot --> Paper --> Airplane --> Pufferfish
+  - Description: A highly optimized Paper fork designed for large servers.
+  - Link: https://github.com/pufferfish-gg/Pufferfish
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
   - Mods: ❌
 
@@ -130,7 +139,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Plugins: ❌
   - Mods: ✔️ (Forge)  
 
-### ⭐ GoldenForge
+### ⭐ GoldenForge [ABANDONED]
   - Version: 1.16.5
   - Author: manugame
   - Fork: Forge --> GoldenForge
