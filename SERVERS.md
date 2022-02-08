@@ -7,9 +7,12 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
 </br>
 Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SERVERS.md#mods) to go to Mods.
 
+⚠️ **Warning!** If a project is not in active developement exploits such as Log4J could still work!
+
 ## Vanilla
 
 ### 🌍 Vanilla Minecraft
+  - Active: ✔️
   - Version: Alpha 1.0.15-LATEST
   - Author: Mojang
   - Fork: -
@@ -20,7 +23,8 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
 
 ## Plugins
 
-### 🧺 Bukkit/CraftBukkit
+### 🪣 Bukkit/CraftBukkit
+  - Active: ✔️
   - Version: 1.8-1.18.1
   - Author: various authors, maintained by md_5/SpigotMC
   - Fork: -
@@ -30,6 +34,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Mods: ❌
 
 ### 🚰 Spigot
+  - Active: ✔️
   - Version: 1.8-1.18.1
   - Author: md_5/SpigotMC
   - Fork: Bukkit --> Spigot
@@ -39,6 +44,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Mods: ❌
 
 ### ✉️ Paper
+  - Active: ✔️
   - Version: 1.7.10-1.8.8, 1.12.2-1.18.1
   - Author: PaperMC
   - Fork: Bukkit --> Spigot --> Paper
@@ -47,7 +53,8 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
   - Mods: ❌
 
-### 🌮 TacoSpigot [ABANDONED]
+### 🌮 TacoSpigot
+  - Active: ❌ (Alternative: Paper)
   - Version: 1.8.8, 1.11.2, 1.12.2
   - Author: Techcable
   - Fork: Bukkit --> Spigot --> Paper --> TacoSpigot
@@ -57,6 +64,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Mods: ❌
 
 ### ⚽ SportPaper
+  - Active: ✔️
   - Version: 1.8.8
   - Author: Electroid
   - Fork: Bukkit --> Spigot --> Paper --> SportPaper
@@ -65,7 +73,8 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
   - Mods: ❌
 
-### ♠️ Tuinity [ABANDONED (Merged into Paper)]
+### ♠️ Tuinity
+  - Active: ❌ (Merged into Paper)
   - Version: 1.15.2, 1.16.5, 1.17.1
   - Author: Spottedleaf
   - Fork: Bukkit --> Spigot --> Paper --> Tuinity
@@ -74,7 +83,8 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
   - Mods: ❌ 
 
-### ✈️ Airplane [ABANDONED (See Pufferfish)]
+### ✈️ Airplane
+  - Active: ❌ (Alternative: Pufferfish)
   - Version: 1.16.5-1.17.1
   - Author: TECHNOVÉ
   - Fork: Bukkit --> Spigot --> Paper --> Tuinity --> Airplane
@@ -84,6 +94,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Mods: ❌
 
 ### 🐡 Pufferfish
+  - Active: ✔️
   - Version: 1.18.1
   - Author: pufferfish-gg
   - Fork: Bukkit --> Spigot --> Paper --> Airplane --> Pufferfish
@@ -93,6 +104,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Mods: ❌
 
 ### 🟣 Purpur
+  - Active: ✔️
   - Version: 1.14.4-1.18.1
   - Author: pl3xgaming 
   - Fork: Bukkit --> Spigot --> Paper --> Tuinity --> Purpur
@@ -101,7 +113,8 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
   - Mods: ❌
 
-### ⬛️ Yatopia [ABANDONED]
+### ⬛️ Yatopia
+  - Active: ❌ (Alternative: Purpur)
   - Version: 1.16.5
   - Author: YatopiaMC
   - Fork: Bukkit --> Spigot --> Paper --> Tuinity + other Forks --> Yatopia
@@ -111,6 +124,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Mods: ❌
 
 ### 🔆 Glowstone
+  - Active: ✔️
   - Version: 1.12.2, 1.16.5
   - Author: GlowstoneMC
   - Fork: -
@@ -120,6 +134,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Mods: ❌
 
 ### 🧽 SpongeVanilla
+  - Active: ✔️
   - Version: 1.8-1.12.2
   - Author: SpongePowered
   - Fork: -
@@ -131,6 +146,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
 ## Mods
 
 ### 🔨 Forge
+  - Active: ✔️
   - Version: 1.1-1.18.1
   - Author: MinecraftForge
   - Fork: -
@@ -139,7 +155,8 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Plugins: ❌
   - Mods: ✔️ (Forge)  
 
-### ⭐ GoldenForge [ABANDONED]
+### ⭐ GoldenForge
+  - Active: ❌ (Alternative: Forge)
   - Version: 1.16.5
   - Author: manugame
   - Fork: Forge --> GoldenForge
@@ -149,6 +166,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Mods: ✔️ (Forge)  
 
 ### 🧻 Fabric
+  - Active: ✔️
   - Version: 1.14.4-1.18.1
   - Author: FabricMC
   - Fork: -
@@ -158,16 +176,18 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Mods: ✔️ (Fabric)
 
 ### 🔶 Magma
+  - Active: ✔️
   - Version: 1.12.2, 1.15.2 (Deprecated), 1.16.5
   - Author: MagmaFoundation/Hexeption
-  - Fork: Forge/Spigot/Paper --> Magma
+  - Fork: Forge/Spigot/Paper/Thermos --> Magma
   - Description: Software that allows the use of Forge Mods and Bukkit/Spigot/Paper plugins on your server
   - Link: https://magmafoundation.org
   - Plugins: ✔️ (Bukkit, Spigot, Paper) 
   - Mods: ✔️ (Forge) 
 
 ### 🪐 Mohist
-  - Version: 1.12.2, 1.16.5
+  - Active: ✔️
+  - Version: 1.7.10 (Depracated), 1.12.2, 1.16.5, 1.18.2 (Experimental)
   - Author: Mgazul
   - Fork: Forge/Spigot/Paper/Atom/Thermos/um_bukkit --> Mohist
   - Description: Software that allows the use of Forge Mods and Bukkit/Spigot/Paper plugins on your server
@@ -176,6 +196,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Mods: ✔️ (Forge)   
 
 ### 🏔 Arclight
+  - Active: ✔️
   - Version: 1.14-1.18.1
   - Author: IzzelAliz
   - Fork: Forge/Bukkit/Spigot --> Arclight
@@ -184,7 +205,8 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Plugins: ✔️ (Bukkit, Spigot, Paper) 
   - Mods: ✔️ (Forge)   
 
-### 🌫️ Mist [ABANDONED]
+### 🌫️ Mist
+  - Active: ❌ (Alternative: Mohist)
   - Version: 1.16.5
   - Author: KR33PY
   - Fork: Forge/Spigot/Paper/Atom/Thermos/um_bukkit --> Mohist --> Mist
@@ -194,6 +216,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Mods: ✔️ (Forge)   
 
 ### 😺 CatServer
+  - Active: ✔️
   - Version: 1.12.2
   - Author: Luohuayu
   - Fork: Forge/Spigot/Paper --> CatServer
@@ -203,6 +226,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Mods: ✔️ (Forge) 
 
 ### 🧽 SpongeForge
+  - Active: ✔️
   - Version: 1.10.2-1.12.2
   - Author: SpongePowered
   - Fork: -
@@ -212,37 +236,51 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Mods: ✔️ (Forge)
 
 ### 🧻 Cardboard (Bukkit for Fabric)
+  - Active: ✔️
   - Version: 1.16.4-1.18.1
   - Author: IsaiahPatton (CardboardPowered)
-  - Fork: -
+  - Fork: Fabric/Bukkit/Spigot/Paper --> Cardboard
   - Description: Fabric Mod that allows the use of Bukkit/Spigot/Paper Plugins (ALPHA!)
   - Link: https://www.curseforge.com/minecraft/mc-mods/bukkit
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
   - Mods: ✔️ (Fabric)
 
-### ☕️ Thermos [ABANDONED]
+### ☕️ Thermos
+  - Active: ❌ (Alternative: Crucible)
   - Version: 1.7.10
   - Author: CyberdyneCC
-  - Fork: kCauldron --> Thermos
+  - Fork: Forge/Bukkit --> MCPC+ --> Cauldron --> kCauldron --> Thermos
   - Description: Software that allows the use of Forge Mods and Bukkit/Spigot/Paper plugins on your server
   - Link: https://github.com/CyberdyneCC/Thermos
   - Plugins: ✔️ (Bukkit, Spigot)
   - Mods: ✔️ (Forge)
 
-### ☕️ Crucible
+### 🧺 Crucible
+  - Active: ✔️
   - Version: 1.7.10
   - Author: CrucibleMC
-  - Fork: kCauldron --> Thermos --> Crucible
+  - Fork: Forge/Bukkit --> MCPC+ --> Cauldron --> kCauldron --> Thermos --> Crucible
   - Description: Updated version of Thermos with bug fixes and improvements
   - Link: https://github.com/CrucibleMC/Crucible
   - Plugins: ✔️ (Bukkit, Spigot)
   - Mods: ✔️ (Forge)
 
 ### ☢️ Uranium
+  - Active: ✔️
   - Version: 1.7.10
   - Author: UraniumMC
-  - Fork: kCauldron --> Uranium
+  - Fork: Forge/Bukkit --> MCPC+ --> Cauldron --> kCauldron --> Uranium
   - Description: Software that allows the use of Forge Mods and Bukkit/Spigot/Paper plugins on your server
   - Link: https://github.com/UraniumMC/Uranium
+  - Plugins: ✔️ (Bukkit, Spigot)
+  - Mods: ✔️ (Forge)
+
+### 🗑 (k)Cauldron/MCPC+
+  - Active: ❌ (Alternative: Crucible)
+  - Version: 1.6.4, 1.7.2, 1.7.10
+  - Author: Various authors
+  - Fork: Forge/Bukkit --> MCPC+ --> Cauldron --> kCauldron
+  - Description: Software that allows the use of Forge Mods and Bukkit plugins on your server (very old, not updated, not recommended)
+  - Link: https://sourceforge.net/projects/cauldron-unofficial/ (no official download!)
   - Plugins: ✔️ (Bukkit, Spigot)
   - Mods: ✔️ (Forge)
