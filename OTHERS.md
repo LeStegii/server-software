@@ -2,6 +2,7 @@
 This list contains softwares that are related to minecraft servers but are no servers or proxies.
 
 ### 💧 GeyserMC 
+  - Active: ✔️
   - Version: Latest Bedrock/Java Server Version
   - Author: GeyserMC
   - Fork: -
