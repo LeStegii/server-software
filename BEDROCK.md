@@ -4,6 +4,7 @@ This list contains Minecraft server softwares for Bedrock players.
 It's recommended to use [GeyserMC](https://github.com/UeberallGebannt/server-softwares/blob/master/OTHERS.md#-geysermc) (Bedrock to Java Bridge) instead.
   
 ### ☢️ Nukkit
+  - Active: ✔️
   - Author: CloudburstMC
   - Fork: -
   - Description: Server software for Minecraft: Pocket Edition written in Java
@@ -11,6 +12,7 @@ It's recommended to use [GeyserMC](https://github.com/UeberallGebannt/server-sof
   - Plugins: ✔️ (Nukkit)
   
 ### 💠 PocketMine-MP
+  - Active: ✔️
   - Author: pmmp
   - Fork: -
   - Description: Server software for Minecraft: Bedrock Edition written in PHP
