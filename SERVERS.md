@@ -25,7 +25,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
 
 ### 🪣 Bukkit/CraftBukkit
   - Active: ✔️
-  - Version: 1.8-1.18.1
+  - Version: Beta 1.2-1.18.1 (only 1.8+ official)
   - Author: various authors, maintained by md_5/SpigotMC
   - Fork: -
   - Description: Software that allows using plugins on servers
@@ -35,7 +35,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
 
 ### 🚰 Spigot
   - Active: ✔️
-  - Version: 1.8-1.18.1
+  - Version: 1.4.6-1.18.1 (only 1.8+ official)
   - Author: md_5/SpigotMC
   - Fork: Bukkit --> Spigot
   - Description: Bukkit with performance patches, more features and bungeecord support
