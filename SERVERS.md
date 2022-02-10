@@ -45,7 +45,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
 
 ### ✉️ Paper
   - Active: ✔️
-  - Version: 1.7.10-1.8.8, 1.12.2-1.18.1
+  - Version: 1.7.10-1.16.5 (Unsupported), 1.17.1-1.18.1
   - Author: PaperMC
   - Fork: Bukkit --> Spigot --> Paper
   - Description: Spigot with performance patches and more features
