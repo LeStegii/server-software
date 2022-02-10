@@ -107,7 +107,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Active: ✔️
   - Version: 1.14.4-1.18.1
   - Author: pl3xgaming 
-  - Fork: Bukkit --> Spigot --> Paper --> Tuinity --> Purpur
+  - Fork: Bukkit --> Spigot --> Paper --> Pufferfish --> Purpur
   - Description: Fork of Tuinity with the goal of providing new and interesting configuration options
   - Link: https://github.com/pl3xgaming/Purpur
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
