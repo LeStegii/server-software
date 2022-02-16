@@ -105,7 +105,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
 
 ### 🟣 Purpur
   - Active: ✔️
-  - Version: 1.14.4-1.18.1
+  - Version: 1.14.1-1.18.1
   - Author: pl3xgaming 
   - Fork: Bukkit --> Spigot --> Paper --> Pufferfish --> Purpur
   - Description: Fork of Tuinity with the goal of providing new and interesting configuration options
@@ -277,7 +277,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
 
 ### 🗑 (k)Cauldron/MCPC+
   - Active: ❌ (Alternative: Crucible)
-  - Version: 1.6.4, 1.7.2, 1.7.10
+  - Version: 1.2.5-1.7.10 (not all versions covered)
   - Author: Various authors
   - Fork: Forge/Bukkit --> MCPC+ --> Cauldron --> kCauldron
   - Description: Software that allows the use of Forge Mods and Bukkit plugins on your server (very old, not updated, not recommended)
