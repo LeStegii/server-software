@@ -54,12 +54,32 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Mods: ❌
 
 ### 🌮 TacoSpigot
-  - Active: ❌ (Alternative: Paper)
+  - Active: ❌ (Alternative: BurritoSpigot/NachoSpigot)
   - Version: 1.8.8, 1.11.2, 1.12.2
   - Author: Techcable
   - Fork: Bukkit --> Spigot --> Paper --> TacoSpigot
   - Description: Paper with even higher performance
   - Link: https://tacospigot.github.io/
+  - Plugins: ✔️ (Bukkit, Spigot, Paper)
+  - Mods: ❌
+
+### 🌯 BurritoSpigot
+  - Active: ✔️
+  - Version: 1.8.8
+  - Author: CobbleSword
+  - Fork: Bukkit --> Spigot --> Paper --> TacoSpigot --> BurritoSpigot
+  - Description: Fork of TacoSpigot with performance patches, bugfixes and new features.
+  - Link: https://github.com/CobbleSword/BurritoSpigot
+  - Plugins: ✔️ (Bukkit, Spigot, Paper)
+  - Mods: ❌
+
+### 🥟 NachoSpigot
+  - Active: ✔️
+  - Version: 1.8.8
+  - Author: CobbleSword
+  - Fork: Bukkit --> Spigot --> Paper --> TacoSpigot + other Forks --> NachoSpigot
+  - Description: Fork of TacoSpigot with performance patches, bugfixes and new features.
+  - Link: https://github.com/CobbleSword/NachoSpigot
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
   - Mods: ❌
 
