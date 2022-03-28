@@ -14,5 +14,7 @@ Click the links below to get to the different lists.
 📘 <a href="OTHERS.md">Others (GeyserMC, ...)</a>
 </br></br>
 📀 Recommend softwares for different uses: <a href="RECOMMEND.md">Click here</a>
+</br></br>
+❗ This List will only help you to pick a software, it will not help you to [optimize](https://github.com/YouHaveTrouble/minecraft-optimization) it. Picking the correct software always helps though.
 
 Original idea by Razva (<a href="https://gist.github.com/Razva/e7304fb80a210639107a35838dee2832">Click here</a>).
