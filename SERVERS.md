@@ -25,7 +25,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
 
 ### 🪣 Bukkit/CraftBukkit
   - Active: ✔️
-  - Version: Beta 1.2-1.18.1 (only 1.8+ official)
+  - Version: Beta 1.2-1.18.2 (only 1.8+ official)
   - Author: various authors, maintained by md_5/SpigotMC
   - Fork: -
   - Description: Software that allows using plugins on servers
@@ -35,7 +35,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
 
 ### 🚰 Spigot
   - Active: ✔️
-  - Version: 1.4.6-1.18.1 (only 1.8+ official)
+  - Version: 1.4.6-1.18.2 (only 1.8+ official)
   - Author: md_5/SpigotMC
   - Fork: Bukkit --> Spigot
   - Description: Bukkit with performance patches, more features and bungeecord support
@@ -45,7 +45,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
 
 ### ✉️ Paper
   - Active: ✔️
-  - Version: 1.7.10-1.16.5 (Unsupported), 1.17.1-1.18.1
+  - Version: 1.7.10-1.16.5 (Unsupported), 1.17.1-1.18.2
   - Author: PaperMC
   - Fork: Bukkit --> Spigot --> Paper
   - Description: Spigot with performance patches and more features
@@ -115,7 +115,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
 
 ### 🐡 Pufferfish
   - Active: ✔️
-  - Version: 1.18.1
+  - Version: 1.18.1-1.18.2
   - Author: pufferfish-gg
   - Fork: Bukkit --> Spigot --> Paper --> Airplane --> Pufferfish
   - Description: A highly optimized Paper fork designed for large servers.
@@ -125,7 +125,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
 
 ### 🟣 Purpur
   - Active: ✔️
-  - Version: 1.14.1-1.18.1
+  - Version: 1.14.1-1.18.2
   - Author: pl3xgaming 
   - Fork: Bukkit --> Spigot --> Paper --> Pufferfish --> Purpur
   - Description: Fork of Tuinity with the goal of providing new and interesting configuration options
@@ -155,7 +155,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
 
 ### 🧽 SpongeVanilla
   - Active: ✔️
-  - Version: 1.8-1.12.2
+  - Version: 1.8-1.12.2, 1.15.2-1.18.1
   - Author: SpongePowered
   - Fork: -
   - Description: Software that allows the use of Sponge plugins without mods
@@ -167,7 +167,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
 
 ### 🔨 Forge
   - Active: ✔️
-  - Version: 1.1-1.18.1
+  - Version: 1.1-1.18.2
   - Author: MinecraftForge
   - Fork: -
   - Description: Software that allows the use of Forge Mods on your server
@@ -197,7 +197,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
 
 ### 🔶 Magma
   - Active: ✔️
-  - Version: 1.12.2, 1.15.2 (Deprecated), 1.16.5
+  - Version: 1.12.2, 1.15.2 (Deprecated), 1.16.5, 1.18.2 (Experimental)
   - Author: MagmaFoundation/Hexeption
   - Fork: Forge/Spigot/Paper/Thermos --> Magma
   - Description: Software that allows the use of Forge Mods and Bukkit/Spigot/Paper plugins on your server
@@ -217,7 +217,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
 
 ### 🏔 Arclight
   - Active: ✔️
-  - Version: 1.14-1.18.1
+  - Version: 1.14-1.18.2
   - Author: IzzelAliz
   - Fork: Forge/Bukkit/Spigot --> Arclight
   - Description: A Bukkit(1.16/1.18) server implementation on Forge using Mixin.
@@ -247,7 +247,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
 
 ### 🧽 SpongeForge
   - Active: ✔️
-  - Version: 1.10.2-1.12.2
+  - Version: 1.10.2-1.12.2, 1.16.5
   - Author: SpongePowered
   - Fork: -
   - Description: Forge Mod that allows the use of Sponge Plugins

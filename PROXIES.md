@@ -3,7 +3,7 @@ Proxies manage different single minecraft servers and manage player connections 
 
 ### 🌐 Bungeecord
   - Active: ✔️
-  - Version: 1.8 - 1.18.1
+  - Version: 1.8 - 1.18.2
   - Author: md_5/SpigotMC
   - Fork:
   - Description: Proxy that manages spigot servers and connects players to it
@@ -11,7 +11,7 @@ Proxies manage different single minecraft servers and manage player connections 
   
 ### 🛑 Hexacord
   - Active: ✔️
-  - Version: 1.7.10 - 1.18.1
+  - Version: 1.7.10 - 1.18.2
   - Author: HexagonMC
   - Fork: Bungeecord --> Hexacord
   - Description: Bungeecord with basic 1.7 and 1.7 forge support
@@ -27,7 +27,7 @@ Proxies manage different single minecraft servers and manage player connections 
   
 ### 🌊 Waterfall
   - Active: ✔️
-  - Version: 1.8 - 1.18.1
+  - Version: 1.8 - 1.18.2
   - Author: PaperMC
   - Fork: Bungeecord --> Waterfall
   - Description: Bungeecord focused on stability, new features and scalability
@@ -35,7 +35,7 @@ Proxies manage different single minecraft servers and manage player connections 
 
 ### ️‍🔥 FlameCord
   - Active: ✔️
-  - Version: 1.8 - 1.18.1
+  - Version: 1.8 - 1.18.2
   - Author: 2lstudios-mc
   - Fork: Bungeecord --> Waterfall --> FlameCord
   - Description: Waterfall fork with Netty Exploits fixes and built-in firewall
@@ -51,7 +51,7 @@ Proxies manage different single minecraft servers and manage player connections 
   
 ### 🌠 Velocity
   - Active: ✔️
-  - Version: 1.7.2 - 1.18.1
+  - Version: 1.7.2 - 1.18.2
   - Author: VelocityPowered
   - Fork: -
   - Description: Proxy with unparalleled server support, scalability, and flexibility.
