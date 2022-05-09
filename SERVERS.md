@@ -153,6 +153,16 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
   - Mods: ❌
 
+### 🏞 Canyon
+  - Active: ✔️
+  - Version: Beta 1.7.3
+  - Author: canyonmodded
+  - Fork: -
+  - Description: Canyon is a fork of CraftBukkit for Minecraft Beta 1.7.3 including enhancements from Spigot/Paper while maintaining compatibility 
+  - Link: https://github.com/canyonmodded/canyon
+  - Plugins: ✔️ (Bukkit, Spigot)
+  - Mods: ❌
+
 ### 🧽 SpongeVanilla
   - Active: ✔️
   - Version: 1.8-1.12.2, 1.15.2-1.18.1
