@@ -133,6 +133,17 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
   - Mods: ❌
 
+### 🔗 Matter
+  - Active: ✔️
+  - Version: 1.18.2
+  - Author: Plasmo 
+  - Fork: Bukkit --> Spigot --> Paper --> Pufferfish --> Matter
+  - Description: Fork of Pufferfish making the server seed uncrackable.
+  - Link: https://github.com/plasmoapp/matter/
+  - Plugins: ✔️ (Bukkit, Spigot, Paper)
+  - Mods: ❌
+
+
 ### ⬛️ Yatopia
   - Active: ❌ (Alternative: Purpur)
   - Version: 1.16.5
