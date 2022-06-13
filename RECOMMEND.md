@@ -11,7 +11,7 @@ Here you can find the recommended softwares for your use case.
   - If you want to use plugins on your **1.7.10** server use [PaperSpigot](https://github.com/UeberallGebannt/server-softwares/blob/master/SERVERS.md#-paperspigot).
   - If you want to use plugins on your **1.8-1.16** server use [Paper Legacy](https://github.com/UeberallGebannt/server-softwares/blob/master/SERVERS.md#-paper).
   - If you want to use plugins on your **1.17** server use [Paper Legacy](https://github.com/UeberallGebannt/server-softwares/blob/master/SERVERS.md#-paper) or [Airplane](https://github.com/UeberallGebannt/server-softwares/blob/master/SERVERS.md#-airplane).
-  - If you want to use plugins on your **1.18** server use [Paper](https://github.com/UeberallGebannt/server-softwares/blob/master/SERVERS.md#-paper) or [Pufferfish](https://github.com/UeberallGebannt/server-softwares/blob/master/SERVERS.md#-pufferfish) or [Purpur](https://github.com/UeberallGebannt/server-softwares/blob/master/SERVERS.md#-purpur).
+  - If you want to use plugins on your **1.18/1.19** server use [Paper](https://github.com/UeberallGebannt/server-softwares/blob/master/SERVERS.md#-paper) or [Pufferfish](https://github.com/UeberallGebannt/server-softwares/blob/master/SERVERS.md#-pufferfish) or [Purpur](https://github.com/UeberallGebannt/server-softwares/blob/master/SERVERS.md#-purpur).
   - If you want to use plugins on **Beta 1.7.3** use [Canyon](https://github.com/UeberallGebannt/server-softwares/blob/master/SERVERS.md#-canyon).
   
 ### 🔨 Minecraft with mods
