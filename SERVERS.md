@@ -325,3 +325,85 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Link: https://sourceforge.net/projects/cauldron-unofficial/ (no official download!)
   - Plugins: ✔️ (Bukkit, Spigot)
   - Mods: ✔️ (Forge)
+
+## Other (Not based on Bukkit/Forge/Fabric)
+
+### 🎲 Cuberite
+  - Active: ✔️
+  - Version: 1.8-1.12.2
+  - Author: cuberite
+  - Fork: -
+  - Description: A lightweight, fast and extensible game server for Minecraft written in C++
+  - Link: https://cuberite.org/
+  - Plugins: ✔️ (Cuberite Lua)
+  - Mods: ❌
+
+### ✴️ Minestom
+  - Active: ✔️
+  - Version: -
+  - Author: Minestom
+  - Fork: -
+  - Description: Minestom is an open-source library that enables developers to create their own Minecraft server software, without any code from Mojang.
+  - Link: https://minestom.net/
+  - Plugins: ✔️ (Minestom implementations)
+  - Mods: ❌
+
+### ♻️ TrueCraft
+  - Active: ❌
+  - Version: Beta 1.7.3
+  - Author: ddevault
+  - Fork: -
+  - Description: A completely clean-room implementation of Minecraft beta 1.7.3 (Fork of Minecraft).
+  - Link: https://github.com/ddevault/TrueCraft
+  - Plugins: ❌
+  - Mods: ❌
+
+### 💡 Krypton
+  - Active: ✔️
+  - Version: -
+  - Author: KryptonMC
+  - Fork: -
+  - Description: Krypton is free and open-source Minecraft server software, written from scratch in Kotlin, without Mojang code.
+  - Link: https://github.com/KryptonMC/Krypton
+  - Plugins: ❌
+  - Mods: ❌
+
+### 💡 Krypton
+  - Active: ✔️
+  - Version: -
+  - Author: KryptonMC
+  - Fork: -
+  - Description: Krypton is free and open-source Minecraft server software, written from scratch in Kotlin, without Mojang code.
+  - Link: https://github.com/KryptonMC/Krypton
+  - Plugins: ❌
+  - Mods: ❌
+
+### 🌎 hMod
+  - Active: ❌
+  - Version: Beta
+  - Author: traitor
+  - Fork: -
+  - Description: Server administration mod and API for Minecraft beta multiplayer server (inspiration for Bukkit)
+  - Link: https://github.com/traitor/Minecraft-Server-Mod
+  - Plugins: ✔️ (hMod)
+  - Mods: ❌
+
+### 🐦 CanaryMod
+  - Active: ❌
+  - Version: Beta
+  - Author: CanaryModTeam
+  - Fork: -
+  - Description: A fork of hMod
+  - Link: https://canarymod.net/
+  - Plugins: ✔️ (hMod)
+  - Mods: ❌
+
+### 🎂 hCraft
+  - Active: ❌
+  - Version: 1.7.2
+  - Author: BizzareCake
+  - Fork: -
+  - Description: a custom implementation of a Minecraft server striving to be fast, customizable and easy to use.
+  - Link: https://github.com/BizarreCake/hCraft
+  - Plugins: ❌
+  - Mods: ❌
