@@ -25,7 +25,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
 
 ### 🪣 Bukkit/CraftBukkit
   - Active: ✔️
-  - Version: Beta 1.2-1.18.2 (only 1.8+ official)
+  - Version: Beta 1.2-1.19 (only 1.8+ official)
   - Author: various authors, maintained by md_5/SpigotMC
   - Fork: -
   - Description: Software that allows using plugins on servers
@@ -35,7 +35,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
 
 ### 🚰 Spigot
   - Active: ✔️
-  - Version: 1.4.6-1.18.2 (only 1.8+ official)
+  - Version: 1.4.6-1.19 (only 1.8+ official)
   - Author: md_5/SpigotMC
   - Fork: Bukkit --> Spigot
   - Description: Bukkit with performance patches, more features and bungeecord support
@@ -45,7 +45,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
 
 ### ✉️ Paper
   - Active: ✔️
-  - Version: 1.7.10-1.16.5 (Unsupported), 1.17.1-1.18.2
+  - Version: 1.7.10-1.16.5 (Unsupported), 1.17.1-1.19
   - Author: PaperMC
   - Fork: Bukkit --> Spigot --> Paper
   - Description: Spigot with performance patches and more features
@@ -115,7 +115,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
 
 ### 🐡 Pufferfish
   - Active: ✔️
-  - Version: 1.18.1-1.18.2
+  - Version: 1.18.1-1.19
   - Author: pufferfish-gg
   - Fork: Bukkit --> Spigot --> Paper --> Airplane --> Pufferfish
   - Description: A highly optimized Paper fork designed for large servers.
@@ -125,7 +125,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
 
 ### 🟣 Purpur
   - Active: ✔️
-  - Version: 1.14.1-1.18.2
+  - Version: 1.14.1-1.19
   - Author: pl3xgaming 
   - Fork: Bukkit --> Spigot --> Paper --> Pufferfish --> Purpur
   - Description: Fork of Tuinity/Pufferfish with the goal of providing new and interesting configuration options
@@ -188,7 +188,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
 
 ### 🔨 Forge
   - Active: ✔️
-  - Version: 1.1-1.18.2
+  - Version: 1.1-1.19
   - Author: MinecraftForge
   - Fork: -
   - Description: Software that allows the use of Forge Mods on your server
@@ -208,7 +208,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
 
 ### 🧻 Fabric
   - Active: ✔️
-  - Version: 1.14.4-1.18.1
+  - Version: 1.14.4-1.19
   - Author: FabricMC
   - Fork: -
   - Description: Software that allows the use of Fabric Mods on your server
@@ -228,7 +228,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
 
 ### 🪐 Mohist
   - Active: ✔️
-  - Version: 1.7.10 (Depracated), 1.12.2, 1.16.5, 1.18.2 (Experimental)
+  - Version: 1.7.10 (Depracated), 1.12.2, 1.16.5, 1.18.2-1.19 (Experimental)
   - Author: Mgazul
   - Fork: Forge/Spigot/Paper/Atom/Thermos/um_bukkit --> Mohist
   - Description: Software that allows the use of Forge Mods and Bukkit/Spigot/Paper plugins on your server
