@@ -368,16 +368,6 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Plugins: ❌
   - Mods: ❌
 
-### 💡 Krypton
-  - Active: ✔️
-  - Version: -
-  - Author: KryptonMC
-  - Fork: -
-  - Description: Krypton is free and open-source Minecraft server software, written from scratch in Kotlin, without Mojang code.
-  - Link: https://github.com/KryptonMC/Krypton
-  - Plugins: ❌
-  - Mods: ❌
-
 ### 🌎 hMod
   - Active: ❌
   - Version: Beta
