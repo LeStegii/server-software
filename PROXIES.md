@@ -56,3 +56,11 @@ Proxies manage different single minecraft servers and manage player connections 
   - Fork: -
   - Description: Proxy with unparalleled server support, scalability, and flexibility.
   - Link: https://www.velocitypowered.com/
+
+### 🐕 WaterdogPE
+  - Active: ✔️
+  - Version: -
+  - Author: WaterdogPE
+  - Fork: -
+  - Description: Proxy for Minecraft Bedrock (PE)
+  - Link: https://github.com/WaterdogPE/WaterdogPE
