@@ -10,7 +10,7 @@ Proxies manage different single minecraft servers and manage player connections 
   - Link: https://github.com/SpigotMC/BungeeCord
   
 ### 🛑 Hexacord
-  - Active: ✔️
+  - Active: ❌ (Alternative: Velocity/Waterfall)
   - Version: 1.7.10 - 1.19
   - Author: HexagonMC
   - Fork: Bungeecord --> Hexacord
@@ -18,7 +18,7 @@ Proxies manage different single minecraft servers and manage player connections 
   - Link: https://github.com/HexagonMC/BungeeCord
   
 ### 🕳 KettleCord
-  - Active: ❌ (Alternative: Hexacord/Waterfall)
+  - Active: ❌ (Alternative: Velocity/Waterfall)
   - Version: 1.7.10 - 1.17.1
   - Author: UeberallGebannt/KettleMC
   - Fork: Bungeecord --> Hexacord --> KettleCord
@@ -42,7 +42,7 @@ Proxies manage different single minecraft servers and manage player connections 
   - Link: https://github.com/2lstudios-mc/FlameCord
   
 ### 🌌 Travertine
-  - Active: ❌ (Alternative: Hexacord/Waterfall)
+  - Active: ❌ (Alternative: Velocity/Waterfall)
   - Version: 1.7.10 - 1.16.5
   - Author: PaperMC
   - Fork: Bungeecord --> Waterfall --> Travertine
