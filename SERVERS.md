@@ -133,6 +133,16 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
   - Mods: ❌
 
+### 🍂 Petal
+  - Active: ✔️
+  - Version: 1.19
+  - Author: Bloom Host 
+  - Fork: Bukkit --> Spigot --> Paper --> Pufferfish --> Purpur --> Petal
+  - Description: Performance-oriented fork of Purpur implementing multi-threaded and asynchronous improvements.
+  - Link: https://github.com/Bloom-host/Petal
+  - Plugins: ✔️ (Bukkit, Spigot, Paper)
+  - Mods: ❌
+
 ### 🔗 Matter
   - Active: ✔️
   - Version: 1.18.2
