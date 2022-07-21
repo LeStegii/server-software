@@ -143,6 +143,16 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
   - Mods: ❌
 
+### 🦈 Sharkur
+  - Active: ✔️
+  - Version: 1.19
+  - Author: SharkurMC
+  - Fork: Bukkit --> Spigot --> Paper --> Pufferfish --> Purpur --> Sharkur
+  - Description: Fork of Purpur which adds more configuration and also some optimalization. 
+  - Link: https://github.com/SharkurMC/Sharkur
+  - Plugins: ✔️ (Bukkit, Spigot, Paper)
+  - Mods: ❌
+
 ### 🔗 Matter
   - Active: ✔️
   - Version: 1.18.2
