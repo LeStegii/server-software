@@ -14,9 +14,9 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
 ### 🌍 Vanilla Minecraft
   - Active: ✔️
   - Version: Alpha 1.0.15-LATEST
-  - Author: Mojang
+  - Author: Mojang Studio (Microsoft)
   - Fork: -
-  - Description: Official Minecraft Vanilla Multiplayer server by Mojang
+  - Description: Official Minecraft Vanilla Multiplayer server by Mojang Studio (Microsoft)
   - Link: https://www.minecraft.net/download/server (or in the launcher)
   - Plugins: ❌
   - Mods: ❌
