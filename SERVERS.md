@@ -83,6 +83,16 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
   - Mods: ❌
 
+### 🌬️ WindSpigot
+  - Active: ✔️
+  - Version: 1.8.8
+  - Author: Wind-Development
+  - Fork: Bukkit --> Spigot --> Paper --> TacoSpigot + other Forks --> NachoSpigot --> WindSpigot
+  - Description: Minecraft server software focused on improving overall server performance and pvp mechanics.
+  - Link: https://github.com/Wind-Development/WindSpigot
+  - Plugins: ✔️ (Bukkit, Spigot, Paper)
+  - Mods: ❌
+
 ### ⚽ SportPaper
   - Active: ✔️
   - Version: 1.8.8
@@ -174,16 +184,6 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
   - Mods: ❌
 
-### 🔆 Glowstone
-  - Active: ✔️
-  - Version: 1.12.2, 1.16.5
-  - Author: GlowstoneMC
-  - Fork: -
-  - Description: Completely open source Minecraft server that doesn't rely on any of Mojang's code and supports Bukkit/Spigot/Paper plugins
-  - Link: https://glowstone.net/
-  - Plugins: ✔️ (Bukkit, Spigot, Paper)
-  - Mods: ❌
-
 ### 🏞 Canyon
   - Active: ✔️
   - Version: Beta 1.7.3
@@ -192,6 +192,16 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Description: Canyon is a fork of CraftBukkit for Minecraft Beta 1.7.3 including enhancements from Spigot/Paper while maintaining compatibility 
   - Link: https://github.com/canyonmodded/canyon
   - Plugins: ✔️ (Bukkit, Spigot)
+  - Mods: ❌
+
+### 🔆 Glowstone
+  - Active: ✔️
+  - Version: 1.12.2, 1.16.5
+  - Author: GlowstoneMC
+  - Fork: -
+  - Description: Completely open source Minecraft server that doesn't rely on any of Mojang's code and supports Bukkit/Spigot/Paper plugins
+  - Link: https://glowstone.net/
+  - Plugins: ✔️ (Bukkit, Spigot, Paper)
   - Mods: ❌
 
 ### 🧽 SpongeVanilla
