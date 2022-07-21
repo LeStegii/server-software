@@ -93,6 +93,16 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
   - Mods: ❌
 
+### 🏀 SportBukkit
+  - Active: ❌ (Alternative: Paper/SportPaper)
+  - Version: 1.8.8
+  - Author: OvercastNetwork/StratusNetwork
+  - Fork: CraftBukkit --> SportBukkit
+  - Description: CraftBukkit modifications and Bukkit API additions that fix bugs, add new features, and improve the quality of life.
+  - Link: https://github.com/StratusNetwork/SportBukkit
+  - Plugins: ✔️ (Bukkit)
+  - Mods: ❌
+
 ### ⚽ SportPaper
   - Active: ✔️
   - Version: 1.8.8
