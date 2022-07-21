@@ -37,7 +37,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Active: ✔️
   - Version: 1.4.6-1.19 (only 1.8+ official)
   - Author: md_5/SpigotMC
-  - Fork: Bukkit --> Spigot
+  - Fork: CraftBukkit --> Spigot
   - Description: Bukkit with performance patches, more features and bungeecord support
   - Link: https://www.spigotmc.org/wiki/buildtools/
   - Plugins: ✔️ (Bukkit, Spigot)
@@ -47,7 +47,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Active: ✔️
   - Version: 1.7.10-1.16.5 (Unsupported), 1.17.1-1.19
   - Author: PaperMC
-  - Fork: Bukkit --> Spigot --> Paper
+  - Fork: CraftBukkit --> Spigot --> Paper
   - Description: Spigot with performance patches and more features
   - Link: https://papermc.io/  
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
@@ -57,7 +57,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Active: ❌ (Alternative: BurritoSpigot/Paper)
   - Version: 1.8.8, 1.11.2, 1.12.2
   - Author: Techcable
-  - Fork: Bukkit --> Spigot --> Paper --> TacoSpigot
+  - Fork: CraftBukkit --> Spigot --> Paper --> TacoSpigot
   - Description: Paper with even higher performance
   - Link: https://tacospigot.github.io/
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
@@ -67,7 +67,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Active: ✔️
   - Version: 1.8.8
   - Author: CobbleSword
-  - Fork: Bukkit --> Spigot --> Paper --> TacoSpigot --> BurritoSpigot
+  - Fork: CraftBukkit --> Spigot --> Paper --> TacoSpigot --> BurritoSpigot
   - Description: Fork of TacoSpigot with performance patches, bugfixes and new features.
   - Link: https://github.com/CobbleSword/BurritoSpigot
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
@@ -77,7 +77,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Active: ❌ (Alternative: BurritoSpigot/Paper)
   - Version: 1.8.8
   - Author: CobbleSword
-  - Fork: Bukkit --> Spigot --> Paper --> TacoSpigot + other Forks --> NachoSpigot
+  - Fork: CraftBukkit --> Spigot --> Paper --> TacoSpigot + other Forks --> NachoSpigot
   - Description: Fork of TacoSpigot with performance patches, bugfixes and new features.
   - Link: https://github.com/CobbleSword/NachoSpigot
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
@@ -87,7 +87,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Active: ✔️
   - Version: 1.8.8
   - Author: Wind-Development
-  - Fork: Bukkit --> Spigot --> Paper --> TacoSpigot + other Forks --> NachoSpigot --> WindSpigot
+  - Fork: CraftBukkit --> Spigot --> Paper --> TacoSpigot + other Forks --> NachoSpigot --> WindSpigot
   - Description: Minecraft server software focused on improving overall server performance and pvp mechanics.
   - Link: https://github.com/Wind-Development/WindSpigot
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
@@ -107,7 +107,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Active: ✔️
   - Version: 1.8.8
   - Author: Electroid
-  - Fork: Bukkit --> Spigot --> Paper --> SportPaper
+  - Fork: CraftBukkit --> Spigot --> Paper --> SportPaper
   - Description: A fork of Paper 1.8 with changes for the Stratus Network using Magnet's build system.
   - Link: https://github.com/Electroid/SportPaper
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
@@ -127,7 +127,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Active: ❌ (Merged into Paper)
   - Version: 1.15.2, 1.16.5, 1.17.1
   - Author: Spottedleaf
-  - Fork: Bukkit --> Spigot --> Paper --> Tuinity
+  - Fork: CraftBukkit --> Spigot --> Paper --> Tuinity
   - Description: Fork of Paper aimed at improving server performance at high playercounts
   - Link: https://github.com/Spottedleaf/Tuinity
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
@@ -137,7 +137,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Active: ❌ (Alternative: Pufferfish)
   - Version: 1.16.5-1.17.1
   - Author: TECHNOVÉ
-  - Fork: Bukkit --> Spigot --> Paper --> Tuinity --> Airplane
+  - Fork: CraftBukkit --> Spigot --> Paper --> Tuinity --> Airplane
   - Description: A stable, optimized, well supported Paper fork. 
   - Link: https://github.com/TECHNOVE/Airplane
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
@@ -147,7 +147,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Active: ✔️
   - Version: 1.18.1-1.19
   - Author: pufferfish-gg
-  - Fork: Bukkit --> Spigot --> Paper --> Airplane --> Pufferfish
+  - Fork: CraftBukkit --> Spigot --> Paper --> Airplane --> Pufferfish
   - Description: A highly optimized Paper fork designed for large servers.
   - Link: https://github.com/pufferfish-gg/Pufferfish
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
@@ -157,7 +157,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Active: ✔️
   - Version: 1.14.1-1.19
   - Author: pl3xgaming 
-  - Fork: Bukkit --> Spigot --> Paper --> Pufferfish --> Purpur
+  - Fork: CraftBukkit --> Spigot --> Paper --> Pufferfish --> Purpur
   - Description: Fork of Tuinity/Pufferfish with the goal of providing new and interesting configuration options
   - Link: https://github.com/pl3xgaming/Purpur
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
@@ -167,7 +167,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Active: ✔️
   - Version: 1.19
   - Author: Bloom Host 
-  - Fork: Bukkit --> Spigot --> Paper --> Pufferfish --> Purpur --> Petal
+  - Fork: CraftBukkit --> Spigot --> Paper --> Pufferfish --> Purpur --> Petal
   - Description: Performance-oriented fork of Purpur implementing multi-threaded and asynchronous improvements.
   - Link: https://github.com/Bloom-host/Petal
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
@@ -177,7 +177,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Active: ✔️
   - Version: 1.19
   - Author: SharkurMC
-  - Fork: Bukkit --> Spigot --> Paper --> Pufferfish --> Purpur --> Sharkur
+  - Fork: CraftBukkit --> Spigot --> Paper --> Pufferfish --> Purpur --> Sharkur
   - Description: Fork of Purpur which adds more configuration and also some optimalization. 
   - Link: https://github.com/SharkurMC/Sharkur
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
@@ -187,7 +187,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Active: ✔️
   - Version: 1.18.2-1.19
   - Author: Plasmo 
-  - Fork: Bukkit --> Spigot --> Paper --> Pufferfish --> Matter
+  - Fork: CraftBukkit --> Spigot --> Paper --> Pufferfish --> Matter
   - Description: Fork of Pufferfish making the server seed uncrackable.
   - Link: https://github.com/plasmoapp/matter/
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
@@ -197,7 +197,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Active: ❌ (Alternative: Purpur)
   - Version: 1.16.5
   - Author: YatopiaMC
-  - Fork: Bukkit --> Spigot --> Paper --> Tuinity + other Forks --> Yatopia
+  - Fork: CraftBukkit --> Spigot --> Paper --> Tuinity + other Forks --> Yatopia
   - Description: Fork of Tuinity that combines the best patches from different forks (Note: not recommended and abandoned)
   - Link: https://github.com/YatopiaMC/Yatopia
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
@@ -207,7 +207,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Active: ✔️
   - Version: Beta 1.7.3
   - Author: canyonmodded
-  - Fork: -
+  - Fork: CraftBukkit --> Canyon
   - Description: Canyon is a fork of CraftBukkit for Minecraft Beta 1.7.3 including enhancements from Spigot/Paper while maintaining compatibility 
   - Link: https://github.com/canyonmodded/canyon
   - Plugins: ✔️ (Bukkit, Spigot)
@@ -289,7 +289,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Active: ✔️
   - Version: 1.14-1.18.2
   - Author: IzzelAliz
-  - Fork: Forge/Bukkit/Spigot --> Arclight
+  - Fork: Forge/CraftBukkit/Spigot --> Arclight
   - Description: A Bukkit(1.16/1.18) server implementation on Forge using Mixin.
   - Link: https://github.com/IzzelAliz/Arclight
   - Plugins: ✔️ (Bukkit, Spigot, Paper) 
@@ -329,7 +329,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Active: ✔️
   - Version: 1.16.4-1.18.1
   - Author: IsaiahPatton (CardboardPowered)
-  - Fork: Fabric/Bukkit/Spigot/Paper --> Cardboard
+  - Fork: Fabric/CraftBukkit/Spigot/Paper --> Cardboard
   - Description: Fabric Mod that allows the use of Bukkit/Spigot/Paper Plugins (ALPHA!)
   - Link: https://www.curseforge.com/minecraft/mc-mods/bukkit
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
@@ -349,7 +349,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Active: ✔️
   - Version: 1.7.10
   - Author: CrucibleMC
-  - Fork: Forge/Bukkit --> MCPC+ --> Cauldron --> kCauldron --> Thermos --> Crucible
+  - Fork: Forge/CraftBukkit --> MCPC+ --> Cauldron --> kCauldron --> Thermos --> Crucible
   - Description: Updated version of Thermos with bug fixes and improvements
   - Link: https://github.com/CrucibleMC/Crucible
   - Plugins: ✔️ (Bukkit, Spigot)
@@ -359,7 +359,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Active: ✔️
   - Version: 1.7.10
   - Author: UraniumMC
-  - Fork: Forge/Bukkit --> MCPC+ --> Cauldron --> kCauldron --> Uranium
+  - Fork: Forge/CraftBukkit --> MCPC+ --> Cauldron --> kCauldron --> Uranium
   - Description: Software that allows the use of Forge Mods and Bukkit/Spigot/Paper plugins on your server
   - Link: https://github.com/UraniumMC/Uranium
   - Plugins: ✔️ (Bukkit, Spigot)
@@ -369,7 +369,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Active: ❌ (Alternative: Crucible)
   - Version: 1.2.5-1.7.10 (not all versions covered)
   - Author: Various authors
-  - Fork: Forge/Bukkit --> MCPC+ --> Cauldron --> kCauldron
+  - Fork: Forge/CraftBukkit --> MCPC+ --> Cauldron --> kCauldron
   - Description: Software that allows the use of Forge Mods and Bukkit plugins on your server (very old, not updated, not recommended)
   - Link: https://sourceforge.net/projects/cauldron-unofficial/ (no official download!)
   - Plugins: ✔️ (Bukkit, Spigot)
