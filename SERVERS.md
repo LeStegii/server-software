@@ -113,6 +113,16 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
   - Mods: ❌
 
+### 🐼 PandaSpigot
+  - Active: ✔️
+  - Version: 1.8.8
+  - Author: hpfxd
+  - Fork: CraftBukkit --> Spigot --> Paper --> PandaSpigot
+  - Description: Fork of Paper for 1.8.8 focused on improved performance and stability.
+  - Link: https://github.com/hpfxd/PandaSpigot
+  - Plugins: ✔️ (Bukkit, Spigot, Paper)
+  - Mods: ❌
+
 ### ♠️ Tuinity
   - Active: ❌ (Merged into Paper)
   - Version: 1.15.2, 1.16.5, 1.17.1
@@ -182,7 +192,6 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Link: https://github.com/plasmoapp/matter/
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
   - Mods: ❌
-
 
 ### ⬛️ Yatopia
   - Active: ❌ (Alternative: Purpur)
