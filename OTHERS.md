@@ -16,3 +16,12 @@ This list contains softwares that are related to minecraft servers but are no se
   - Fork: CraftBukkit --> BukkitForge
   - Description: A Forge mod implementing CraftBukkit, allowing for plugins to be used on Forge.
   - Platforms: Forge
+
+
+### [🐟 Carbon](https://www.spigotmc.org/resources/1258/) 
+  - Active: ❌
+  - Version: 1.7.10
+  - Author: NavidK0
+  - Fork: -
+  - Description: Adds future Minecraft content (1.8 blocks/features) to older Spigot versions (1.7.10).
+  - Platforms: Spigot
