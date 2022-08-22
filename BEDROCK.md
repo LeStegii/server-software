@@ -18,3 +18,11 @@ It's recommended to use [GeyserMC](https://github.com/UeberallGebannt/server-sof
   - Description: Server software for Minecraft: Bedrock Edition written in PHP
   - Link: https://github.com/pmmp/PocketMine-MP
   - Plugins: ✔️ (PocketMine)
+
+### 🌍 Vanilla Bedrock (BDS)
+  - Active: ✔️
+  - Author: Mojang
+  - Fork: -
+  - Description: Server software for Minecraft: Bedrock Edition written in C++
+  - Link: https://www.minecraft.net/en-us/download/server/bedrock
+  - Plugins: ❌ (but behaviour and resource pack addons can be installed)
