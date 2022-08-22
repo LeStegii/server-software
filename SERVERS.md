@@ -157,6 +157,15 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
   - Mods: ❌
 
+### [🌸 Sakura](https://github.com/etil2jz/Sakura)
+  - Active: ✔️
+  - Version: 1.18.2
+  - Author: etil2jz
+  - Fork: CraftBukkit --> Spigot --> Paper --> Pufferfish --> Purpur --> Petal --> Sakura
+  - Description: Backport of Petal for 1.18.2
+  - Plugins: ✔️ (Bukkit, Spigot, Paper)
+  - Mods: ❌
+
 ### [🦈 Sharkur](https://github.com/SharkurMC/Sharkur)
   - Active: ✔️
   - Version: 1.19
