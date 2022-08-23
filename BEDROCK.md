@@ -35,9 +35,9 @@ It's recommended to use [GeyserMC](https://github.com/UeberallGebannt/server-sof
   - Plugins: ✔️ (PocketMine)
   - Addons: ❌
 
-### [🌍 Vanilla Bedrock (BDS)](https://www.minecraft.net/en-us/download/server/bedrock)
+### [🌍 Vanilla Bedrock (Bedrock Dedicated Server)](https://www.minecraft.net/en-us/download/server/bedrock)
   - Active: ✔️
-  - Author: Mojang
+  - Author: Mojang Studios (Microsoft)
   - Fork: -
   - Description: Server software for Minecraft: Bedrock Edition written in C++
   - Plugins: ❌
