@@ -3,11 +3,27 @@ This list contains Minecraft server softwares for Bedrock players.
 
 It's recommended to use [GeyserMC](https://github.com/UeberallGebannt/server-softwares/blob/master/OTHERS.md#-geysermc) (Bedrock to Java Bridge) instead.
   
-### [☢️ Nukkit](https://github.com/CloudburstMC/Nukkit)
+### [☢️ Nukkit (NukkitX)](https://github.com/CloudburstMC/Nukkit)
   - Active: ✔️
   - Author: CloudburstMC
+  - Fork: Nukkit --> NukkitX
+  - Description: Server software for Minecraft: Pocket Edition written in Java
+  - Plugins: ✔️ (Nukkit)
+  - Addons: ❌
+
+### [⚛️ Nukkit](https://github.com/Nukkit/Nukkit)
+  - Active: ❌ (Alternative: NukkitX/Cloudburst)
+  - Author: Nukkit
   - Fork: -
   - Description: Server software for Minecraft: Pocket Edition written in Java
+  - Plugins: ✔️ (Nukkit)
+  - Addons: ❌
+
+### [☁️ Cloudburst](https://github.com/CloudburstMC/Server)
+  - Active: ✔️
+  - Author: CloudburstMC
+  - Fork: Nukkit/NukkitX --> Cloudburst
+  - Description: Server software for Minecraft: Bedrock Edition written in Java
   - Plugins: ✔️ (Nukkit)
   - Addons: ❌
   
