@@ -193,6 +193,15 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
   - Mods: ❌
 
+### [💮 Akarin](https://github.com/Akarin-project/Akarin)
+  - Active: ❌ (Alternative: Paper)
+  - Version: 1.12.2
+  - Author: Akarin-project
+  - Fork: CraftBukkit --> Spigot --> Paper --> Tuinity --> Akarin
+  - Description: Akarin is a powerful server software from the 'new dimension' 
+  - Plugins: ✔️ (Bukkit, Spigot, Paper)
+  - Mods: ❌
+
 ### [🏞 Canyon](https://github.com/canyonmodded/canyon)
   - Active: ✔️
   - Version: Beta 1.7.3
