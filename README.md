@@ -1,4 +1,4 @@
-# 🖥 Server Softwares
+# <img style="float: right;" src="imgs/desktop_computer.png" width="16"> Server Softwares
 This repository contains lists of server softwares for minecraft.
 </br>
 **IMPORTANT!** Paid softwares/forks are not included.
