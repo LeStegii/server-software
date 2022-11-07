@@ -5,7 +5,7 @@ This repository contains lists of server softwares for minecraft.
 </br>
 Click the links below to get to the different lists.
 
-📕 <a href="PROXIES.md">Proxies (Bungeecord, Velocity ...)</a>
+<img style="float: right;" src="imgs/red_book.png"> <a href="PROXIES.md">Proxies (Bungeecord, Velocity ...)</a>
 </br>
 📗 <a href="SERVERS.md">Server (Spigot, Paper ...)</a>
 </br>
