@@ -6,6 +6,7 @@ The versions that are listed are the ones that you can download officially witho
 Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SERVERS.md#plugins) to go to Plugins.
 </br>
 Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SERVERS.md#mods) to go to Mods.
+
 ⚠️ **Warning!** If a project is not in active developement exploits such as Log4J could still work!
 
 ## Vanilla
