@@ -373,3 +373,68 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Author: KryptonMC
   - Fork: -
   - Description: Krypton is free and open-source Minecraft server software, written from scratch in Kotlin, without Mojang code.
+  - Plugins: ❌
+  - Mods: ❌
+
+### [⚓ Anchor](https://github.com/AnchorMC/Anchor)
+  - Active: ✔️
+  - Version: -
+  - Author: AnchorMC
+  - Fork: -
+  - Description: A Minecraft server implementation written in Go.
+  - Plugins: ❌
+  - Mods: ❌
+
+### [👨‍💻 AVR Craft](https://github.com/cnlohr/avrcraft)
+  - Active: ❌
+  - Version: -
+  - Author: 1.11, 1.15.2-1.16.5
+  - Fork: -
+  - Description: Minecraft server optimized for 8-bit devices written in C.
+  - Plugins: ❌
+  - Mods: ❌
+
+### [🧳 Basin](https://github.com/basinserver/Basin)
+  - Active: ❌
+  - Version: -
+  - Author: 1.10, 1.11
+  - Fork: -
+  - Description: A high performance Minecraft server implementation written in C compatible with Spigot (drop-in replacement).
+  - Plugins: ✔️ (Spigot, Basin C)
+  - Mods: ❌
+
+### [🪨 Bedrock](https://github.com/basinserver/Basin)
+  - Active: ❌
+  - Version: -
+  - Author: 1.7.10
+  - Fork: -
+  - Description: Bedrock is a Minecraft Server whose goal is to fully emulate vanilla Minecraft.
+  - Plugins: ❌
+  - Mods: ❌
+
+### [🌎 hMod](https://github.com/traitor/Minecraft-Server-Mod)
+  - Active: ❌
+  - Version: Beta
+  - Author: traitor
+  - Fork: -
+  - Description: Server administration mod and API for Minecraft beta multiplayer server (inspiration for Bukkit)
+  - Plugins: ✔️ (hMod)
+  - Mods: ❌
+
+### [🐦 CanaryMod](https://canarymod.net/)
+  - Active: ❌
+  - Version: Beta
+  - Author: CanaryModTeam
+  - Fork: -
+  - Description: A fork of hMod
+  - Plugins: ✔️ (hMod)
+  - Mods: ❌
+
+### [🎂 hCraft](https://github.com/BizarreCake/hCraft)
+  - Active: ❌
+  - Version: 1.7.2
+  - Author: BizzareCake
+  - Fork: -
+  - Description: A custom implementation of a Minecraft server striving to be fast, customizable and easy to use.
+  - Plugins: ❌
+  - Mods: ❌
