@@ -24,7 +24,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
 
 ### [🪣 Bukkit/CraftBukkit](https://www.spigotmc.org/wiki/buildtools/)
   - Active: ✔️
-  - Version: Beta 1.2-1.19.2 (only 1.8+ official)
+  - Version: Beta 1.2-1.19.3 (only 1.8+ official)
   - Author: various authors, maintained by md_5/SpigotMC
   - Fork: -
   - Description: Software that allows using plugins on servers
@@ -33,7 +33,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
 
 ### [🚰 Spigot](https://www.spigotmc.org/wiki/buildtools/)
   - Active: ✔️
-  - Version: 1.4.6-1.19.2 (only 1.8+ official)
+  - Version: 1.4.6-1.19.3 (only 1.8+ official)
   - Author: md_5/SpigotMC
   - Fork: CraftBukkit --> Spigot
   - Description: Bukkit with performance patches, more features and bungeecord support
@@ -42,7 +42,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
 
 ### [✉️ Paper](https://papermc.io/)
   - Active: ✔️
-  - Version: 1.7.10-1.16.5 (Unsupported), 1.17.1-1.19.2
+  - Version: 1.7.10-1.17.1 (Unsupported), 1.18.2-1.19.3
   - Author: PaperMC
   - Fork: CraftBukkit --> Spigot --> Paper
   - Description: Spigot with performance patches and more features
@@ -77,7 +77,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Mods: ❌
 
 ### [🌬️ WindSpigot](https://github.com/Wind-Development/WindSpigot)
-  - Active: ✔️
+  - Active: ❌Temporaly (Alternatice: BurritoSpigot/SportPaper)
   - Version: 1.8.8
   - Author: Wind-Development
   - Fork: CraftBukkit --> Spigot --> Paper --> TacoSpigot + other Forks --> NachoSpigot --> WindSpigot
@@ -132,7 +132,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
 
 ### [🐡 Pufferfish](https://github.com/pufferfish-gg/Pufferfish)
   - Active: ✔️
-  - Version: 1.18.1-1.19.2
+  - Version: 1.18.1-1.19.3
   - Author: pufferfish-gg
   - Fork: CraftBukkit --> Spigot --> Paper --> Airplane --> Pufferfish
   - Description: A highly optimized Paper fork designed for large servers.
@@ -141,7 +141,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
 
 ### [🟣 Purpur](https://github.com/pl3xgaming/Purpur)
   - Active: ✔️
-  - Version: 1.14.1-1.19.2
+  - Version: 1.14.1-1.19.3
   - Author: pl3xgaming 
   - Fork: CraftBukkit --> Spigot --> Paper --> Pufferfish --> Purpur
   - Description: Fork of Tuinity/Pufferfish with the goal of providing new and interesting configuration options
@@ -177,7 +177,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
 
 ### [🔗 Matter](https://github.com/plasmoapp/matter/)
   - Active: ✔️
-  - Version: 1.18.2-1.19.2
+  - Version: 1.18.2-1.19.3
   - Author: Plasmo 
   - Fork: CraftBukkit --> Spigot --> Paper --> Pufferfish --> Matter
   - Description: Fork of Pufferfish making the server seed uncrackable.
@@ -208,7 +208,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Author: MyCraftServerMC
   - Fork: -
   - Description: High performance Paper fork that aims to add more gameplay and mechanics.
-  - Plugins: ❌
+  - Plugins: ✔️ (Bukkit, Spigot, Paper)
   - Mods: ❌
 
 ### [🏞 Canyon](https://github.com/canyonmodded/canyon)
@@ -222,7 +222,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
 
 ### [🔆 Glowstone](https://glowstone.net/)
   - Active: ✔️
-  - Version: 1.12.2, 1.16.5
+  - Version: 1.12.2, 1.16.5, 1.19 (Experimental)
   - Author: GlowstoneMC
   - Fork: -
   - Description: Completely open source Minecraft server that doesn't rely on any of Mojang's code and supports Bukkit/Spigot/Paper plugins
@@ -231,7 +231,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
 
 ### [🧽 SpongeVanilla](https://www.spongepowered.org/downloads/spongevanilla/)
   - Active: ✔️
-  - Version: 1.8-1.12.2, 1.15.2-1.18.1
+  - Version: 1.8-1.19.3
   - Author: SpongePowered
   - Fork: -
   - Description: Software that allows the use of Sponge plugins without mods
@@ -242,7 +242,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
 
 ### [🔨 Forge](http://files.minecraftforge.net/)
   - Active: ✔️
-  - Version: 1.1-1.19.2
+  - Version: 1.1-1.19.3
   - Author: MinecraftForge
   - Fork: -
   - Description: Software that allows the use of Forge Mods on your server
@@ -260,7 +260,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
 
 ### [🧻 Fabric](https://fabricmc.net/)
   - Active: ✔️
-  - Version: 1.14.4-1.19.2
+  - Version: 1.14.4-1.19.3
   - Author: FabricMC
   - Fork: -
   - Description: Software that allows the use of Fabric Mods on your server
@@ -269,7 +269,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
 
 ### [🔶 Magma](https://magmafoundation.org)
   - Active: ✔️
-  - Version: 1.12.2, 1.15.2 (Deprecated), 1.16.5, 1.18.2 (Experimental)
+  - Version: 1.12.2, 1.15.2 (Deprecated), 1.16.5 (Unsupported), 1.18.2 (Experimental)
   - Author: MagmaFoundation/Hexeption
   - Fork: Forge/Spigot/Paper/Thermos --> Magma
   - Description: Software that allows the use of Forge Mods and Bukkit/Spigot/Paper plugins on your server
@@ -278,7 +278,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
 
 ### [🪐 Mohist](https://mohistmc.com)
   - Active: ✔️
-  - Version: 1.7.10 (Depracated), 1.12.2, 1.16.5, 1.18.2-1.19.2 (Experimental)
+  - Version: 1.7.10 (Depracated), 1.12.2, 1.16.5, 1.19.2 (Experimental)
   - Author: Mgazul
   - Fork: Forge/Spigot/Paper/Atom/Thermos/um_bukkit --> Mohist
   - Description: Software that allows the use of Forge Mods and Bukkit/Spigot/Paper plugins on your server
@@ -287,7 +287,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
 
 ### [🏔 Arclight](https://github.com/IzzelAliz/Arclight)
   - Active: ✔️
-  - Version: 1.14-1.18.2
+  - Version: 1.14-1.15.2 (Legacy), 1.16.5, 1.17.1 (Legacy), 1.18-1.19.3 
   - Author: IzzelAliz
   - Fork: Forge/CraftBukkit/Spigot --> Arclight
   - Description: A Bukkit(1.16/1.18) server implementation on Forge using Mixin.
@@ -305,7 +305,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
 
 ### [😺 CatServer](https://github.com/Luohuayu/CatServer)
   - Active: ✔️
-  - Version: 1.12.2
+  - Version: 1.12.2, 1.16.5, 1.18.2
   - Author: Luohuayu
   - Fork: Forge/Spigot/Paper --> CatServer
   - Description: Software that allows the use of Forge Mods and Bukkit/Spigot/Paper plugins on your server
@@ -314,7 +314,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
 
 ### [🧽 SpongeForge](https://www.spongepowered.org/downloads/spongeforge/)
   - Active: ✔️
-  - Version: 1.10.2-1.12.2, 1.16.5
+  - Version: 1.8-1.12.2, 1.16.5
   - Author: SpongePowered
   - Fork: -
   - Description: Forge Mod that allows the use of Sponge Plugins
@@ -323,7 +323,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
 
 ### [🧻 Cardboard (Bukkit for Fabric)](https://www.curseforge.com/minecraft/mc-mods/cardboard)
   - Active: ✔️
-  - Version: 1.16.4-1.18.1
+  - Version: 1.16.4-1.18.2
   - Author: IsaiahPatton (CardboardPowered)
   - Fork: Fabric/CraftBukkit/Spigot/Paper --> Cardboard
   - Description: Fabric Mod that allows the use of Bukkit/Spigot/Paper Plugins (BETA!)
@@ -397,7 +397,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
 
 ### [💡 Krypton](https://github.com/KryptonMC/Krypton)
   - Active: ✔️
-  - Version: -
+  - Version: 1.18-1.19
   - Author: KryptonMC
   - Fork: -
   - Description: Krypton is free and open-source Minecraft server software, written from scratch in Kotlin, without Mojang code.
