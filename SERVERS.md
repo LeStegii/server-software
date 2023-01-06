@@ -177,7 +177,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
 
 ### [🦈 Sharkur](https://github.com/SharkurMC/Sharkur)
   - Active: ✔️
-  - Version: 1.19.1
+  - Version: 1.19.2
   - Author: SharkurMC
   - Fork: CraftBukkit --> Spigot --> Paper --> Pufferfish --> Purpur --> Sharkur
   - Description: Fork of Purpur which adds more configuration and also some optimalization.
