@@ -303,7 +303,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
 
 ### [🧽 SpongeVanilla](https://www.spongepowered.org/downloads/spongevanilla/)
   - Active: ✔️
-  - Version: 1.8-1.19.3
+  - Version: 1.8-1.12.2, 1.15-1.19.3
   - Author: SpongePowered
   - Fork: -
   - Description: Software that allows the use of Sponge plugins without mods
@@ -341,7 +341,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
 
 ### [🔶 Magma](https://magmafoundation.org)
   - Active: ✔️
-  - Version: 1.12.2, 1.15.2 (Deprecated), 1.16.5 (Unsupported), 1.18.2 (Experimental)
+  - Version: 1.12.2, 1.15.2 (Deprecated), 1.16.5 (Unsupported), 1.18.2
   - Author: MagmaFoundation/Hexeption
   - Fork: Forge/Spigot/Paper/Thermos --> Magma
   - Description: Software that allows the use of Forge Mods and Bukkit/Spigot/Paper plugins on your server
