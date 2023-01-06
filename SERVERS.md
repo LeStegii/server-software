@@ -168,7 +168,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
 
 ### [🦈 Sharkur](https://github.com/SharkurMC/Sharkur)
   - Active: ✔️
-  - Version: 1.19.2
+  - Version: 1.19.1
   - Author: SharkurMC
   - Fork: CraftBukkit --> Spigot --> Paper --> Pufferfish --> Purpur --> Sharkur
   - Description: Fork of Purpur which adds more configuration and also some optimalization.
@@ -181,6 +181,24 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Author: Plasmo 
   - Fork: CraftBukkit --> Spigot --> Paper --> Pufferfish --> Matter
   - Description: Fork of Pufferfish making the server seed uncrackable.
+  - Plugins: ✔️ (Bukkit, Spigot, Paper)
+  - Mods: ❌
+
+### [🧼 Patina](https://github.com/PatinaMC/Patina)
+  - Active: ✔️
+  - Version: 1.16.5-1.19.3
+  - Author: PatinaMC 
+  - Fork: CraftBukkit --> Spigot --> Paper --> Pufferfish/Purpur/Jettpack/EmpireCraft --> Patina
+  - Description: A performance-oriented Minecraft Server fork based on PaperMC (Note: nearly no information available, not recommended).
+  - Plugins: ✔️ (Bukkit, Spigot, Paper)
+  - Mods: ❌
+
+### [🧑🏻 Mirai](https://github.com/etil2jz/Mirai)
+  - Active: ✔️
+  - Version: 1.19.2
+  - Author: etil2jz 
+  - Fork: CraftBukkit --> Spigot --> Paper --> Pufferfish --> Mirai
+  - Description: An in-development Pufferfish fork with many patches (Note: in development, developer doesn't recommend public usage).
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
   - Mods: ❌
 
