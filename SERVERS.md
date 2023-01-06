@@ -49,6 +49,15 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
   - Mods: ❌
 
+### [🏰 EmpireCraft](https://github.com/starlis/empirecraft)
+  - Active: ✔️
+  - Version: 1.9-1.19.2
+  - Author: starlis
+  - Fork: CraftBukkit --> Spigot --> Paper --> EmpireCraft
+  - Description: A fork of Paper used by the Empire Minecraft Server with more features and extended API.
+  - Plugins: ✔️ (Bukkit, Spigot, Paper)
+  - Mods: ❌
+
 ### [🌮 TacoSpigot](https://tacospigot.github.io/)
   - Active: ❌ (Alternative: BurritoSpigot/Paper)
   - Version: 1.8.8, 1.11.2, 1.12.2
@@ -190,6 +199,15 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Author: PatinaMC 
   - Fork: CraftBukkit --> Spigot --> Paper --> Pufferfish/Purpur/Jettpack/EmpireCraft --> Patina
   - Description: A performance-oriented Minecraft Server fork based on PaperMC (Note: nearly no information available, not recommended).
+  - Plugins: ✔️ (Bukkit, Spigot, Paper)
+  - Mods: ❌
+
+### [🚀 Jettpack](https://gitlab.com/Titaniumtown/JettPack)
+  - Active: ❌ (No updates since more than 10 months)
+  - Version: -
+  - Author: Titaniumtown 
+  - Fork: CraftBukkit --> Spigot --> Paper --> Pufferfish --> Jettpack
+  - Description: A fork of Pufferfish with experimental patches (Note: unstable and not recommended by the author).
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
   - Mods: ❌
 
