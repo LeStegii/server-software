@@ -42,7 +42,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
 
 ### [✉️ Paper](https://papermc.io/)
   - Active: ✔️
-  - Version: 1.7.10-1.17.1 (Unsupported), 1.18.2-1.19.3
+  - Version: 1.7.10-1.19.2 (Unsupported), 1.19.3
   - Author: PaperMC
   - Fork: CraftBukkit --> Spigot --> Paper
   - Description: Spigot with performance patches and more features
@@ -86,7 +86,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Mods: ❌
 
 ### [🌬️ WindSpigot](https://github.com/Wind-Development/WindSpigot)
-  - Active: ❌Temporaly (Alternatice: BurritoSpigot/SportPaper)
+  - Active: ❌Temporarily (Alternative: BurritoSpigot/SportPaper)
   - Version: 1.8.8
   - Author: Wind-Development
   - Fork: CraftBukkit --> Spigot --> Paper --> TacoSpigot + other Forks --> NachoSpigot --> WindSpigot
@@ -294,7 +294,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
 
 ### [🔆 Glowstone](https://glowstone.net/)
   - Active: ✔️
-  - Version: 1.12.2, 1.16.5, 1.19 (Experimental)
+  - Version: 1.12.2, 1.16.5 (Unsupported), 1.19 (Experimental)
   - Author: GlowstoneMC
   - Fork: -
   - Description: Completely open source Minecraft server that doesn't rely on any of Mojang's code and supports Bukkit/Spigot/Paper plugins
