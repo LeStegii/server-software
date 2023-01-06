@@ -221,11 +221,20 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Mods: ❌
 
 ### [🧑🏻 Mirai](https://github.com/etil2jz/Mirai)
-  - Active: ✔️
+  - Active: ❌
   - Version: 1.19.2
   - Author: etil2jz 
   - Fork: CraftBukkit --> Spigot --> Paper --> Pufferfish --> Mirai
   - Description: An in-development Pufferfish fork with many patches (Note: in development, developer doesn't recommend public usage).
+  - Plugins: ✔️ (Bukkit, Spigot, Paper)
+  - Mods: ❌
+
+### [🧓 Suki](https://github.com/SuCraft/Suki)
+  - Active: ❌
+  - Version: 1.19.2
+  - Author: SuCraft 
+  - Fork: CraftBukkit --> Spigot --> Paper --> Pufferfish --> Mirai --> Suki
+  - Description: Fork of Mirai with additional patches (Note: in development, developer doesn't recommend public usage).
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
   - Mods: ❌
 
