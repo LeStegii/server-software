@@ -18,8 +18,9 @@ Here you can find the recommended softwares for your use case.
   - If you want to use mods on your server you can use [Forge](https://github.com/UeberallGebannt/server-softwares/blob/master/SERVERS.md#-forge) or [Fabric](https://github.com/UeberallGebannt/server-softwares/blob/master/SERVERS.md#-fabric), depending which mods you want to use.  
   
 ### 🔶 Minecraft with mods and plugins
+  - If you want to use Forge mods and plugins on **1.19.2** you can use [Arclight](https://github.com/UeberallGebannt/server-softwares/blob/master/SERVERS.md#-arclight).
   - If you want to use Forge mods and plugins on **1.18.2** you can use [Magma](https://github.com/UeberallGebannt/server-softwares/blob/master/SERVERS.md#-magma)
-  - If you want to use Forge mods and plugins on **1.16.5 or 1.19.2** you can use [Mohist](https://github.com/UeberallGebannt/server-softwares/blob/master/SERVERS.md#-mohist).
+  - If you want to use Forge mods and plugins on **1.16.5** you can use [Mohist](https://github.com/UeberallGebannt/server-softwares/blob/master/SERVERS.md#-mohist).
   - If you want to use Forge mods and plugins on **1.12.2** you can use [Magma](https://github.com/UeberallGebannt/server-softwares/blob/master/SERVERS.md#-magma).
   - If you want to use Forge mods and plugins on **1.7.10** you can use [Crucible](https://github.com/UeberallGebannt/server-softwares/blob/master/SERVERS.md#-crucible).
   - If you want to use Fabric mods and plugins you can use [Cardboard](https://github.com/UeberallGebannt/server-softwares/blob/master/SERVERS.md#-cardboard-bukkit-for-fabric).
