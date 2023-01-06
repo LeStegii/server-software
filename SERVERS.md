@@ -238,12 +238,21 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
   - Mods: ❌
 
+### [🅿️ Prismarine](https://github.com/PrismarineTeam/Prismarine)
+  - Active: ❌ (Alternative: Purpur/Pufferfish)
+  - Version: 1.19.2
+  - Author: PrismarineTeam
+  - Fork: CraftBukkit --> Spigot --> Paper --> Pufferfish/Purpur/Jettpack/EmpireCraft/Patina/Mirai/Suki/Akarin/... --> Prismarine
+  - Description: Fork of Paper that combines the patches from different forks (Note: not recommended and abandoned)
+  - Plugins: ✔️ (Bukkit, Spigot, Paper)
+  - Mods: ❌
+
 ### [⬛️ Yatopia](https://github.com/YatopiaMC/Yatopia)
   - Active: ❌ (Alternative: Purpur)
   - Version: 1.16.5
   - Author: YatopiaMC
   - Fork: CraftBukkit --> Spigot --> Paper --> Tuinity + other Forks --> Yatopia
-  - Description: Fork of Tuinity that combines the best patches from different forks (Note: not recommended and abandoned)
+  - Description: Fork of Tuinity that combines patches from different forks (Note: not recommended and abandoned)
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
   - Mods: ❌
 
