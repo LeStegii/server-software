@@ -49,6 +49,15 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
   - Mods: ❌
 
+### [🏰 EmpireCraft](https://github.com/starlis/empirecraft)
+  - Active: ✔️
+  - Version: 1.9-1.19.2
+  - Author: starlis
+  - Fork: CraftBukkit --> Spigot --> Paper --> EmpireCraft
+  - Description: A fork of Paper used by the Empire Minecraft Server with more features and extended API.
+  - Plugins: ✔️ (Bukkit, Spigot, Paper)
+  - Mods: ❌
+
 ### [🌮 TacoSpigot](https://tacospigot.github.io/)
   - Active: ❌ (Alternative: BurritoSpigot/Paper)
   - Version: 1.8.8, 1.11.2, 1.12.2
@@ -168,7 +177,7 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
 
 ### [🦈 Sharkur](https://github.com/SharkurMC/Sharkur)
   - Active: ✔️
-  - Version: 1.19.2
+  - Version: 1.19.1
   - Author: SharkurMC
   - Fork: CraftBukkit --> Spigot --> Paper --> Pufferfish --> Purpur --> Sharkur
   - Description: Fork of Purpur which adds more configuration and also some optimalization.
@@ -184,12 +193,75 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
   - Mods: ❌
 
+### [🧼 Patina](https://github.com/PatinaMC/Patina)
+  - Active: ✔️
+  - Version: 1.16.5-1.19.3
+  - Author: PatinaMC 
+  - Fork: CraftBukkit --> Spigot --> Paper --> Pufferfish/Purpur/Jettpack/EmpireCraft --> Patina
+  - Description: A performance-oriented Minecraft Server fork based on PaperMC (Note: nearly no information available, not recommended).
+  - Plugins: ✔️ (Bukkit, Spigot, Paper)
+  - Mods: ❌
+
+### [🚀 Jettpack](https://gitlab.com/Titaniumtown/JettPack)
+  - Active: ❌ (No updates since more than 10 months)
+  - Version: -
+  - Author: Titaniumtown 
+  - Fork: CraftBukkit --> Spigot --> Paper --> Pufferfish --> Jettpack
+  - Description: A fork of Pufferfish with experimental patches (Note: unstable and not recommended by the author).
+  - Plugins: ✔️ (Bukkit, Spigot, Paper)
+  - Mods: ❌
+
+### [✂️ Slice](https://github.com/Cryptite/Slice)
+  - Active: ✔️
+  - Version: 1.17.1-1.19.3
+  - Author: Cryptite 
+  - Fork: CraftBukkit --> Spigot --> Paper --> Slice
+  - Description: A fork of Paper with additional patches (Note: nearly no information available, not recommended).
+  - Plugins: ✔️ (Bukkit, Spigot, Paper)
+  - Mods: ❌
+
+### [🧑🏻 Mirai](https://github.com/etil2jz/Mirai)
+  - Active: ❌
+  - Version: 1.19.2
+  - Author: etil2jz 
+  - Fork: CraftBukkit --> Spigot --> Paper --> Pufferfish --> Mirai
+  - Description: An in-development Pufferfish fork with many patches (Note: in development, developer doesn't recommend public usage).
+  - Plugins: ✔️ (Bukkit, Spigot, Paper)
+  - Mods: ❌
+
+### [🧓 Suki](https://github.com/SuCraft/Suki)
+  - Active: ❌
+  - Version: 1.19.2
+  - Author: SuCraft 
+  - Fork: CraftBukkit --> Spigot --> Paper --> Pufferfish --> Mirai --> Suki
+  - Description: Fork of Mirai with additional patches (Note: in development, developer doesn't recommend public usage).
+  - Plugins: ✔️ (Bukkit, Spigot, Paper)
+  - Mods: ❌
+
+### [☣️ Fusion](https://github.com/IPECTER/Fusion)
+  - Active: ✔️
+  - Version: 1.19.2-1.19.3
+  - Author: IPECTER 
+  - Fork: CraftBukkit --> Spigot --> Paper --> Pufferfish --> Mirai --> Suki --> Fusion
+  - Description: A fork combining many different forks (Note: in development, unstable, developer doesn't recommend public usage).
+  - Plugins: ✔️ (Bukkit, Spigot, Paper)
+  - Mods: ❌
+
+### [🅿️ Prismarine](https://github.com/PrismarineTeam/Prismarine)
+  - Active: ❌ (Alternative: Purpur/Pufferfish)
+  - Version: 1.19.2
+  - Author: PrismarineTeam
+  - Fork: CraftBukkit --> Spigot --> Paper --> Pufferfish/Purpur/Jettpack/EmpireCraft/Patina/Mirai/Suki/Akarin/... --> Prismarine
+  - Description: Fork of Paper that combines the patches from different forks (Note: not recommended and abandoned)
+  - Plugins: ✔️ (Bukkit, Spigot, Paper)
+  - Mods: ❌
+
 ### [⬛️ Yatopia](https://github.com/YatopiaMC/Yatopia)
   - Active: ❌ (Alternative: Purpur)
   - Version: 1.16.5
   - Author: YatopiaMC
   - Fork: CraftBukkit --> Spigot --> Paper --> Tuinity + other Forks --> Yatopia
-  - Description: Fork of Tuinity that combines the best patches from different forks (Note: not recommended and abandoned)
+  - Description: Fork of Tuinity that combines patches from different forks (Note: not recommended and abandoned)
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
   - Mods: ❌
 
