@@ -238,6 +238,15 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
   - Mods: ❌
 
+### [☣️ Fusion](https://github.com/IPECTER/Fusion)
+  - Active: ✔️
+  - Version: 1.19.2-1.19.3
+  - Author: IPECTER 
+  - Fork: CraftBukkit --> Spigot --> Paper --> Pufferfish --> Mirai --> Suki --> Fusion
+  - Description: A fork combining many different forks (Note: in development, unstable, developer doesn't recommend public usage).
+  - Plugins: ✔️ (Bukkit, Spigot, Paper)
+  - Mods: ❌
+
 ### [🅿️ Prismarine](https://github.com/PrismarineTeam/Prismarine)
   - Active: ❌ (Alternative: Purpur/Pufferfish)
   - Version: 1.19.2
