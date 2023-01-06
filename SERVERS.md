@@ -211,6 +211,15 @@ Click [here](https://github.com/UeberallGebannt/server-softwares/blob/master/SER
   - Plugins: ✔️ (Bukkit, Spigot, Paper)
   - Mods: ❌
 
+### [✂️ Slice](https://github.com/Cryptite/Slice)
+  - Active: ✔️
+  - Version: 1.17.1-1.19.3
+  - Author: Cryptite 
+  - Fork: CraftBukkit --> Spigot --> Paper --> Slice
+  - Description: A fork of Paper with additional patches (Note: nearly no information available, not recommended).
+  - Plugins: ✔️ (Bukkit, Spigot, Paper)
+  - Mods: ❌
+
 ### [🧑🏻 Mirai](https://github.com/etil2jz/Mirai)
   - Active: ✔️
   - Version: 1.19.2
