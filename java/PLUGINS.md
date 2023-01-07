@@ -150,7 +150,7 @@ This list contains Minecraft Java plugins server softwares.
 - **Description:** A fork combining many different forks (Note: in development, unstable, developer doesn't recommend public usage).
 - **Plugins:** Bukkit, Spigot, Paper
 
-# ❌ Deactivate Development
+# ❌ Deactive Development
 ### [🌮 TacoSpigot](https://tacospigot.github.io/)
 - **Alternative:** BurritoSpigot/Paper
 - **Version:** 1.8.8, 1.11.2, 1.12.2

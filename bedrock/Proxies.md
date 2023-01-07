@@ -9,4 +9,4 @@ About it: Proxies manage different single minecraft servers and manage player co
 - **Fork:** -
 - **Description:** Proxy for Minecraft Bedrock (PE)
 
-# ❌ Deactivate Development
+# ❌ Deactive Development

@@ -8,4 +8,4 @@ This list contains Minecraft Bedrock vanilla server softwares.
 - **Description:** Server software for Minecraft: Bedrock Edition written in C++
 - **Addons:** ✔️ (Behaviour and Resource Packs)
 
-# ❌ Deactivate Development
+# ❌ Deactive Development

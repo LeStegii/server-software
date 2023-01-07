@@ -9,7 +9,7 @@ This list contains softwares that are related to minecraft servers but are no se
   - **Description:** Software that allows bedrock players to join Java servers
   - **Platforms:** Bukkit/Spigot/Paper, Bungeecord, Sponge, Velocity
 
-# ❌ Deactivate Development
+# ❌ Deactive Development
 ### [🐟 Carbon](https://www.spigotmc.org/resources/1258/)
   - **Version:** 1.7.10
   - **Author:** NavidK0

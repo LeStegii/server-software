@@ -21,7 +21,7 @@ This list contains Minecraft Java vanilla server softwares.
 - **Fork:** -
 - **Description:** A Minecraft server implementation written in Go.
 
-# ❌ Deactivate Development
+# ❌ Deactive Development
 ### [♻️ TrueCraft](https://github.com/ddevault/TrueCraft)
 - **Version:** Beta 1.7.3
 - **Author:** ddevault

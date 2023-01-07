@@ -27,7 +27,7 @@ It's recommended to use [GeyserMC](https://github.com/UeberallGebannt/server-sof
 - **Plugins:** PocketMine
 - **Addons:** ❌
 
-# ❌ Deactivate Development
+# ❌ Deactive Development
 ### [⚛️ Nukkit](https://github.com/Nukkit/Nukkit)
 - Alternative: NukkitX/Cloudburst
 - Author: Nukkit
