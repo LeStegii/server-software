@@ -1,8 +1,7 @@
 # Others
 This list contains softwares that are related to minecraft servers but are no servers or proxies.
 
-## ✔️ Deactivate Development
-### __________________________
+# ✔️ Deactivate Development
 ### [💧 GeyserMC](https://geysermc.org/)
   - **Version:** Latest Bedrock/Java Server Version
   - **Author:** GeyserMC
@@ -10,8 +9,7 @@ This list contains softwares that are related to minecraft servers but are no se
   - **Description:** Software that allows bedrock players to join Java servers
   - **Platforms:** Bukkit/Spigot/Paper, Bungeecord, Sponge, Velocity
 
-## ❌ Deactivate Development
-### __________________________
+# ❌ Deactivate Development
 ### [🐟 Carbon](https://www.spigotmc.org/resources/1258/)
   - **Version:** 1.7.10
   - **Author:** NavidK0

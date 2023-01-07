@@ -4,7 +4,7 @@ This list contains Minecraft Java proxy server softwares.
 About it: Proxies manage different single minecraft servers and manage player connections in order to handle large amounts of players.
 
 ⚠️ **Warning!** If a project is not in active developement exploits such as Log4J could still work!
-### ✔️ Active Development
+# ✔️ Active Development
 ### [🌐 Bungeecord](https://github.com/SpigotMC/BungeeCord)
 - **Version:** 1.8 - 1.19.3
 - **Author:** md_5/SpigotMC
@@ -29,8 +29,7 @@ About it: Proxies manage different single minecraft servers and manage player co
 - **Fork:** -
 - **Description:** Proxy with unparalleled server support, scalability, and flexibility.
 
-## ❌ Deactivate Development
-### __________________________
+# ❌ Deactivate Development
 ### [🛑 Hexacord](https://github.com/HexagonMC/BungeeCord)
 - **Alternative**: Velocity/Waterfall
 - **Version:** 1.7.10 - 1.19

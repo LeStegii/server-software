@@ -2,8 +2,7 @@
 This list contains Minecraft Java proxy server softwares.
 
 ⚠️ **Warning!** If a project is not in active developement exploits such as Log4J could still work!
-### ✔️ Active Development
-### __________________________
+# ✔️ Active Development
 ### [🔨 Forge](http://files.minecraftforge.net/)
 - **Version:** 1.1-1.19.3
 - **Author:** MinecraftForge
@@ -18,8 +17,7 @@ This list contains Minecraft Java proxy server softwares.
 - **Description:** Software that allows the use of Fabric Mods on your server
 - **Mods:** Fabric
 
-## ❌ Deactivate Development
-### __________________________
+# ❌ Deactivate Development
 ### [⭐ GoldenForge](https://github.com/GoldenForge/GoldenForge)
 - **Alternative**: Forge
 - **Version:** 1.16.5

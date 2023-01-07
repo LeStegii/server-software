@@ -3,8 +3,7 @@ This list contains Minecraft Bedrock plugins server softwares.
 
 It's recommended to use [GeyserMC](https://github.com/UeberallGebannt/server-softwares/blob/master/OTHERS.md#-geysermc) (Bedrock to Java Bridge) instead.
 
-## ✔️ Active Development
-### __________________________
+# ✔️ Active Development
 ### [☢️ Nukkit (NukkitX)](https://github.com/CloudburstMC/Nukkit)
 - **Author:** CloudburstMC
 - **Fork:** Nukkit --> NukkitX
@@ -28,8 +27,7 @@ It's recommended to use [GeyserMC](https://github.com/UeberallGebannt/server-sof
 - **Plugins:** PocketMine
 - **Addons:** ❌
 
-## ❌ Deactivate Development
-### __________________________
+# ❌ Deactivate Development
 ### [⚛️ Nukkit](https://github.com/Nukkit/Nukkit)
 - Alternative: NukkitX/Cloudburst
 - Author: Nukkit

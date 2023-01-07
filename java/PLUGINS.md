@@ -2,8 +2,7 @@
 This list contains Minecraft Java plugins server softwares.
 
 ⚠️ **Warning!** If a project is not in active developement exploits such as Log4J could still work!
-## ✔️ Active Development
-### ------------------------------------------
+# ✔️ Active Development
 ### [🪣 Bukkit/CraftBukkit](https://www.spigotmc.org/wiki/buildtools/)
 - **Version:** Beta 1.2-1.19.3 (only 1.8+ official)
 - **Author:** various authors, maintained by md_5/SpigotMC
@@ -151,8 +150,7 @@ This list contains Minecraft Java plugins server softwares.
 - **Description:** A fork combining many different forks (Note: in development, unstable, developer doesn't recommend public usage).
 - **Plugins:** Bukkit, Spigot, Paper
 
-## ❌ Deactivate Development
-### ------------------------------------------
+# ❌ Deactivate Development
 ### [🌮 TacoSpigot](https://tacospigot.github.io/)
 - **Alternative:** BurritoSpigot/Paper
 - **Version:** 1.8.8, 1.11.2, 1.12.2
