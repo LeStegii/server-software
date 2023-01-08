@@ -59,7 +59,7 @@ This list contains Minecraft Java mods/plugins server softwares.
 - **Plugins:** Bukkit, Spigot
 - **Mods:** Forge
 
-# ❌ Deactive Development
+# ❌ Inactive Development
 ### [🌫️ Mist](https://github.com/MinecraftMist/Mist)
 - **Alternative**: Mohist
 - **Version**: 1.16.5

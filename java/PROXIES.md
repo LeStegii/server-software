@@ -29,7 +29,7 @@ About it: Proxies manage different single minecraft servers and manage player co
 - **Fork:** -
 - **Description:** Proxy with unparalleled server support, scalability, and flexibility.
 
-# ❌ Deactive Development
+# ❌ Inactive Development
 ### [🛑 Hexacord](https://github.com/HexagonMC/BungeeCord)
 - **Alternative**: Velocity/Waterfall
 - **Version:** 1.7.10 - 1.19

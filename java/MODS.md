@@ -17,7 +17,7 @@ This list contains Minecraft Java proxy server softwares.
 - **Description:** Software that allows the use of Fabric Mods on your server
 - **Mods:** Fabric
 
-# ❌ Deactive Development
+# ❌ Inactive Development
 ### [⭐ GoldenForge](https://github.com/GoldenForge/GoldenForge)
 - **Alternative**: Forge
 - **Version:** 1.16.5

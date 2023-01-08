@@ -11,8 +11,6 @@ It's recommended to use [GeyserMC](https://github.com/UeberallGebannt/server-sof
 - **Plugins:** Nukkit
 - **Addons:** ❌
 
-
-
 ### [☁️ Cloudburst](https://github.com/CloudburstMC/Server)
 - **Author:** CloudburstMC
 - **Fork:** Nukkit/NukkitX --> Cloudburst
@@ -27,7 +25,7 @@ It's recommended to use [GeyserMC](https://github.com/UeberallGebannt/server-sof
 - **Plugins:** PocketMine
 - **Addons:** ❌
 
-# ❌ Deactive Development
+# ❌ Inactive Development
 ### [⚛️ Nukkit](https://github.com/Nukkit/Nukkit)
 - Alternative: NukkitX/Cloudburst
 - Author: Nukkit
