@@ -256,8 +256,8 @@ This list contains Minecraft Java plugins server softwares.
 - **Plugins:** Bukkit, Spigot, Paper
 
 ### [🧳 Basin](https://github.com/basinserver/Basin)
-- **Version:** -
-- **Author:** 1.10, 1.11
+- **Version:** 1.10-1.11
+- **Author:** basinserver
 - **Fork:** -
 - **Description:** A high performance Minecraft server implementation written in C compatible with Spigot (drop-in replacement).
 - **Plugins:** Spigot, Basin C
