@@ -5,13 +5,15 @@ This repository contains lists of server softwares for minecraft.
 </br>
 Click the links below to get to the different lists.
 
-📕 <a href="PROXIES.md">Proxies (Bungeecord, Velocity ...)</a>
+📕 <a href="java/PROXIES.md">Java Edition Proxies (Bungeecord, Velocity ...)</a>
 </br>
-📗 <a href="SERVERS.md">Server (Spigot, Paper ...)</a>
+📘 <a href="bedrock/PROXIES.md">Bedrock Edition Proxies (Waterdog ...)</a>
 </br>
-📙 <a href="BEDROCK.md">Bedrock (Nukkit, PocketMine ...)</a>
+📗 <a href="java/">Java Edition Server (Spigot, Paper ...)</a>
 </br>
-📘 <a href="OTHERS.md">Others (GeyserMC, Carbon...)</a>
+📙 <a href="bedrock/">Bedrock Edition Servers (Nukkit, PocketMine ...)</a>
+</br>
+📚 <a href="OTHERS.md">Others (GeyserMC, Carbon...)</a>
 </br></br>
 📀 Recommend softwares for different uses: <a href="RECOMMEND.md">Click here</a>
 </br></br>
