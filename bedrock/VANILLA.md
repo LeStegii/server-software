@@ -8,4 +8,11 @@ This list contains Minecraft Bedrock vanilla server softwares.
 - **Description:** Server software for Minecraft: Bedrock Edition written in C++
 - **Addons:** ✔️ (Behaviour and Resource Packs)
 
+### [📻 JukeboxMC](https://github.com/LucGamesYT/JukeboxMC)
+- **Author:** LucGamesYT
+- **Fork:** -
+- **Description:**  A Minecraft Bedrock Editon Server Software written in Java
+- **Plugins:** -
+- **Addons:** ❌
+
 # ❌ Inactive Development
