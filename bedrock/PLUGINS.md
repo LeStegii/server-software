@@ -32,6 +32,13 @@ Since most of the softwares do not support all vanilla features, it's recommende
 - **Plugins:** PocketMine
 - **Addons:** ❌
 
+### [🦋 Dragonfly](https://github.com/df-mc/dragonfly)
+- **Author:** df-mc
+- **Fork:** -
+- **Description:** A heavily asynchronous server software for Minecraft Bedrock Edition written in Go
+- **Plugins:** Dragonfly API
+- **Addons:** ❌
+
 # ❌ Inactive Development
 ### [⚛️ Nukkit](https://github.com/Nukkit/Nukkit)
 - Alternative: NukkitX/Cloudburst
