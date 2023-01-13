@@ -1,7 +1,7 @@
 # Others
 This list contains softwares that are related to minecraft servers but are no servers or proxies.
 
-# ✔️ Deactivate Development
+# ✔️ Activate Development
 ### [💧 GeyserMC](https://geysermc.org/)
   - **Version:** Latest Bedrock/Java Server Version
   - **Author:** GeyserMC
