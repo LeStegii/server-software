@@ -29,14 +29,14 @@ This list contains Minecraft Java vanilla server softwares.
 - **Description:** A completely clean-room implementation of Minecraft beta 1.7.3.
 
 ### [👨‍💻 AVR Craft](https://github.com/cnlohr/avrcraft)
-- **Version:** -
-- **Author:** 1.11, 1.15.2-1.16.5
+- **Version:** 1.11, 1.15.2-1.16.5
+- **Author:** cnlohr
 - **Fork:** -
 - **Description:** Minecraft server optimized for 8-bit devices written in C.
 
-### [🪨 Bedrock](https://github.com/basinserver/Basin)
-- **Version:** -
-- **Author:** 1.7.10
+### [🪨 Bedrock](https://github.com/Adam-/bedrock)
+- **Version:** 1.7.10
+- **Author:** Adam-
 - **Fork:** -
 - **Description:** Bedrock is a Minecraft Server whose goal is to fully emulate vanilla Minecraft.
 
