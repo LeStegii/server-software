@@ -16,3 +16,10 @@ This list contains softwares that are related to minecraft servers but are no se
   - **Fork:** -
   - **Description:** Adds future Minecraft content (1.8 blocks/features) to older Spigot versions (1.7.10).
   - **Platforms:** Spigot
+
+### [🦅 Carbon 2](https://github.com/MCCarbon/Carbon-2)
+  - **Version:** 1.8
+  - **Author:** MCCarbon
+  - **Fork:** -
+  - **Description:** Adds future Minecraft content (1.9 blocks/features) to older Spigot versions (1.8).
+  - **Platforms:** Spigot
