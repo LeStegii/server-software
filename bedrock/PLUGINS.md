@@ -32,13 +32,6 @@ It's recommended to use [GeyserMC](https://github.com/UeberallGebannt/server-sof
 - **Plugins:** PocketMine
 - **Addons:** ❌
 
-### [✳ MiNET](https://github.com/NiclasOlofsson/MiNET)
-- **Author:** NiclasOlofsson
-- **Fork:** -
-- **Description:**  A (not so) basic Minecraft Pocket Edition server written in C# 
-- **Plugins:** .NET
-- **Addons:** ❌
-
 # ❌ Inactive Development
 ### [⚛️ Nukkit](https://github.com/Nukkit/Nukkit)
 - Alternative: NukkitX/Cloudburst
@@ -53,4 +46,11 @@ It's recommended to use [GeyserMC](https://github.com/UeberallGebannt/server-sof
 - **Fork:** -
 - **Description:** GoMint is a modern Minecraft Bedrock Edition server written in Java
 - **Plugins:** GoMint 
+- **Addons:** ❌
+
+### [✳ MiNET](https://github.com/NiclasOlofsson/MiNET)
+- **Author:** NiclasOlofsson
+- **Fork:** -
+- **Description:**  A (not so) basic Minecraft Pocket Edition server written in C# 
+- **Plugins:** .NET
 - **Addons:** ❌
