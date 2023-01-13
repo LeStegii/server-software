@@ -11,6 +11,13 @@ It's recommended to use [GeyserMC](https://github.com/UeberallGebannt/server-sof
 - **Plugins:** Nukkit
 - **Addons:** ❌
 
+### [🔴 PowerNukkit (PowerNukkitX)](https://powernukkit.org/)
+- **Author:** PowerNukkit
+- **Fork:** Nukkit --> NukkitX --> PowerNukkit
+- **Description:** Advanced fork of NukkitX with support for Pistons, Waterlogging and much more.
+- **Plugins:** Nukkit
+- **Addons:** ❌
+
 ### [☁️ Cloudburst](https://github.com/CloudburstMC/Server)
 - **Author:** CloudburstMC
 - **Fork:** Nukkit/NukkitX --> Cloudburst
