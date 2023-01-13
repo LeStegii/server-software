@@ -32,7 +32,7 @@ It's recommended to use [GeyserMC](https://github.com/UeberallGebannt/server-sof
 - **Plugins:** PocketMine
 - **Addons:** ❌
 
-### [📻 JukeboxMC](https://github.com/pmmp/PocketMine-MP)
+### [📻 JukeboxMC](https://github.com/LucGamesYT/JukeboxMC)
 - **Author:** LucGamesYT
 - **Fork:** -
 - **Description:**  A Minecraft Bedrock Editon Server Software written in Java
