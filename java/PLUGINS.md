@@ -84,7 +84,7 @@ This list contains Minecraft Java plugins server softwares.
 - **Version:** 1.19.2
 - **Author:** SharkurMC
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Pufferfish --> Purpur --> Sharkur
-- **Description:** Fork of Purpur which adds more configuration and also some optimalization.
+- **Description:** Fork of Purpur which adds more configuration and also some optimization.
 - **Plugins:** Bukkit, Spigot, Paper
 
 ### [🔗 Matter](https://github.com/plasmoapp/matter/)
