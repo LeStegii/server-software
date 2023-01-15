@@ -87,7 +87,7 @@ This list contains Minecraft Java mods/plugins server softwares.
 - **Plugins:** Bukkit, Spigot
 - **Mods:** Forge
 
-### [♓ Contigo](https://github.com/CyberdyneCC/Thermos)
+### [♓ Contigo](https://github.com/gcallant/Contigo)
 - **Alternative**: Crucible
 - **Version:** 1.7.10
 - **Author:** gcallant
@@ -100,7 +100,7 @@ This list contains Minecraft Java mods/plugins server softwares.
 - **Alternative**: -
 - **Version:** -
 - **Author:** NeptunePowered
-- **Fork:** Forge/Bukkit --> NeptuneForge
+- **Fork:** hMod --> CanaryMod + Forge --> NeptuneForge
 - **Description:** A CanaryLib implementation for Minecraft Forge.
 - **Plugins:** Bukkit, Spigot
 - **Mods:** Forge
@@ -124,12 +124,12 @@ This list contains Minecraft Java mods/plugins server softwares.
 - **Mods:** Forge
 
 ### [🔆 AtomMC](https://github.com/josephworks/AtomMC)
-- **Alternative**: -
+- **Alternative**: Magma
 - **Version:** 1.12.2
 - **Author:** josephworks
 - **Fork:** Forge/Spigot/Craftbukkit -->  AtomMC
 - **Description:** Atom is a Minecraft Server Software that is based on Minecraft Forge and CraftBukkit for 1.12.2 version of Minecraft.
-- **Plugins:** Bukkit, Spigot, Paper
+- **Plugins:** Bukkit, Spigot
 - **Mods:** Forge
 
 ### [🔥 Hotpur](https://github.com/KettleFoundation/Kettle)
@@ -149,10 +149,6 @@ This list contains Minecraft Java mods/plugins server softwares.
 - **Description:** A fork of Purpur that aims to improve performance and add FabricMC compatibility.
 - **Plugins:** Bukkit, Spigot
 - **Mods:** Forge
-
-TableCloth - A Hybrid jar forked from AtomMC combining Forge + Spigot and a couple of Paper Patches.
-Version: Unknown
-Discontinued
 
 ### [⚒️ BukkitForge](https://github.com/keepcalm/BukkitForge)
 - **Alternative**: -
