@@ -23,7 +23,7 @@ If you're looking for a way to use both **plugins and mods**, checkout [this lis
 ### [🟪 QuiltMC](https://quiltmc.org/)
 - **Version:** 1.14-1.19.3
 - **Author:** QuiltMC
-- **Fork:** FabricMC
+- **Fork:** FabricMC --> QuiltMC
 - **Description:** Software that allows the use of Quilt/Fabric Mods on your server
 - **Mods:** Quilt, Fabric
 
