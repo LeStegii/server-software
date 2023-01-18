@@ -87,6 +87,69 @@ This list contains Minecraft Java mods/plugins server softwares.
 - **Plugins:** Bukkit, Spigot
 - **Mods:** Forge
 
+### [♓ Contigo](https://github.com/gcallant/Contigo)
+- **Alternative**: Crucible
+- **Version:** 1.7.10
+- **Author:** gcallant
+- **Fork:** Forge/Bukkit --> MCPC+ --> Cauldron --> kCauldron --> Thermos --> Contigo
+- **Description:** A fork of Thermos that was opened after Thermos was discontinued and allowed the community to add patches and bug fixes.
+- **Plugins:** Bukkit, Spigot
+- **Mods:** Forge
+
+### [♓ NeptuneForge](https://github.com/NeptunePowered/NeptuneForge)
+- **Alternative**: -
+- **Version:** -
+- **Author:** NeptunePowered
+- **Fork:** hMod --> CanaryMod + Forge --> NeptuneForge
+- **Description:** A CanaryLib implementation for Minecraft Forge.
+- **Plugins:** Bukkit, Spigot
+- **Mods:** Forge
+
+### [⬛ PFServer](https://github.com/l89669/PFServer)
+- **Alternative**: CatServer
+- **Version:** 1.12.2
+- **Author:** l89669
+- **Fork:** Forge/Spigot/Paper --> CatServer/AtomMC --> PFServer
+- **Description:** PFServer is a 1.12.2 fork of AtomMC and CatServer to create a better Forge/Bukkit hybrid.
+- **Plugins:** Bukkit, Spigot
+- **Mods:** Forge
+
+### [💥 Lava](https://github.com/Timardo/Lava)
+- **Alternative**: CatServer
+- **Version:** 1.12.2
+- **Author:** Timardo
+- **Fork:** Forge/Spigot --> Lava
+- **Description:** Lava is a 1.12.2 Forge/Spigot hybrid server not forked from any other hybrid servers.
+- **Plugins:** Bukkit, Spigot
+- **Mods:** Forge
+
+### [🔆 AtomMC](https://github.com/josephworks/AtomMC)
+- **Alternative**: Magma
+- **Version:** 1.12.2
+- **Author:** josephworks
+- **Fork:** Forge/Spigot/Craftbukkit -->  AtomMC
+- **Description:** Atom is a Minecraft Server Software that is based on Minecraft Forge and CraftBukkit for 1.12.2 version of Minecraft.
+- **Plugins:** Bukkit, Spigot
+- **Mods:** Forge
+
+### [🔥 Hotpur](https://github.com/KettleFoundation/Kettle)
+- **Alternative**: -
+- **Version:** 1.16.4
+- **Author:** KettleFoundation
+- **Fork:** Purpur/Fabric --> Hotpur
+- **Description:** HotPur is a 1.16.4 fork of Purpur attempting to add Fabric mod support.
+- **Plugins:** Bukkit, Spigot, Paper
+- **Mods:** Fabric
+
+### [🛑 Kettle](https://github.com/KettleFoundation/Kettle)
+- **Alternative**: Magma
+- **Version:** 1.12.2, 1.14.4
+- **Author:** KettleFoundation
+- **Fork:** Forge/Bukkit --> MCPC+ --> Cauldron --> kCauldron --> Thermos --> Contigo --> Kettle
+- **Description:** A fork of Purpur that aims to improve performance and add FabricMC compatibility.
+- **Plugins:** Bukkit, Spigot
+- **Mods:** Forge
+
 ### [⚒️ BukkitForge](https://github.com/keepcalm/BukkitForge)
 - **Alternative**: -
 - **Version:** 1.5.2
