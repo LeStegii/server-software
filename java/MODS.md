@@ -20,6 +20,13 @@ If you're looking for a way to use both **plugins and mods**, checkout [this lis
 - **Description:** Software that allows the use of Fabric Mods on your server
 - **Mods:** Fabric
 
+### [🟪 QuiltMC](https://quiltmc.org/)
+- **Version:** 1.14-1.19.3
+- **Author:** QuiltMC
+- **Fork:** FabricMC --> QuiltMC
+- **Description:** Software that allows the use of Quilt/Fabric Mods on your server
+- **Mods:** Quilt, Fabric
+
 # ❌ Inactive Development
 ### [⭐ GoldenForge](https://github.com/GoldenForge/GoldenForge)
 - **Alternative**: Forge
