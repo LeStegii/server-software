@@ -29,6 +29,18 @@ About it: Proxies manage different single minecraft servers and manage player co
 - **Fork:** -
 - **Description:** Proxy with unparalleled server support, scalability, and flexibility.
 
+### [💨 lightfall](https://github.com/ArclightPowered/lightfall)
+- **Version:** 1.18 - 1.19.3
+- **Author:** ArclightPowered
+- **Fork:** Bungeecord --> Waterfall --> lightfall
+- **Description:** A fork of Waterfall with modern forge support.
+
+### [🔸 gate](https://github.com/minekube/gate)
+- **Version:** 1.8 - 1.19
+- **Author:** minekube
+- **Fork:** -
+- **Description:** A high performance & paralleled Minecraft proxy server with scalability, flexibility & excellent server version support - ready for the cloud!
+
 # ❌ Inactive Development
 ### [🛑 Hexacord](https://github.com/HexagonMC/BungeeCord)
 - **Alternative**: Velocity/Waterfall
@@ -51,4 +63,72 @@ About it: Proxies manage different single minecraft servers and manage player co
 - **Fork:** Bungeecord --> Waterfall --> Travertine
 - **Description:** Waterfall with 1.7 support
 
+### [🔑 BarelyAuthenticated](https://github.com/Mindgamesnl/BarelyAuthenticated)
+- **Alternative**: -
+- **Version:** -
+- **Author:** Mindgamesnl
+- **Fork:** -
+- **Description:** A simple bungeecord-proxy fork that prefers in-house authentication systems based on Redis instead of Mojang to prevent outages and flooding rate limits
 
+### [⬛ DarkCord](https://github.com/Oculate/DarkCord)
+- **Alternative**: Velocity/Waterfall
+- **Version:** 1.7 - 1.11.2
+- **Author:** Oculate
+- **Fork:** Bungeecord --> DarkCord
+- **Description:** BungeeCord fork for Minecraft 1.7/1.8/1.9/1.10/1.11
+
+### [⬛ Flexagon](https://github.com/SeaEclipse/Flexagon)
+- **Alternative**: Velocity/Waterfall
+- **Version:** 1.7 - 1.15.2
+- **Author:** SeaEclipse
+- **Fork:** Bungeecord + Travertine --> Flexagon
+- **Description:** Fork of Hexagon MC Proxy and Travertine build tools
+
+### [⬛ Glymur](https://github.com/StratusNetwork/Glymur)
+- **Alternative**: Velocity/Waterfall
+- **Version:** 1.7 - 1.14
+- **Author:** StratusNetwork
+- **Fork:**  Bungeecord --> Waterfall --> Travertine --> Glymur
+- **Description:** A fork of Travertine with Stratus APIs
+
+### [⬛ MetaProxy](https://github.com/meta1203/MetaProxy)
+- **Alternative**: -
+- **Version:** -
+- **Author:** meta1203
+- **Fork:**  -
+- **Description:** A Minecraft Proxy Server designed for cross server teleportation
+
+### [✅ VanillaCord](https://github.com/ME1312/VanillaCord)
+- **Alternative**: Velocity/Waterfall
+- **Version:** 1.12 - 1.19
+- **Author:** Thinkofname, maximvarentsov, ME1312
+- **Fork:**  Bungeecord --> VanillaCord
+- **Description:** VanillaCord – IP Forwarding support for Vanilla Minecraft Servers
+
+### [⬛ wCord](https://github.com/wtfaremyinitials/wCord)
+- **Alternative**: Velocity/Waterfall
+- **Version:** 1.4.7 - 1.6.4
+- **Author:** wtfaremyinitials
+- **Fork:**  Bungeecord --> wCord
+- **Description:** A fork of BungeeCord with animate MOTDs
+
+### [⬛ ElytraProxy](https://github.com/Elytrium/ElytraProxy)
+- **Alternative**: Velocity/Waterfall
+- **Version:** 1.7 - 1.17.1
+- **Author:** Elytrium
+- **Fork:**  Velocity --> ElytraProxy
+- **Description:** Really customizable Minecraft proxy server with Auth, AntiBot, etc, based on Velocity.
+
+### [⬛ JLilyPad](https://github.com/LilyPad/JLilyPad)
+- **Alternative**: Velocity/Waterfall
+- **Version:** 1.12
+- **Author:** LilyPad
+- **Fork:**  -
+- **Description:** An implementation of LilyPad in the popular programming language Java.
+
+### [⬛ GoLilyPad](https://github.com/LilyPad/GoLilyPad)
+- **Alternative**: -
+- **Version:** 1.11 - 1.19.1
+- **Author:** LilyPad
+- **Fork:**  -
+- **Description:** An implementation of LilyPad in the language Go.
