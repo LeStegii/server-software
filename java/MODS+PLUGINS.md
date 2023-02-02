@@ -2,7 +2,9 @@
 This list contains Minecraft Java mods/plugins server softwares.
 
 ⚠️ **Warning!** If a project is not in active developement exploits such as Log4J could still work!
+
 # ✔️ Active Development
+
 ### [🔶 Magma](https://magmafoundation.org)
 - **Version:** 1.12.2, 1.15.2 (Deprecated), 1.16.5 (Unsupported), 1.18.2
 - **Author:** MagmaFoundation/Hexeption
@@ -43,14 +45,6 @@ This list contains Minecraft Java mods/plugins server softwares.
 - **Plugins:** Sponge
 - **Mods:** Forge
 
-### [🧻 Cardboard (Bukkit for Fabric)](https://www.curseforge.com/minecraft/mc-mods/cardboard)
-- **Version:** 1.16.4-1.18.2
-- **Author:** IsaiahPatton (CardboardPowered)
-- **Fork:** Fabric/CraftBukkit/Spigot/Paper --> Cardboard
-- **Description:** Fabric Mod that allows the use of Bukkit/Spigot/Paper Plugins (BETA!)
-- **Plugins:** Bukkit, Spigot, Paper
-- **Mods:** Fabric
-
 ### [🧺 Crucible](https://github.com/CrucibleMC/Crucible)
 - **Version:** 1.7.10
 - **Author:** CrucibleMC
@@ -60,6 +54,15 @@ This list contains Minecraft Java mods/plugins server softwares.
 - **Mods:** Forge
 
 # ❌ Inactive Development
+
+### [🧻 Cardboard (Bukkit for Fabric)](https://www.curseforge.com/minecraft/mc-mods/cardboard)
+- **Version:** 1.16.4-1.18.2
+- **Author:** IsaiahPatton (CardboardPowered)
+- **Fork:** Fabric/CraftBukkit/Spigot/Paper --> Cardboard
+- **Description:** Fabric Mod that allows the use of Bukkit/Spigot/Paper Plugins (BETA!)
+- **Plugins:** Bukkit, Spigot, Paper
+- **Mods:** Fabric
+
 ### [🌫️ Mist](https://github.com/MinecraftMist/Mist)
 - **Alternative**: Mohist
 - **Version**: 1.16.5
