@@ -24,6 +24,13 @@ This list contains Minecraft Java plugins server softwares.
 - **Description:** Spigot with performance patches and more features
 - **Plugins:** Bukkit, Spigot, Paper
 
+### [🎋 Leaves](https://github.com/LeavesMC/Leaves)
+- **Version:** 1.18.2-1.19.3
+- **Author:** LeavesMC
+- **Fork:** CraftBukkit --> Spigot --> Paper --> Leaves
+- **Description:** Fork of Paper aimed at repairing broken vanilla properties and adding new api/features.
+- **Plugins:** Bukkit, Spigot, Paper
+
 ### [🏰 EmpireCraft](https://github.com/starlis/empirecraft)
 - **Version** 1.9-1.19.2
 - **Author** starlis
