@@ -14,14 +14,14 @@ This list contains Minecraft Java plugins server softwares.
 - **Version:** 1.4.6-1.19.3 (only 1.8+ official)
 - **Author:** md_5/SpigotMC
 - **Fork:** CraftBukkit --> Spigot
-- **Description:** Bukkit with performance patches, more features and bungeecord support
+- **Description:** Bukkit with performance patches, more features and bungeecord support.
 - **Plugins:** Bukkit, Spigot
 
 ### [✉️ Paper](https://papermc.io/)
 - **Version:** 1.7.10-1.19.2 (Unsupported), 1.19.3
 - **Author:** PaperMC
 - **Fork:** CraftBukkit --> Spigot --> Paper
-- **Description:** Spigot with performance patches and more features
+- **Description:** Spigot with performance patches and more features.
 - **Plugins:** Bukkit, Spigot, Paper
 
 ### [🎋 Leaves](https://github.com/LeavesMC/Leaves)
@@ -29,6 +29,13 @@ This list contains Minecraft Java plugins server softwares.
 - **Author:** LeavesMC
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Leaves
 - **Description:** Fork of Paper aimed at repairing broken vanilla properties and adding new api/features.
+- **Plugins:** Bukkit, Spigot, Paper
+
+### [🐆 Cheetah](https://github.com/gommehdnet/cheetah-1.19)
+- **Version:** 1.16.5-1.19.2
+- **Author:** Gommehdnet
+- **Fork:** CraftBukkit --> Spigot --> Paper --> Cheetah
+- **Description:** A Paper fork used by the big german minecraft network gommehd.net, adding some new api and small features.
 - **Plugins:** Bukkit, Spigot, Paper
 
 ### [🏰 EmpireCraft](https://github.com/starlis/empirecraft)
@@ -70,7 +77,7 @@ This list contains Minecraft Java plugins server softwares.
 - **Version:** 1.14.1-1.19.3
 - **Author:** pl3xgaming
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Pufferfish --> Purpur
-- **Description:** Fork of Tuinity/Pufferfish with the goal of providing new and interesting configuration options
+- **Description:** Fork of Tuinity/Pufferfish with the goal of providing new and interesting configuration options.
 - **Plugins:** Bukkit, Spigot, Paper
 
 ### [🍂 Petal](https://github.com/Bloom-host/Petal)
