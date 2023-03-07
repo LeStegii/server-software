@@ -1,5 +1,5 @@
 # Recommended
-Here you can find the recommended softwares for your use case.
+Here you can find the recommended softwares for your use case. This list is based on our opinions and might not be the golden standard.
 
 **Note!** Some versions are outdated and shouldn't be used. There is for example no reason to use versions like 1.13 or 1.17, as newer versions are running far better.
 
@@ -18,7 +18,7 @@ Here you can find the recommended softwares for your use case.
   - If you want to use mods on your server you can use [Forge](/java/MODS.md#-forge) or [Fabric](/java/MODS.md#-fabric), depending which mods you want to use.  
   
 ### 🔶 Minecraft with mods and plugins
-  - If you want to use Forge mods and plugins on **1.19.2** you can use [Arclight](/java/MODS+PLUGINS.md#-arclight).
+  - If you want to use Forge mods and plugins on **1.19.3** you can use [Arclight](/java/MODS+PLUGINS.md#-arclight).
   - If you want to use Forge mods and plugins on **1.18.2** you can use [Magma](/java/MODS+PLUGINS.md#-magma)
   - If you want to use Forge mods and plugins on **1.16.5** you can use [Mohist](/java/MODS+PLUGINS.md#-mohist).
   - If you want to use Forge mods and plugins on **1.12.2** you can use [Magma](/java/MODS+PLUGINS.md#-magma).
