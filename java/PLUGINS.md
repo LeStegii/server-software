@@ -38,13 +38,6 @@ This list contains Minecraft Java plugins server softwares.
 - **Description:** A fork of Paper used by the big german minecraft network gommehd.net, adding some new api and small features.
 - **Plugins:** Bukkit, Spigot, Paper
 
-### [🐆 Cheetah](https://github.com/gommehdnet/cheetah-1.19)
-- **Version:** 1.16.5-1.19.2
-- **Author:** Gommehdnet
-- **Fork:** CraftBukkit --> Spigot --> Paper --> Cheetah
-- **Description:** A Paper fork used by the big german minecraft network gommehd.net, adding some new api and small features.
-- **Plugins:** Bukkit, Spigot, Paper
-
 ### [🏰 EmpireCraft](https://github.com/starlis/empirecraft)
 - **Version** 1.9-1.19.2
 - **Author** starlis
