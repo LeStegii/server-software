@@ -21,6 +21,12 @@ This list contains Minecraft Java vanilla server softwares.
 - **Fork:** -
 - **Description:** A Minecraft server implementation written in Go.
 
+### [⬛ feather](https://github.com/feather-rs/feather)
+- **Version:** 1.16.5
+- **Author:** feather-rs
+- **Fork:** -
+- **Description:** A Minecraft server implementation written in Rust.
+
 # ❌ Inactive Development
 ### [♻️ TrueCraft](https://github.com/ddevault/TrueCraft)
 - **Version:** Beta 1.7.3
@@ -33,6 +39,12 @@ This list contains Minecraft Java vanilla server softwares.
 - **Author:** cnlohr
 - **Fork:** -
 - **Description:** Minecraft server optimized for 8-bit devices written in C.
+
+### [⬛ MineCase](https://github.com/dotnetGame/MineCase)
+- **Version:** 1.15.2
+- **Author:** dotnetGame
+- **Fork:** -
+- **Description:** A Minecraft server implemented in C# .NET Core for high performance and splitting server load.
 
 ### [🪨 Bedrock](https://github.com/Adam-/bedrock)
 - **Version:** 1.7.10
