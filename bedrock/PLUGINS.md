@@ -11,7 +11,7 @@ Since most of the softwares do not support all vanilla features, it's recommende
 - **Plugins:** Nukkit
 - **Addons:** ❌
 
-### [☢️ LiteLoader BDS](https://github.com/LiteLDev/LiteLoaderBDS)
+### [💨 LiteLoader BDS](https://github.com/LiteLDev/LiteLoaderBDS)
 - **Author:** LiteLDev
 - **Fork:** -
 - **Description:** An unofficial plugin loader that provides basic API support for Bedrock Dedicated Server.
