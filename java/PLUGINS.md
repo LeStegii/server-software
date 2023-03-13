@@ -80,6 +80,27 @@ This list contains Minecraft Java plugins server softwares.
 - **Description:** Fork of Tuinity/Pufferfish with the goal of providing new and interesting configuration options.
 - **Plugins:** Bukkit, Spigot, Paper
 
+### [🐆 ChikaCraft](https://github.com/bitbloxhub/ChikaCraft)
+- **Version:** 1.19.3
+- **Author:** bitbloxhub
+- **Fork:** CraftBukkit --> Spigot --> Paper --> Pufferfish --> Purpur --> ChikaCraft
+- **Description:** A fork of Purpur adding even more features from softwares like Leaves and Carpet Mod.
+- **Plugins:** Bukkit, Spigot, Paper
+
+### [🎯 ArcadePaper](https://github.com/arcadiamc-cz/ArcadePaper)
+- **Version:** 1.8.8
+- **Author:** arcadiamc-cz
+- **Fork:** CraftBukkit --> Spigot --> Paper --> ArcadePaper
+- **Description:** A fork of Paper 1.8.8 with some patches and extended features.
+- **Plugins:** Bukkit, Spigot, Paper
+
+### [⬛ Obsidian](https://github.com/ObsidianMC/Obsidian)
+- **Version:** -
+- **Author:** ObsidianMC
+- **Fork:** -
+- **Description:** A C# implementation of the Minecraft server protocol.
+- **Plugins:** Obsidian
+
 ### [🍂 Petal](https://github.com/Bloom-host/Petal)
 - **Version:** 1.19.2
 - **Author:** Bloom Host
@@ -165,6 +186,13 @@ This list contains Minecraft Java plugins server softwares.
 - **Plugins:** Bukkit, Spigot, Paper
 
 # ❌ Inactive Development
+### [🐙 Flying Squid](https://github.com/PrismarineJS/flying-squid)
+- **Version:** 1.8 - 1.16.1
+- **Author:** PrismarineJS
+- **Fork:** -
+- **Description:** Create Minecraft servers with a powerful, stable, and high level JavaScript API.
+- **Plugins:** Flying Squid
+
 ### [🌮 TacoSpigot](https://tacospigot.github.io/)
 - **Alternative:** BurritoSpigot/Paper
 - **Version:** 1.8.8, 1.11.2, 1.12.2
