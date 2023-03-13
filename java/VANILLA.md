@@ -21,7 +21,7 @@ This list contains Minecraft Java vanilla server softwares.
 - **Fork:** -
 - **Description:** A Minecraft server implementation written in Go.
 
-### [⬛ feather](https://github.com/feather-rs/feather)
+### [✒ feather](https://github.com/feather-rs/feather)
 - **Version:** 1.16.5
 - **Author:** feather-rs
 - **Fork:** -
@@ -40,7 +40,7 @@ This list contains Minecraft Java vanilla server softwares.
 - **Fork:** -
 - **Description:** Minecraft server optimized for 8-bit devices written in C.
 
-### [⬛ MineCase](https://github.com/dotnetGame/MineCase)
+### [💢 MineCase](https://github.com/dotnetGame/MineCase)
 - **Version:** 1.15.2
 - **Author:** dotnetGame
 - **Fork:** -
