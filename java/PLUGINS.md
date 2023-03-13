@@ -80,14 +80,14 @@ This list contains Minecraft Java plugins server softwares.
 - **Description:** Fork of Tuinity/Pufferfish with the goal of providing new and interesting configuration options.
 - **Plugins:** Bukkit, Spigot, Paper
 
-### [⬛ ChikaCraft](https://github.com/bitbloxhub/ChikaCraft)
+### [🐆 ChikaCraft](https://github.com/bitbloxhub/ChikaCraft)
 - **Version:** 1.19.3
 - **Author:** bitbloxhub
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Pufferfish --> Purpur --> ChikaCraft
 - **Description:** A fork of Purpur adding even more features from softwares like Leaves and Carpet Mod.
 - **Plugins:** Bukkit, Spigot, Paper
 
-### [⬛ ArcadePaper](https://github.com/arcadiamc-cz/ArcadePaper)
+### [🎯 ArcadePaper](https://github.com/arcadiamc-cz/ArcadePaper)
 - **Version:** 1.8.8
 - **Author:** arcadiamc-cz
 - **Fork:** CraftBukkit --> Spigot --> Paper --> ArcadePaper
@@ -186,7 +186,7 @@ This list contains Minecraft Java plugins server softwares.
 - **Plugins:** Bukkit, Spigot, Paper
 
 # ❌ Inactive Development
-### [⬛ Flying Squid](https://github.com/PrismarineJS/flying-squid)
+### [🐙 Flying Squid](https://github.com/PrismarineJS/flying-squid)
 - **Version:** 1.8 - 1.16.1
 - **Author:** PrismarineJS
 - **Fork:** -
