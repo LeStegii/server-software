@@ -38,6 +38,13 @@ This list contains Minecraft Java plugins server softwares.
 - **Description:** A fork of Paper used by the big german minecraft network gommehd.net, adding some new api and small features.
 - **Plugins:** Bukkit, Spigot, Paper
 
+### [↔ LinearPaper](https://github.com/xymb-endcrystalme/LinearPaper)
+- **Version:** 1.19.3
+- **Author:** xymb-endcrystalme
+- **Fork:** CraftBukkit --> Spigot --> Paper --> LinearPaper
+- **Description:** A fork of Paper changing the world format making the world files much smaller for big worlds.
+- **Plugins:** Bukkit, Spigot, Paper
+
 ### [🏰 EmpireCraft](https://github.com/starlis/empirecraft)
 - **Version** 1.9-1.19.2
 - **Author** starlis
