@@ -20,3 +20,7 @@ Click the links below to get to the different lists.
 ❗ This List will only help you to pick a software, it will not help you to [optimize](https://github.com/YouHaveTrouble/minecraft-optimization) it. Picking the correct software always helps though.
 
 Original idea by Razva (<a href="https://gist.github.com/Razva/e7304fb80a210639107a35838dee2832">Click here</a>).
+
+## You like this list and want to help me? Consider giving a ⭐!
+
+[![Star History Chart](https://api.star-history.com/svg?repos=UeberallGebannt/server-softwares&type=Date)](https://star-history.com/#UeberallGebannt/server-softwares&Date)
