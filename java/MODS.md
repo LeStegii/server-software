@@ -7,21 +7,21 @@ If you're looking for a way to use both **plugins and mods**, checkout [this lis
 
 # ✔️ Active Development
 ### [🔨 Forge](http://files.minecraftforge.net/)
-- **Version:** 1.1-1.19.3
+- **Version:** 1.1-1.19.4
 - **Author:** MinecraftForge
 - **Fork:** -
 - **Description:** Software that allows the use of Forge Mods on your server
 - **Mods:** Forge
 
 ### [🧻 Fabric](https://fabricmc.net/)
-- **Version:** 1.14.4-1.19.3
+- **Version:** 1.14.4-1.19.4, Snapshots
 - **Author:** FabricMC
 - **Fork:** -
 - **Description:** Software that allows the use of Fabric Mods on your server
 - **Mods:** Fabric
 
 ### [🟪 QuiltMC](https://quiltmc.org/)
-- **Version:** 1.14-1.19.3
+- **Version:** 1.14-1.19.4
 - **Author:** QuiltMC
 - **Fork:** FabricMC --> QuiltMC
 - **Description:** Software that allows the use of Quilt/Fabric Mods on your server
