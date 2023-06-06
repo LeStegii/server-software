@@ -23,7 +23,7 @@ Here you can find the recommended softwares for your use case. This list is base
   - If you want to use Forge mods and plugins on **1.16.5** you can use [Mohist](/java/MODS+PLUGINS.md#-mohist) or [Arclight](/java/MODS+PLUGINS.md#-arclight).
   - If you want to use Forge mods and plugins on **1.12.2** you can use [Magma](/java/MODS+PLUGINS.md#-magma).
   - If you want to use Forge mods and plugins on **1.7.10** you can use [Crucible](/java/MODS+PLUGINS.md#-crucible).
-  - If you want to use Fabric mods and plugins you can use [Cardboard](/java/MODS+PLUGINS.md#-cardboard-bukkit-for-fabric).
+  - If you want to use Fabric mods and plugins you can use [Mohist Banner](/java/MODS+PLUGINS.md#-mohist-banner) or [Cardboard](/java/MODS+PLUGINS.md#-cardboard-bukkit-for-fabric).
 
 ### 📙 Minecraft Bedrock
   - If you want to make a Minecraft Bedrock Server with plugins, use Spigot or Paper in combination with [Geyser](/OTHERS.md#-geysermc).
