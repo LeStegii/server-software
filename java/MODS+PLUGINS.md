@@ -45,6 +45,14 @@ This list contains Minecraft Java mods/plugins server softwares.
 - **Plugins:** Sponge
 - **Mods:** Forge
 
+### [🚩 Mohist Banner](https://github.com/MohistMC/Banner)
+- **Version:** 1.19.4
+- **Author:** MohistMC
+- **Fork:** Fabric/CraftBukkit/Spigot/Paper/Mohist/Arcligth --> Banner
+- **Description:** Fabric Mod that allows the use of Bukkit/Spigot/Paper Plugins
+- **Plugins:** Bukkit, Spigot, Paper
+- **Mods:** Fabric
+
 ### [🧻 Cardboard (Bukkit for Fabric)](https://www.curseforge.com/minecraft/mc-mods/cardboard)
 - **Version:** 1.16.4-1.18.2
 - **Author:** IsaiahPatton (CardboardPowered)
