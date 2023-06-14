@@ -27,12 +27,11 @@ If you're looking for a way to use both **plugins and mods**, checkout [this lis
 - **Description:** Software that allows the use of Quilt/Fabric Mods on your server
 - **Mods:** Quilt, Fabric
 
-# ❌ Inactive Development
 ### [⭐ GoldenForge](https://github.com/GoldenForge/GoldenForge)
 - **Alternative**: Forge
-- **Version:** 1.16.5
+- **Version:** 1.19.2
 - **Author:** manugame
 - **Fork: Forge** --> GoldenForge
-- **Description:** Fork of Forge 1.16.5 which implement some Paper patches
+- **Description:** Fork of Forge 1.19.2 which implement some Paper patches
 - **Mods:** Forge
 
