@@ -6,7 +6,7 @@ This list contains Minecraft Java mods/plugins server softwares.
 # ✔️ Active Development
 
 ### [🔶 Magma](https://magmafoundation.org)
-- **Version:** 1.12.2, 1.15.2 (Deprecated), 1.16.5 (Unsupported), 1.18.2, 1.19.4
+- **Version:** 1.12.2, 1.15.2 (Deprecated), 1.16.5 (Unsupported), 1.18.2, 1.19.3
 - **Author:** MagmaFoundation/Hexeption
 - **Fork:** Forge/Spigot/Paper/Thermos --> Magma
 - **Description:** Software that allows the use of Forge Mods and Bukkit/Spigot/Paper plugins on your server
@@ -14,7 +14,7 @@ This list contains Minecraft Java mods/plugins server softwares.
 - **Mods:** Forge
 
 ### [🪐 Mohist](https://mohistmc.com)
-- **Version:** 1.7.10 (Depracated), 1.12.2, 1.16.5, 1.19.2, 1.19.4 (Experimental)
+- **Version:** 1.7.10 (Depracated), 1.12.2, 1.16.5, 1.19.2, 1.19.4, 1.20.1 (Experimental)
 - **Author:** Mgazul
 - **Fork:** Forge/Spigot/Paper/Atom/Thermos/um_bukkit --> Mohist
 - **Description:** Software that allows the use of Forge Mods and Bukkit/Spigot/Paper plugins on your server
@@ -22,7 +22,7 @@ This list contains Minecraft Java mods/plugins server softwares.
 - **Mods:** Forge
 
 ### [🏔 Arclight](https://github.com/IzzelAliz/Arclight)
-- **Version:** 1.14-1.15.2 (Legacy), 1.16.5, 1.17.1 (Legacy), 1.18-1.19.4
+- **Version:** 1.14-1.15.2 (Legacy), 1.16.5, 1.17.1 (Legacy), 1.18-1.19.4, 1.20.1 (Experimental)
 - **Author:** IzzelAliz
 - **Fork:** Forge/CraftBukkit/Spigot --> Arclight
 - **Description:** A Bukkit(1.16/1.18) server implementation on Forge using Mixin.
@@ -46,7 +46,7 @@ This list contains Minecraft Java mods/plugins server softwares.
 - **Mods:** Forge
 
 ### [🚩 Mohist Banner](https://github.com/MohistMC/Banner)
-- **Version:** 1.19.4
+- **Version:** 1.19.4, 1.20
 - **Author:** MohistMC
 - **Fork:** Fabric/CraftBukkit/Spigot/Paper/Mohist/Arcligth --> Banner
 - **Description:** Fabric Mod that allows the use of Bukkit/Spigot/Paper Plugins
@@ -54,7 +54,7 @@ This list contains Minecraft Java mods/plugins server softwares.
 - **Mods:** Fabric
 
 ### [🧻 Cardboard (Bukkit for Fabric)](https://www.curseforge.com/minecraft/mc-mods/cardboard)
-- **Version:** 1.16.4-1.18.2
+- **Version:** 1.16.4-1.18.2, 1.19.2
 - **Author:** IsaiahPatton (CardboardPowered)
 - **Fork:** Fabric/CraftBukkit/Spigot/Paper --> Cardboard
 - **Description:** Fabric Mod that allows the use of Bukkit/Spigot/Paper Plugins (BETA!)
