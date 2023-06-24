@@ -3,7 +3,7 @@ This list contains Minecraft Java proxy server softwares.
 
 About it: Proxies manage different single minecraft servers and manage player connections in order to handle large amounts of players.
 
-⚠️ **Warning!** If a project is not in active developement exploits such as Log4J could still work!
+⚠️ **Warning!** If a project is not in active development exploits such as Log4J could still work!
 
 # ✔️ Active Development
 

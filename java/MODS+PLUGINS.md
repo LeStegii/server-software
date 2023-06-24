@@ -1,7 +1,7 @@
 # Minecraft Java Mods+Plugins Software.
 This list contains Minecraft Java mods/plugins server softwares.
 
-⚠️ **Warning!** If a project is not in active developement exploits such as Log4J could still work!
+⚠️ **Warning!** If a project is not in active development exploits such as Log4J could still work!
 
 # ✔️ Active Development
 
@@ -14,7 +14,7 @@ This list contains Minecraft Java mods/plugins server softwares.
 - **Mods:** Forge
 
 ### [🪐 Mohist](https://mohistmc.com)
-- **Version:** 1.7.10 (Depracated), 1.12.2, 1.16.5, 1.19.2, 1.19.4, 1.20.1 (Experimental)
+- **Version:** 1.7.10 (Deprecated), 1.12.2, 1.16.5, 1.19.2, 1.19.4, 1.20.1 (Experimental)
 - **Author:** Mgazul
 - **Fork:** Forge/Spigot/Paper/Atom/Thermos/um_bukkit --> Mohist
 - **Description:** Software that allows the use of Forge Mods and Bukkit/Spigot/Paper plugins on your server

@@ -1,7 +1,7 @@
 # Minecraft Bedrock Plugins Software.
 This list contains Minecraft Java vanilla server softwares.
 
-⚠️ **Warning!** If a project is not in active developement exploits such as Log4J could still work!
+⚠️ **Warning!** If a project is not in active development exploits such as Log4J could still work!
 # ✔️ Active Development
 ### [🌍 Vanilla Minecraft](https://www.minecraft.net/download/server)
 - **Version:** All

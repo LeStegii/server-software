@@ -65,6 +65,6 @@ Since most of the softwares do not support all vanilla features, it's recommende
 ### [🔴 PowerNukkit (PowerNukkitX)](https://powernukkit.org/)
 - **Author:** PowerNukkit
 - **Fork:** Nukkit --> NukkitX --> PowerNukkit
-- **Description:** Advanced fork of NukkitX with support for Pistons, Waterlogging and much more.
+- **Description:** Advanced fork of NukkitX with support for Pistons, Water-logging and much more.
 - **Plugins:** Nukkit
 - **Addons:** ❌

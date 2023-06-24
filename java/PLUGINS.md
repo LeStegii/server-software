@@ -1,7 +1,7 @@
 # Minecraft Java Plugins software.
 This list contains Minecraft Java plugins server softwares.
 
-⚠️ **Warning!** If a project is not in active developement exploits such as Log4J could still work!
+⚠️ **Warning!** If a project is not in active development exploits such as Log4J could still work!
 # ✔️ Active Development
 ### [🪣 Bukkit/CraftBukkit](https://www.spigotmc.org/wiki/buildtools/)
 - **Version:** Beta 1.2 - 1.20.1 (only 1.8+ official)
@@ -14,7 +14,7 @@ This list contains Minecraft Java plugins server softwares.
 - **Version:** 1.4.6 - 1.20.1 (only 1.8+ official)
 - **Author:** md_5/SpigotMC
 - **Fork:** CraftBukkit --> Spigot
-- **Description:** Bukkit with performance patches, more features and bungeecord support.
+- **Description:** Bukkit with performance patches, more features and Bungeecord support.
 - **Plugins:** Bukkit, Spigot
 
 ### [✉️ Paper](https://papermc.io/)
@@ -183,7 +183,7 @@ This list contains Minecraft Java plugins server softwares.
 - **Version:** 1.19.2
 - **Author:** Bloom Host
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Pufferfish --> Purpur --> Petal
-- **Description:** Performance-oriented fork of Purpur implementing multi-threaded and asynchronous improvements.
+- **Description:** Performance-oriented fork of Purpur implementing multithreaded and asynchronous improvements.
 - **Plugins:** Bukkit, Spigot, Paper
 
 ### [☣️ Fusion](https://github.com/IPECTER/Fusion)
@@ -253,7 +253,7 @@ This list contains Minecraft Java plugins server softwares.
 - **Version:** 1.16.5-1.17.1
 - **Author:** TECHNOVÉ
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Tuinity --> Airplane
-- **Description:** A stable, optimized, well supported Paper fork.
+- **Description:** A stable, optimized, well-supported Paper fork.
 - **Plugins:** Bukkit, Spigot, Paper
 
 ### [🧑🏻 Mirai](https://github.com/etil2jz/Mirai)
@@ -280,7 +280,7 @@ This list contains Minecraft Java plugins server softwares.
 - **Description:** Fork of Paper that combines the patches from different forks (Note: not recommended and abandoned)
 - **Plugins:** Bukkit, Spigot, Paper
 
-### [⬛️ Yatopia](https://github.com/YatopiaMC/Yatopia)
+### [⬛️ Topiary](https://github.com/YatopiaMC/Yatopia)
 - **Alternative:** Purpur
 - **Version:** 1.16.5
 - **Author:** YatopiaMC
