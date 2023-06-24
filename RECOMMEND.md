@@ -4,8 +4,8 @@ Here you can find the recommended softwares for your use case. This list is base
 **Note!** Some versions are outdated and shouldn't be used. There is, for example, no reason to use versions like 1.13 or 1.17, as newer versions are running far better.
 
 ### 🌍 Minecraft Vanilla
-  - If you just want to play Minecraft without any modifications, you can use the [Vanilla](SERVERS.md#-vanilla-minecraft) server. 
-  - If you want to have some bug fixes, settings and better performance, you can use [Fabric](SERVERS.md#-fabric) with the [Carpet](https://www.curseforge.com/minecraft/mc-mods/carpet) or [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) mod.
+  - If you just want to play Minecraft without any modifications, you can use the [Vanilla](java/VANILLA.md#-vanilla-minecraft) server. 
+  - If you want to have some bug fixes, settings and better performance, you can use [Fabric](java/MODS.md#-fabric) with the [Carpet](https://www.curseforge.com/minecraft/mc-mods/carpet) or [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) mod.
   
 ### 🚰 Minecraft Vanilla with plugins¡
   - If you want to use plugins on your **1.20.1** server, use [Paper](/java/PLUGINS.md#%EF%B8%8F-paper) or [Pufferfish](/java/PLUGINS.md#-pufferfish) or [Purpur](/java/PLUGINS.md#-purpur).
