@@ -7,7 +7,7 @@ This list contains Minecraft Java plugins server softwares.
 - **Version:** Beta 1.2 - 1.20.1 (only 1.8+ official)
 - **Author:** various authors, maintained by md_5/SpigotMC
 - **Fork:** -
-- **Description:** Software that allows using plugins on servers
+- **Description:** Software that allows using plugins on servers.
 - **Plugins:** Bukkit
 
 ### [🚰 Spigot](https://www.spigotmc.org/wiki/buildtools/)
@@ -105,28 +105,28 @@ This list contains Minecraft Java plugins server softwares.
 - **Version:** Beta 1.7.3
 - **Author:** canyonmodded
 - **Fork:** CraftBukkit --> Canyon
-- **Description:** Canyon is a fork of CraftBukkit for Minecraft Beta 1.7.3 including enhancements from Spigot/Paper while maintaining compatibility
+- **Description:** Canyon is a fork of CraftBukkit for Minecraft Beta 1.7.3 including enhancements from Spigot/Paper while maintaining compatibility.
 - **Plugins:** Bukkit, Spigot
 
 ### [🔆 Glowstone](https://glowstone.net/)
 - **Version:** 1.12.2, 1.16.5 (Unsupported), 1.19 (Experimental)
 - **Author:** GlowstoneMC
 - **Fork:** -
-- **Description:** Completely open source Minecraft server that doesn't rely on any of Mojang's code and supports Bukkit/Spigot/Paper plugins
+- **Description:** Completely open source Minecraft server that doesn't rely on any of Mojang's code and supports Bukkit/Spigot/Paper plugins.
 - **Plugins:** Bukkit, Spigot, Paper
 
 ### [🧽 SpongeVanilla](https://www.spongepowered.org/downloads/spongevanilla/)
 - **Version:** 1.8 - 1.12.2, 1.15 - 1.20
 - **Author:** SpongePowered
 - **Fork:** -
-- **Description:** Software that allows the use of Sponge plugins without mods
+- **Description:** Software that allows the use of Sponge plugins without mods.
 - **Plugins:** Sponge
 
 ### [🎲 Cuberite](https://cuberite.org/)
 - **Version:** 1.8 - 1.12.2
 - **Author:** cuberite
 - **Fork:** -
-- **Description:** A lightweight, fast and extensible game server for Minecraft written in C++
+- **Description:** A lightweight, fast and extensible game server for Minecraft written in C++.
 - **Plugins:** Cuberite Lua
 
 ### [✴️ Minestom](https://minestom.net/)
@@ -169,7 +169,7 @@ This list contains Minecraft Java plugins server softwares.
 - **Version:** 1.18.2
 - **Author:** etil2jz
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Pufferfish --> Purpur --> Petal --> Sakura
-- **Description:** Backport of Petal for 1.18.2
+- **Description:** Backport of Petal for 1.18.2.
 - **Plugins:** Bukkit, Spigot, Paper
 - 
 ### [🐆 ChikaCraft](https://github.com/bitbloxhub/ChikaCraft)
@@ -190,7 +190,7 @@ This list contains Minecraft Java plugins server softwares.
 - **Version:** 1.19.2 - 1.19.3
 - **Author:** IPECTER
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Pufferfish --> Mirai --> Suki --> Fusion
-- **Description:** A fork combining many different forks (Note: in development, unstable, developer doesn't recommend public usage).
+- **Description:** A fork combining many different forks (Note: in development, unstable, the developer doesn't recommend public usage).
 - **Plugins:** Bukkit, Spigot, Paper
 
 ### [🐙 Flying Squid](https://github.com/PrismarineJS/flying-squid)
@@ -205,7 +205,7 @@ This list contains Minecraft Java plugins server softwares.
 - **Version:** 1.8.8, 1.11.2, 1.12.2
 - **Author:** Techcable
 - **Fork:** CraftBukkit --> Spigot --> Paper --> TacoSpigot
-- **Description:** Paper with even higher performance
+- **Description:** Paper with even higher performance.
 - **Plugins:** Bukkit, Spigot, Paper
 
 ### [🥟 NachoSpigot](https://github.com/CobbleSword/NachoSpigot)
@@ -237,7 +237,7 @@ This list contains Minecraft Java plugins server softwares.
 - **Version:** 1.15.2, 1.16.5, 1.17.1
 - **Author:** Spottedleaf
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Tuinity
-- **Description:** Fork of Paper aimed at improving server performance at high playercounts
+- **Description:** Fork of Paper aimed at improving server performance at high playercounts.
 - **Plugins:** Bukkit, Spigot, Paper
 
 ### [🚀 Jettpack](https://gitlab.com/Titaniumtown/JettPack)
@@ -261,7 +261,7 @@ This list contains Minecraft Java plugins server softwares.
 - **Version:** 1.19.2
 - **Author:** etil2jz
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Pufferfish --> Mirai
-- **Description:** An in-development Pufferfish fork with many patches (Note: in development, developer doesn't recommend public usage).
+- **Description:** An in-development Pufferfish fork with many patches (Note: in development, the developer doesn't recommend public usage).
 - **Plugins:** Bukkit, Spigot, Paper
 
 ### [🧓 Suki](https://github.com/SuCraft/Suki)
@@ -269,7 +269,7 @@ This list contains Minecraft Java plugins server softwares.
 - **Version:** 1.19.2
 - **Author:** SuCraft
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Pufferfish --> Mirai --> Suki
-- **Description:** Fork of Mirai with additional patches (Note: in development, developer doesn't recommend public usage).
+- **Description:** Fork of Mirai with additional patches (Note: in development, the developer doesn't recommend public usage).
 - **Plugins:** Bukkit, Spigot, Paper
 
 ### [🅿️ Prismarine](https://github.com/PrismarineTeam/Prismarine)
@@ -277,7 +277,7 @@ This list contains Minecraft Java plugins server softwares.
 - **Version:** 1.19.2
 - **Author:** PrismarineTeam
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Pufferfish/Purpur/Jettpack/EmpireCraft/Patina/Mirai/Suki/Akarin/... --> Prismarine
-- **Description:** Fork of Paper that combines the patches from different forks (Note: not recommended and abandoned)
+- **Description:** Fork of Paper that combines the patches from different forks (Note: not recommended and abandoned).
 - **Plugins:** Bukkit, Spigot, Paper
 
 ### [⬛️ Topiary](https://github.com/YatopiaMC/Yatopia)
@@ -285,7 +285,7 @@ This list contains Minecraft Java plugins server softwares.
 - **Version:** 1.16.5
 - **Author:** YatopiaMC
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Tuinity + other Forks --> Yatopia
-- **Description:** Fork of Tuinity that combines patches from different forks (Note: not recommended and abandoned)
+- **Description:** Fork of Tuinity that combines patches from different forks (Note: not recommended and abandoned).
 - **Plugins:** Bukkit, Spigot, Paper
 
 ### [💮 Akarin](https://github.com/Akarin-project/Akarin)
@@ -293,7 +293,7 @@ This list contains Minecraft Java plugins server softwares.
 - **Version:** 1.12.2
 - **Author:** Akarin-project
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Tuinity --> Akarin
-- **Description:** Akarin is a powerful server software from the 'new dimension'
+- **Description:** Akarin is a powerful server software from the 'new dimension'.
 - **Plugins:** Bukkit, Spigot, Paper
 
 ### [⚫ BasaltMC](https://github.com/MyCraftServerMC/BasaltMC)
@@ -315,12 +315,12 @@ This list contains Minecraft Java plugins server softwares.
 - **Version:** Beta
 - **Author:** traitor
 - **Fork:** -
-- **Description:** Server administration mod and API for Minecraft beta multiplayer server (inspiration for Bukkit)
+- **Description:** Server administration mod and API for Minecraft beta multiplayer server (inspiration for Bukkit).
 - **Plugins:** hMod
 
 ### [🐦 CanaryMod](https://canarymod.net/)
 - **Version:** Beta
 - **Author:** CanaryModTeam
 - **Fork:** hMod --> CanaryMod
-- **Description:** A fork of hMod
+- **Description:** A fork of hMod.
 - **Plugins:** hMod

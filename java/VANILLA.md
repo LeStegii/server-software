@@ -7,7 +7,7 @@ This list contains Minecraft Java vanilla server softwares.
 - **Version:** All
 - **Author:** Mojang Studio (Microsoft)
 - **Fork:** -
-- **Description:** Official Minecraft Vanilla Multiplayer server by Mojang Studio (Microsoft)
+- **Description:** Official Minecraft Vanilla Multiplayer server by Mojang Studio (Microsoft).
 
 ### [💡 Krypton](https://github.com/KryptonMC/Krypton)
 - **Version:** 1.18-1.19

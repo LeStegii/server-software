@@ -7,7 +7,7 @@ This list contains softwares that are related to minecraft servers but are no se
   - **Version:** Latest Bedrock/Java Server Version
   - **Author:** GeyserMC
   - **Fork:** -
-  - **Description:** Software that allows bedrock players to join Java servers
+  - **Description:** Software that allows bedrock players to join Java servers.
   - **Platforms:** Bukkit/Spigot/Paper, Bungeecord, Sponge, Velocity
 
 # ❌ Inactive Development
