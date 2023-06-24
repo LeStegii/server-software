@@ -11,20 +11,6 @@ Since most of the softwares do not support all vanilla features, it's recommende
 - **Plugins:** Nukkit
 - **Addons:** ❌
 
-### [💨 LiteLoader BDS](https://github.com/LiteLDev/LiteLoaderBDS)
-- **Author:** LiteLDev
-- **Fork:** -
-- **Description:** An unofficial plugin loader that provides basic API support for Bedrock Dedicated Server.
-- **Plugins:** LiteLoaderAPI (C++, JS, Lua, C#)
-- **Addons:** ❌
-
-### [🔴 PowerNukkit (PowerNukkitX)](https://powernukkit.org/)
-- **Author:** PowerNukkit
-- **Fork:** Nukkit --> NukkitX --> PowerNukkit
-- **Description:** Advanced fork of NukkitX with support for Pistons, Waterlogging and much more.
-- **Plugins:** Nukkit
-- **Addons:** ❌
-
 ### [☁️ Cloudburst](https://github.com/CloudburstMC/Server)
 - **Author:** CloudburstMC
 - **Fork:** Nukkit/NukkitX --> Cloudburst
@@ -67,4 +53,18 @@ Since most of the softwares do not support all vanilla features, it's recommende
 - **Fork:** -
 - **Description:**  A (not so) basic Minecraft Pocket Edition server written in C# 
 - **Plugins:** .NET
+- **Addons:** ❌
+
+### [💨 LiteLoader BDS](https://github.com/LiteLDev/LiteLoaderBDS)
+- **Author:** LiteLDev
+- **Fork:** -
+- **Description:** An unofficial plugin loader that provides basic API support for Bedrock Dedicated Server.
+- **Plugins:** LiteLoaderAPI (C++, JS, Lua, C#)
+- **Addons:** ❌
+
+### [🔴 PowerNukkit (PowerNukkitX)](https://powernukkit.org/)
+- **Author:** PowerNukkit
+- **Fork:** Nukkit --> NukkitX --> PowerNukkit
+- **Description:** Advanced fork of NukkitX with support for Pistons, Waterlogging and much more.
+- **Plugins:** Nukkit
 - **Addons:** ❌

@@ -21,13 +21,13 @@ This list contains Minecraft Java vanilla server softwares.
 - **Fork:** -
 - **Description:** A Minecraft server implementation written in Go.
 
+# ❌ Inactive Development
 ### [✒ feather](https://github.com/feather-rs/feather)
 - **Version:** 1.16.5
 - **Author:** feather-rs
 - **Fork:** -
 - **Description:** A Minecraft server implementation written in Rust.
 
-# ❌ Inactive Development
 ### [♻️ TrueCraft](https://github.com/ddevault/TrueCraft)
 - **Version:** Beta 1.7.3
 - **Author:** ddevault

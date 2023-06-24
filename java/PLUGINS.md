@@ -52,13 +52,6 @@ This list contains Minecraft Java plugins server softwares.
 - **Description** A fork of Paper used by the Empire Minecraft Server with more features and extended API.
 - **Plugins** Bukkit, Spigot, Paper
 
-### [🌯 BurritoSpigot](https://github.com/CobbleSword/BurritoSpigot)
-- **Version:** 1.8.8
-- **Author:** CobbleSword
-- **Fork:** CraftBukkit --> Spigot --> Paper --> TacoSpigot --> BurritoSpigot
-- **Description:** Fork of TacoSpigot with performance patches, bugfixes and new features.
-- **Plugins:** Bukkit, Spigot, Paper
-
 ### [⚽ SportPaper](https://github.com/Electroid/SportPaper)
 - **Version:** 1.8.8
 - **Author:** Electroid
@@ -87,26 +80,12 @@ This list contains Minecraft Java plugins server softwares.
 - **Description:** Fork of Tuinity/Pufferfish with the goal of providing new and interesting configuration options.
 - **Plugins:** Bukkit, Spigot, Paper
 
-### [🎯 ArcadePaper](https://github.com/arcadiamc-cz/ArcadePaper)
-- **Version:** 1.8.8
-- **Author:** arcadiamc-cz
-- **Fork:** CraftBukkit --> Spigot --> Paper --> ArcadePaper
-- **Description:** A fork of Paper 1.8.8 with some patches and extended features.
-- **Plugins:** Bukkit, Spigot, Paper
-
 ### [⬛ Obsidian](https://github.com/ObsidianMC/Obsidian)
 - **Version:** 1.19.4 - 1.20
 - **Author:** ObsidianMC
 - **Fork:** -
 - **Description:** A C# implementation of the Minecraft server protocol.
 - **Plugins:** Obsidian
-
-### [🦈 Sharkur](https://github.com/SharkurMC/Sharkur)
-- **Version:** 1.19 - 1.19.1
-- **Author:** SharkurMC
-- **Fork:** CraftBukkit --> Spigot --> Paper --> Pufferfish --> Purpur --> Sharkur
-- **Description:** Fork of Purpur which adds more configuration and also some optimization.
-- **Plugins:** Bukkit, Spigot, Paper
 
 ### [🔗 Matter](https://github.com/plasmoapp/matter/)
 - **Version:** 1.18.2 - 1.19.3
@@ -165,6 +144,27 @@ This list contains Minecraft Java plugins server softwares.
 - **Plugins:** Bukkit, Spigot, Paper
 
 # ❌ Inactive Development
+### [🦈 Sharkur](https://github.com/SharkurMC/Sharkur)
+- **Version:** 1.19 - 1.19.1
+- **Author:** SharkurMC
+- **Fork:** CraftBukkit --> Spigot --> Paper --> Pufferfish --> Purpur --> Sharkur
+- **Description:** Fork of Purpur which adds more configuration and also some optimization.
+- **Plugins:** Bukkit, Spigot, Paper
+
+### [🎯 ArcadePaper](https://github.com/arcadiamc-cz/ArcadePaper)
+- **Version:** 1.8.8
+- **Author:** arcadiamc-cz
+- **Fork:** CraftBukkit --> Spigot --> Paper --> ArcadePaper
+- **Description:** A fork of Paper 1.8.8 with some patches and extended features.
+- **Plugins:** Bukkit, Spigot, Paper
+
+### [🌯 BurritoSpigot](https://github.com/CobbleSword/BurritoSpigot)
+- **Version:** 1.8.8
+- **Author:** CobbleSword
+- **Fork:** CraftBukkit --> Spigot --> Paper --> TacoSpigot --> BurritoSpigot
+- **Description:** Fork of TacoSpigot with performance patches, bugfixes and new features.
+- **Plugins:** Bukkit, Spigot, Paper
+
 ### [🌸 Sakura](https://github.com/etil2jz/Sakura)
 - **Version:** 1.18.2
 - **Author:** etil2jz
