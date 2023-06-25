@@ -11,11 +11,11 @@ Since most of the softwares do not support all vanilla features, it's recommende
 - **Plugins:** Nukkit
 - **Addons:** ❌
 
-### [☁️ Cloudburst](https://github.com/CloudburstMC/Server)
-- **Author:** CloudburstMC
-- **Fork:** Nukkit/NukkitX --> Cloudburst
-- **Description:** Server software for Minecraft: Bedrock Edition written in Java.
-- **Plugins:** Nukkit
+### [💨 LiteLoader BDS](https://github.com/LiteLDev/LiteLoaderBDS)
+- **Author:** LiteLDev
+- **Fork:** -
+- **Description:** An unofficial plugin loader that provides basic API support for Bedrock Dedicated Server.
+- **Plugins:** LiteLoaderAPI (C++, JS, Lua, C#)
 - **Addons:** ❌
 
 ### [💠 PocketMine-MP](https://github.com/pmmp/PocketMine-MP)
@@ -55,16 +55,16 @@ Since most of the softwares do not support all vanilla features, it's recommende
 - **Plugins:** .NET
 - **Addons:** ❌
 
-### [💨 LiteLoader BDS](https://github.com/LiteLDev/LiteLoaderBDS)
-- **Author:** LiteLDev
-- **Fork:** -
-- **Description:** An unofficial plugin loader that provides basic API support for Bedrock Dedicated Server.
-- **Plugins:** LiteLoaderAPI (C++, JS, Lua, C#)
-- **Addons:** ❌
-
 ### [🔴 PowerNukkit (PowerNukkitX)](https://powernukkit.org/)
 - **Author:** PowerNukkit
 - **Fork:** Nukkit --> NukkitX --> PowerNukkit
 - **Description:** Advanced fork of NukkitX with support for Pistons, Water-logging and much more.
+- **Plugins:** Nukkit
+- **Addons:** ❌
+
+### [☁️ Cloudburst](https://github.com/CloudburstMC/Server)
+- **Author:** CloudburstMC
+- **Fork:** Nukkit/NukkitX --> Cloudburst
+- **Description:** Server software for Minecraft: Bedrock Edition written in Java.
 - **Plugins:** Nukkit
 - **Addons:** ❌

@@ -280,7 +280,7 @@ This list contains Minecraft Java plugins server softwares.
 - **Description:** Fork of Paper that combines the patches from different forks (Note: not recommended and abandoned).
 - **Plugins:** Bukkit, Spigot, Paper
 
-### [⬛️ Topiary](https://github.com/YatopiaMC/Yatopia)
+### [⬛️ Yatopia](https://github.com/YatopiaMC/Yatopia)
 - **Alternative:** Purpur
 - **Version:** 1.16.5
 - **Author:** YatopiaMC
