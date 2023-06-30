@@ -1,38 +1,38 @@
 # Minecraft Java Proxy software.
 This list contains Minecraft Java proxy server softwares.
 
-About it: Proxies manage different single minecraft servers and manage player connections in order to handle large amounts of players.
+About it: Proxies manage different single minecraft servers and manage player connections in order to handle a large number of players.
 
-⚠️ **Warning!** If a project is not in active developement exploits such as Log4J could still work!
+⚠️ **Warning!** If a project is not in active development exploits such as Log4J could still work!
 
 # ✔️ Active Development
 
 ### [🌐 Bungeecord](https://github.com/SpigotMC/BungeeCord)
-- **Version:** 1.8 - 1.19.4
+- **Version:** 1.8 - 1.20.1
 - **Author:** md_5/SpigotMC
 - **Fork:**
 - **Description:** Proxy that manages spigot servers and connects players to it.
 
 ### [🌊 Waterfall](https://github.com/PaperMC/Waterfall)
-- **Version:** 1.8 - 1.19.4
+- **Version:** 1.8 - 1.20.1
 - **Author:** PaperMC
 - **Fork:** Bungeecord --> Waterfall
 - **Description:** Bungeecord focused on stability, new features and scalability.
 
 ### ️‍[🔥 FlameCord](https://github.com/2lstudios-mc/FlameCord)
-- **Version:** 1.8 - 1.19.4
+- **Version:** 1.8 - 1.20.1
 - **Author:** 2lstudios-mc
 - **Fork:** Bungeecord --> Waterfall --> FlameCord
 - **Description:** Waterfall fork with Netty Exploits fixes and built-in firewall.
 
 ### [🌠 Velocity](https://www.velocitypowered.com/)
-- **Version:** 1.7.2 - 1.19.4
+- **Version:** 1.7.2 - 1.20.1
 - **Author:** VelocityPowered
 - **Fork:** -
 - **Description:** Proxy with unparalleled server support, scalability, and flexibility.
 
 ### [💨 lightfall](https://github.com/ArclightPowered/lightfall)
-- **Version:** 1.8 - 1.19.4
+- **Version:** 1.8 - 1.20.1
 - **Author:** ArclightPowered
 - **Fork:** Bungeecord --> Waterfall --> lightfall
 - **Description:** A fork of Waterfall with modern forge support (requires a client side mod).
