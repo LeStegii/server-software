@@ -13,6 +13,13 @@ If you're looking for a way to use both **plugins and mods**, checkout [this lis
 - **Description:** Software that allows the use of Forge Mods on your server.
 - **Mods:** Forge
 
+### [🦊 Neoforge](https://neoforged.net/)
+- **Version:** 1.20.1
+- **Author:** NeoForged
+- **Fork:** MincraftForge --> NeoForge
+- **Description:** A fork of NeoForge trying to fix issues with Forge's team/development.
+- **Mods:** Forge, NeoForge
+
 ### [🧻 Fabric](https://fabricmc.net/)
 - **Version:** 1.14.4-1.20.1, Snapshots
 - **Author:** FabricMC
