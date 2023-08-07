@@ -25,7 +25,7 @@ This list contains Minecraft Java plugins server softwares.
 - **Plugins:** Bukkit, Spigot, Paper
 
 ### [🎋 Leaves](https://github.com/LeavesMC/Leaves)
-- **Version:** 1.18.2 - 1.19.4
+- **Version:** 1.18.2 - 1.20.1
 - **Author:** LeavesMC
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Leaves
 - **Description:** A fork of Paper aimed at repairing broken vanilla properties and adding new api/features.
@@ -87,13 +87,6 @@ This list contains Minecraft Java plugins server softwares.
 - **Description:** A C# implementation of the Minecraft server protocol.
 - **Plugins:** Obsidian
 
-### [🔗 Matter](https://github.com/plasmoapp/matter/)
-- **Version:** 1.18.2 - 1.19.3
-- **Author:** Plasmo
-- **Fork:** CraftBukkit --> Spigot --> Paper --> Pufferfish --> Matter
-- **Description:** Fork of Pufferfish making the server seed uncrackable.
-- **Plugins:** Bukkit, Spigot, Paper
-
 ### [🧼 Patina](https://github.com/PatinaMC/Patina)
 - **Version:** 1.16.5-1.20.1
 - **Author:** PatinaMC
@@ -137,11 +130,18 @@ This list contains Minecraft Java plugins server softwares.
 - **Plugins:** Minestom implementations
 
 ### [✂️ Slice](https://github.com/Cryptite/Slice)
-- **Version:** 1.17.1 - 1.20
+- **Version:** 1.17.1 - 1.21
 - **Author:** Cryptite
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Slice
 - **Description:** A fork of Paper with additional patches (Note: nearly no information available, not recommended).
 - **Plugins:** Bukkit, Spigot, Paper
+
+- ### [🐙 Flying Squid](https://github.com/PrismarineJS/flying-squid)
+- **Version:** 1.8 - 1.16.1
+- **Author:** PrismarineJS
+- **Fork:** -
+- **Description:** Create Minecraft servers with a powerful, stable, and high level JavaScript API.
+- **Plugins:** Flying Squid
 
 # ❌ Inactive Development
 ### [🦈 Sharkur](https://github.com/SharkurMC/Sharkur)
@@ -193,12 +193,12 @@ This list contains Minecraft Java plugins server softwares.
 - **Description:** A fork combining many different forks (Note: in development, unstable, the developer doesn't recommend public usage).
 - **Plugins:** Bukkit, Spigot, Paper
 
-### [🐙 Flying Squid](https://github.com/PrismarineJS/flying-squid)
-- **Version:** 1.8 - 1.16.1
-- **Author:** PrismarineJS
-- **Fork:** -
-- **Description:** Create Minecraft servers with a powerful, stable, and high level JavaScript API.
-- **Plugins:** Flying Squid
+### [🔗 Matter](https://github.com/plasmoapp/matter/)
+- **Version:** 1.18.2 - 1.19.3
+- **Author:** Plasmo
+- **Fork:** CraftBukkit --> Spigot --> Paper --> Pufferfish --> Matter
+- **Description:** Fork of Pufferfish making the server seed uncrackable.
+- **Plugins:** Bukkit, Spigot, Paper
 
 ### [🌮 TacoSpigot](https://tacospigot.github.io/)
 - **Alternative:** BurritoSpigot/Paper
