@@ -24,6 +24,14 @@ This list contains Minecraft Java plugins server softwares.
 - **Description:** Spigot with performance patches and more features.
 - **Plugins:** Bukkit, Spigot, Paper
 
+### [🗺 Folia](https://github.com/PaperMC/Folia)
+- **Version:** 1.19.4-1.20.1
+- **Author:** PaperMC
+- **Fork:** CraftBukkit --> Spigot --> Paper --> Folia
+- **Description:** A software splitting the world into multiple areas and ticking them seperatly.
+- **Plugins:** Paper (Folia)
+
+
 ### [🎋 Leaves](https://github.com/LeavesMC/Leaves)
 - **Version:** 1.18.2 - 1.20.1
 - **Author:** LeavesMC
