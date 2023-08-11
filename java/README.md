@@ -8,6 +8,8 @@
 **Minecraft server software supporting mods for Forge/Fabric.**
 ### 📕 [Mods + Plugins (Magma, Mohist, CardBoard, ...)](/java/MODS+PLUGINS.md)
 **Minecraft server software supporting mods and plugins at the same time.**
+### 📗 [Regionized (Folia, ...)](/java/FOLIA.md)
+**Minecraft server software splitting the server into multiple regions.**
 
 ### 📚 [Proxies (BungeeCord, Waterfall, Velocity, ...)](/java/PROXIES.md)
 **Software for connecting multiple servers with each other.**
