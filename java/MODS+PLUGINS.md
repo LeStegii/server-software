@@ -83,7 +83,7 @@ This list contains Minecraft Java mods/plugins server softwares.
 
 ### [🗑 (k)Cauldron](https://sourceforge.net/projects/cauldron-unofficial/)
 - **Alternative**: Crucible
-- **Version:** 1.2.5-1.7.10 (not all versions covered)
+- **Version:** 1.7.10
 - **Author:** Various authors
 - **Fork:** Forge/CraftBukkit --> MCPC+ --> Cauldron --> kCauldron
 - **Description:** Software that allows the use of Forge Mods and Bukkit plugins on your server (very old, not updated, not recommended).
