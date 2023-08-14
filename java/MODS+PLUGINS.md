@@ -9,7 +9,7 @@ This list contains Minecraft Java mods/plugins server softwares.
 - **Version:** 1.12.2, 1.15.2 (Deprecated), 1.16.5 (Unsupported), 1.18.2, 1.19.3
 - **Author:** MagmaFoundation/Hexeption
 - **Fork:** Forge/Spigot/Paper/Thermos --> Magma
-- **Description:** Software that allows the use of Forge Mods and Bukkit/Spigot/Paper plugins on your server.
+- **Description:** Software that allows the use of Forge Mods and Bukkit/Spigot plugins on your server.
 - **Plugins:** Bukkit, Spigot, Paper
 - **Mods:** Forge
 
@@ -45,10 +45,10 @@ This list contains Minecraft Java mods/plugins server softwares.
 - **Plugins:** Sponge
 - **Mods:** Forge
 
-### [🚩 Mohist Banner](https://github.com/MohistMC/Banner)
+### [🚩 Banner](https://github.com/MohistMC/Banner)
 - **Version:** 1.19.4, 1.20
 - **Author:** MohistMC
-- **Fork:** Fabric/CraftBukkit/Spigot/Paper/Mohist/Arcligth --> Banner
+- **Fork:** Fabric/CraftBukkit/Spigot/Paper/Mohist/Arclight --> Banner
 - **Description:** Fabric Mod that allows the use of Bukkit/Spigot/Paper Plugins.
 - **Plugins:** Bukkit, Spigot, Paper
 - **Mods:** Fabric
@@ -71,6 +71,7 @@ This list contains Minecraft Java mods/plugins server softwares.
 
 # ❌ Inactive Development
 
+
 ### [🌫️ Mist](https://github.com/MinecraftMist/Mist)
 - **Alternative**: Mohist
 - **Version**: 1.16.5
@@ -80,7 +81,7 @@ This list contains Minecraft Java mods/plugins server softwares.
 - **Plugins:** Bukkit, Spigot, Paper
 - **Mods:** Forge
 
-### [🗑 (k)Cauldron/MCPC+](https://sourceforge.net/projects/cauldron-unofficial/)
+### [🗑 (k)Cauldron](https://sourceforge.net/projects/cauldron-unofficial/)
 - **Alternative**: Crucible
 - **Version:** 1.2.5-1.7.10 (not all versions covered)
 - **Author:** Various authors
@@ -178,3 +179,12 @@ This list contains Minecraft Java mods/plugins server softwares.
 - **Description:** Software that allows the use of Forge Mods and Bukkit/Spigot/Paper plugins on your server.
 - **Plugins:** Bukkit, Spigot
 - **Mods:** Forge
+
+### [MCPC+](http://rk2xq6ujanjskx7o2hs5kqfljhdzycn7pfffnwjonunj6woqzpicnpqd.onion)
+- **Alternative**: Crucible
+- **Version:** 1.2.5-1.7.10 
+- **Author:** MD-5
+- **Fork:** Forge/CraftBukkit --> MCPC+
+- **Description:** Software that allows the use of Forge Mods and Bukkit plugins on your server (very old, not updated, not recommended).
+- **Plugins:** Bukkit, Spigot
+- **Mods:** ️ Forge
