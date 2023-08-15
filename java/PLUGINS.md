@@ -174,6 +174,13 @@ This list contains Minecraft Java plugins server softwares.
 - **Fork:** TacoSpigot
 - **Description:** Another premium TacoSpigot fork with promises of improved TNT and knockback for PvP and Factions servers.
 
+### [🔥 FlamePaper](https://builtbybit.com/resources/flamepaper-fix-performance-security.19660/)
+- **Version:** 1.8.8
+- **Author:** LinsaFTW
+- **Fork:** Paper
+- **Description:** A 1.8.8 fork of PaperSpigot aiming to improve security and performance for stability.
+
+
 
 
 # ❌ Inactive Development
@@ -371,6 +378,10 @@ This list contains Minecraft Java plugins server softwares.
 - **Fork:** Purpur
 - **Description:** A 1.16.5 Purpur fork with built-in system monitor and optimized block and chunk ticking methods.|
 
-
+### [🌟 Cleanstone](https://github.com/CleanstoneMC/Cleanstone)
+- **Version:** 1.12.2 - 1.14
+- **Author:** LeonMangler
+- **Fork:** -
+- **Description:** A multi-core design server jar coded from the ground up.
 
 
