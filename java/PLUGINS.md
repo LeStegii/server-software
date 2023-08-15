@@ -143,7 +143,47 @@ This list contains Minecraft Java plugins server softwares.
 - **Description:** Create Minecraft servers with a powerful, stable, and high level JavaScript API.
 - **Plugins:** Flying Squid
 
+### [🦊 FoxSpigot*](https://scalebound.club/)
+- **Version:** 1.8.8
+- **Author:** SB-DEVELOPMENT
+- **Fork:** Spigot
+- **Description:** A fork of Spigot aiming to make PvP servers perform better.
+
+### [🪂 aSpigot*](https://scalebound.club/)
+- **Version:** 1.7.10
+- **Author:** SB-DEVELOPMENT
+- **Fork:** Paper
+- **Description:** A premium 1.7.10 Paper fork with custom knockback editing, togglable mob AI, and features for HCF servers.
+
+### [🔗 wSpigot*](https://scalebound.club/)
+- **Version:** 1.7.10 - 1.8.x
+- **Author:** SB-DEVELOPMENT
+- **Fork:** TacoSpigot
+- **Description:** Another premium TacoSpigot fork with improved TNT and knockback for PvP and Factions servers.
+
+### [🔥 KSpigot](https://scalebound.club/)
+- **Version:** 1.12.2
+- **Author:** SB-DEVELOPMENT
+- **Fork:** Paper
+- **Description:** A performance server jar built off of Paper with custom knockback and entity pathing.
+- **Status:** Currently Active
+
+### [🔵 mSpigot*](https://scalebound.club/)
+- **Version:** 1.8.8
+- **Author:** SB-DEVELOPMENT
+- **Fork:** TacoSpigot
+- **Description:** Another premium TacoSpigot fork with promises of improved TNT and knockback for PvP and Factions servers.
+
+
+
 # ❌ Inactive Development
+
+### [🎨 pSpigot](https://scalebound.club/)
+- **Version:** 1.7.10 - 1.8.x
+- **Author:** SB-DEVELOPMENT
+- **Fork:** TacoSpigot
+- **Description:** A 1.7.10 - 1.8.x TacoSpigot fork with custom knockback editing and options like toggleable mob AI.
+
 ### [🦈 Sharkur](https://github.com/SharkurMC/Sharkur)
 - **Version:** 1.19 - 1.19.1
 - **Author:** SharkurMC
@@ -324,3 +364,13 @@ This list contains Minecraft Java plugins server softwares.
 - **Fork:** hMod --> CanaryMod
 - **Description:** A fork of hMod.
 - **Plugins:** hMod
+
+### [🚀 APOLLO16](https://builtbybit.com/resources/apollo16-most-optimized-1-16-5-fork-on-mcm.16271/)
+- **Version:** 1.16.5
+- **Author:** MeerBiene
+- **Fork:** Purpur
+- **Description:** A 1.16.5 Purpur fork with built-in system monitor and optimized block and chunk ticking methods.|
+
+
+
+
