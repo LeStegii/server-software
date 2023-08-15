@@ -186,6 +186,11 @@ This list contains Minecraft Java plugins server softwares.
 - **Fork:** TacoSpigot
 - **Description:** A 1.8.8 TacoSpigot fork focused on SkyBlock servers with entity optimizations, mob stacking, and knockback editing.
 
+### [🍺 BeerSpigot](https://builtbybit.com/threads/%E2%9C%85-breadspigot-%E2%9C%85-skyblock-spigot-optimized-hoppers-entities-redstone-etc-mega-sale-30.475910/)
+- **Version:** 1.8.8
+- **Author:** Diz
+- **Fork:** TacoSpigot
+- **Description:** A 1.8.8 TacoSpigot fork focused on Factions servers with built-in knockback editing and various Factions features.
 
 
 # ❌ Inactive Development
