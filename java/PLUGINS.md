@@ -154,7 +154,7 @@ This list contains Minecraft Java plugins server softwares.
 - **Version:** 1.19.4
 - **Author:** PlazmaMC
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Pufferfish --> Mirai --> Suki --> Fusion --> Andromeda --> Plazma
-- **Description:** Successor to Fusion and andromeda
+- **Description:** Successor to Fusion and Andromeda.
 - **Plugins:** Bukkit, Spigot, Paper
 
 
