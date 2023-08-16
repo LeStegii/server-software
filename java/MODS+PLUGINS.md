@@ -180,7 +180,7 @@ This list contains Minecraft Java mods/plugins server softwares.
 - **Plugins:** Bukkit, Spigot
 - **Mods:** Forge
 
-### [🚧 MCPC+](http://rk2xq6ujanjskx7o2hs5kqfljhdzycn7pfffnwjonunj6woqzpicnpqd.onion)
+### 🚧 MCPC+
 - **Alternative**: Crucible
 - **Version:** 1.2.5-1.7.2 
 - **Author:** MD-5
