@@ -180,7 +180,11 @@ This list contains Minecraft Java plugins server softwares.
 - **Fork:** Paper
 - **Description:** A 1.8.8 fork of PaperSpigot aiming to improve security and performance for stability.
 
-
+### [⚡ Plazma](https://github.com/PlazmaMC/Plazma)
+- **Version:** 1.19.4
+- **Author:** PlazmaMC
+- **Fork:** CraftBukkit --> Spigot --> Paper --> Pufferfish --> Mirai --> Suki --> Fusion --> Andromeda --> Plazma
+- **Description:** Successor to Fusion and andromeda
 
 
 # ❌ Inactive Development
