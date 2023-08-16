@@ -49,5 +49,5 @@ If you're looking for a way to use both **plugins and mods**, checkout [this lis
 - **Version:** 1.5.2 - 1.12.2
 - **Author:** Mumfrey
 - **Fork: Forge** --> Liteloader
-- **Description:** A Mod loader that works ontop of forge or on its own and is forge mod compatable
-- **Mods:** Forge/liteloader
+- **Description:** A Mod loader that works ontop of Forge or on its own and is Forge mod compatable
+- **Mods:** Forge/Liteloader
