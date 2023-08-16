@@ -180,9 +180,9 @@ This list contains Minecraft Java mods/plugins server softwares.
 - **Plugins:** Bukkit, Spigot
 - **Mods:** Forge
 
-### 🚧 MCPC+
+### [🚧 MCPC+](https://apocgaming.net/repo/jars/hybrid-servers/MCPC/)
 - **Alternative**: Crucible
-- **Version:** 1.2.5-1.7.2 
+- **Version:** 1.2.5-1.7.2(not all Versions aviable) 
 - **Author:** MD-5
 - **Fork:** Forge/CraftBukkit --> MCPC+
 - **Description:** Software that allows the use of Forge Mods and Bukkit plugins on your server (very old, not updated, not recommended).
