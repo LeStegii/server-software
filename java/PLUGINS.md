@@ -146,38 +146,38 @@ This list contains Minecraft Java plugins server softwares.
 ### [🦊 FoxSpigot*](https://scalebound.club/)
 - **Version:** 1.8.8
 - **Author:** SB-DEVELOPMENT
-- **Fork:** Spigot
+- **Fork:** CraftBukkit --> Spigot --> FoxSpigot
 - **Description:** A fork of Spigot aiming to make PvP servers perform better.
 
 ### [🪂 aSpigot*](https://scalebound.club/)
 - **Version:** 1.7.10
 - **Author:** SB-DEVELOPMENT
-- **Fork:** Paper
+- **Fork:**  CraftBukkit --> Spigot --> Paper --> aSpigot
 - **Description:** A premium 1.7.10 Paper fork with custom knockback editing, togglable mob AI, and features for HCF servers.
 
 ### [🔗 wSpigot*](https://scalebound.club/)
 - **Version:** 1.7.10 - 1.8.x
 - **Author:** SB-DEVELOPMENT
-- **Fork:** TacoSpigot
+- **Fork:** CraftBukkit --> Spigot --> Paper --> TacoSpigot --> wSpigot
 - **Description:** Another premium TacoSpigot fork with improved TNT and knockback for PvP and Factions servers.
 
-### [🔥 KSpigot](https://scalebound.club/)
+### [🔥 kSpigot](https://scalebound.club/)
 - **Version:** 1.12.2
 - **Author:** SB-DEVELOPMENT
-- **Fork:** Paper
+- **Fork:** CraftBukkit --> Spigot --> Paper --> kSpigot
 - **Description:** A performance server jar built off of Paper with custom knockback and entity pathing.
 - **Status:** Currently Active
 
 ### [🔵 mSpigot*](https://scalebound.club/)
 - **Version:** 1.8.8
 - **Author:** SB-DEVELOPMENT
-- **Fork:** TacoSpigot
+- **Fork:** CraftBukkit --> Spigot --> Paper --> TacoSpigot --> mSpigot
 - **Description:** Another premium TacoSpigot fork with promises of improved TNT and knockback for PvP and Factions servers.
 
 ### [🔥 FlamePaper](https://builtbybit.com/resources/flamepaper-fix-performance-security.19660/)
 - **Version:** 1.8.8
 - **Author:** LinsaFTW
-- **Fork:** Paper
+- **Fork:** CraftBukkit --> Spigot --> Paper --> FlamePaper
 - **Description:** A 1.8.8 fork of PaperSpigot aiming to improve security and performance for stability.
 
 ### [⚡ Plazma](https://github.com/PlazmaMC/Plazma)
@@ -192,19 +192,19 @@ This list contains Minecraft Java plugins server softwares.
 ### [🍞 BreadSpigot](https://builtbybit.com/threads/%E2%9C%85-breadspigot-%E2%9C%85-skyblock-spigot-optimized-hoppers-entities-redstone-etc-mega-sale-30.475910/)
 - **Version:** 1.8.8
 - **Author:** Diz
-- **Fork:** TacoSpigot
+- **Fork:** CraftBukkit --> Spigot --> Paper --> TacoSpigot --> BreadSpigot
 - **Description:** A 1.8.8 TacoSpigot fork focused on SkyBlock servers with entity optimizations, mob stacking, and knockback editing.
 
 ### [🍺 BeerSpigot](https://builtbybit.com/threads/%E2%9C%85-breadspigot-%E2%9C%85-skyblock-spigot-optimized-hoppers-entities-redstone-etc-mega-sale-30.475910/)
 - **Version:** 1.8.8
 - **Author:** Diz
-- **Fork:** TacoSpigot
+- **Fork:**  CraftBukkit --> Spigot --> Paper --> TacoSpigot --> BeerSpigot
 - **Description:** A 1.8.8 TacoSpigot fork focused on Factions servers with built-in knockback editing and various Factions features.
 
 ### [🎨 pSpigot](https://scalebound.club/)
 - **Version:** 1.7.10 - 1.8.x
 - **Author:** SB-DEVELOPMENT
-- **Fork:** TacoSpigot
+- **Fork:** CraftBukkit --> Spigot --> Paper --> TacoSpigot --> pSpigot
 - **Description:** A 1.7.10 - 1.8.x TacoSpigot fork with custom knockback editing and options like toggleable mob AI.
 
 ### [🦈 Sharkur](https://github.com/SharkurMC/Sharkur)
@@ -391,7 +391,7 @@ This list contains Minecraft Java plugins server softwares.
 ### [🚀 APOLLO16](https://builtbybit.com/resources/apollo16-most-optimized-1-16-5-fork-on-mcm.16271/)
 - **Version:** 1.16.5
 - **Author:** MeerBiene
-- **Fork:** Purpur
+- **Fork:** CraftBukkit --> Spigot --> Paper --> Pufferfish --> Purpur --> APOLLO16
 - **Description:** A 1.16.5 Purpur fork with built-in system monitor and optimized block and chunk ticking methods.|
 
 ### [🌟 Cleanstone](https://github.com/CleanstoneMC/Cleanstone)
