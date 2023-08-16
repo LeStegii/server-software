@@ -142,8 +142,24 @@ This list contains Minecraft Java plugins server softwares.
 - **Fork:** -
 - **Description:** Create Minecraft servers with a powerful, stable, and high level JavaScript API.
 - **Plugins:** Flying Squid
+  
+### [🔥 FlamePaper](https://github.com/galgotuberz/FlamePaper)
+- **Version:** 1.8.8
+- **Author:** LinsaFTW
+- **Fork:** CraftBukkit --> Spigot --> Paper --> FlamePaper
+- **Description:** A 1.8.8 fork of PaperSpigot aiming to improve security and performance for stability.
+- **Plugins:** Bukkit, Spigot, Paper
+  
+### [⚡ Plazma](https://github.com/PlazmaMC/Plazma)
+- **Version:** 1.19.4
+- **Author:** PlazmaMC
+- **Fork:** CraftBukkit --> Spigot --> Paper --> Pufferfish --> Mirai --> Suki --> Fusion --> Andromeda --> Plazma
+- **Description:** Successor to Fusion and Andromeda.
+- **Plugins:** Bukkit, Spigot, Paper
+
 
 # ❌ Inactive Development
+  
 ### [🦈 Sharkur](https://github.com/SharkurMC/Sharkur)
 - **Version:** 1.19 - 1.19.1
 - **Author:** SharkurMC
@@ -324,3 +340,7 @@ This list contains Minecraft Java plugins server softwares.
 - **Fork:** hMod --> CanaryMod
 - **Description:** A fork of hMod.
 - **Plugins:** hMod
+
+  
+
+

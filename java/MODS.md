@@ -43,3 +43,11 @@ If you're looking for a way to use both **plugins and mods**, checkout [this lis
 - **Mods:** Forge
 
 # ❌ Inactive Development
+
+### [🐔 LiteLoader](http://www.liteloader.com/explore)
+- **Alternative**: Forge
+- **Version:** 1.5.2 - 1.12.2
+- **Author:** Mumfrey
+- **Fork: Forge** --> Liteloader
+- **Description:** A Mod loader that works ontop of Forge or on its own and is Forge mod compatable
+- **Mods:** Forge/Liteloader
