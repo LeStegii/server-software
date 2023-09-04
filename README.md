@@ -23,4 +23,4 @@ Original idea by Razva (<a href="https://gist.github.com/Razva/e7304fb80a2106391
 
 ## You like this list and want to help me? Consider giving a ⭐!
 
-[![Star History Chart](https://api.star-history.com/svg?repos=UeberallGebannt/server-softwares&type=Date)](https://star-history.com/#UeberallGebannt/server-softwares&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=LeStegii/server-softwares&type=Date)](https://star-history.com/#UeberallGebannt/server-softwares&Date)
