@@ -22,6 +22,42 @@ This list contains Minecraft Java vanilla server softwares.
 - **Description:** A Minecraft server implementation written in Go.
 
 # ❌ Inactive Development
+### [⬛ lightstone](https://github.com/grahamedgecombe/lightstone)
+- **Version:** -
+- **Author:** grahamedgecombe
+- **Fork:** -
+- **Description:** The official server software has some shortcomings such as the use of threaded, synchronous I/O along with high CPU and RAM usage. Lightstone aims to be a lightweight and high-performance alternative.
+
+### [⬛ Minecraft Alpha Server](https://github.com/stonar96/Minecraft-Alpha-Server)
+- **Version:** Alpha 1.2.6
+- **Author:** stonar96
+- **Fork:** -
+- **Description:** Minecraft-Alpha-Server is an Alpha 1.2.6 server that aims to fix bugs, make the server more usable, and more secure for the public.
+
+### [⬛ MCHPRS](https://github.com/MCHPR/MCHPRS)
+- **Version:** 1.15-1.17
+- **Author:** MCHPR
+- **Fork:** -
+- **Description:** Minecraft High-Performance Redstone Server (MCHPRS) is a server built from the ground up in rust designed to provide a high-performance creative plot server for redstone.
+
+### [⬛ minenode](https://github.com/minenode/minenode)
+- **Version:** 1.18.1
+- **Author:** minenode
+- **Fork:** -
+- **Description:** MineNode is a server built on top of NodeJS and rust.
+
+### [⬛ MCPP](https://github.com/RobertLeahy/MCPP)
+- **Version:** -
+- **Author:** RobertLeahy
+- **Fork:** -
+- **Description:** MCPP is a modular, multithreaded, event driven server implementation written in C++.
+
+### [⬛ McEx](https://github.com/McEx/McEx)
+- **Version:** 1.9.2
+- **Author:** McEx
+- **Fork:** -
+- **Description:** McEx is a Minecraft server written in Elixir and Rust. All the networking and logic is implemented in Elixir, while the low-level chunk data handling is done in Rust.
+
 ### [⬛ MC Erl](https://github.com/clonejo/mc-erl/)
 - **Version:** 1.4.7
 - **Author:** clonejo
