@@ -24,6 +24,12 @@ About it: Proxies manage different single minecraft servers and manage player co
 - **Fork:** Bungeecord --> Waterfall --> FlameCord
 - **Description:** Waterfall fork with Netty Exploits fixes and built-in firewall.
 
+### ️‍[⬛ XCord](https://builtbybit.com/resources/xcord-high-performance-anti-bot.16843/)
+- **Version:** 1.7-1.20.1
+- **Author:** bob7l
+- **Fork:** Bungeecord --> Waterfall --> XCord
+- **Description:** BungeeCord fork with built in anti-bot, anti-exploit, and many performance optimizations.
+
 ### [🌠 Velocity](https://www.velocitypowered.com/)
 - **Version:** 1.7.2 - 1.20.1
 - **Author:** VelocityPowered
