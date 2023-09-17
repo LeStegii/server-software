@@ -43,6 +43,13 @@ About it: Proxies manage different single minecraft servers and manage player co
 - **Description:** A high performance & paralleled Minecraft proxy server with scalability, flexibility & excellent server version support.
 
 # ❌ Inactive Development
+### [⬛ Dripleaf](https://github.com/NoahvdAa/Dripleaf)
+- **Alternative**: Velocity/Waterfall
+- **Version:** 1.17.1
+- **Author:** NoahvdAa
+- **Fork:** -
+- **Description:** Dripleaf is a lightweight Minecraft "limbo" server, designed to be used as a queue server or as a fallback server in case of a crash.
+
 ### [⬛ infrated](https://github.com/haveachin/infrared)
 - **Alternative**: Velocity/Waterfall
 - **Version:** 1.18

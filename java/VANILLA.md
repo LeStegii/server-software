@@ -22,6 +22,12 @@ This list contains Minecraft Java vanilla server softwares.
 - **Description:** A Minecraft server implementation written in Go.
 
 # ❌ Inactive Development
+### [⬛ Diorite](https://github.com/Diorite/Diorite)
+- **Version:** -
+- **Author:** GotoFinal
+- **Fork:** -
+- **Description:** Diorite is a new Minecraft server software aimed at security and performance.
+
 ### [✒ feather](https://github.com/feather-rs/feather)
 - **Version:** 1.16.5
 - **Author:** feather-rs
