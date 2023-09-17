@@ -159,7 +159,6 @@ This list contains Minecraft Java plugins server softwares.
 
 
 # ❌ Inactive Development
-  
 ### [🦈 Sharkur](https://github.com/SharkurMC/Sharkur)
 - **Version:** 1.19 - 1.19.1
 - **Author:** SharkurMC

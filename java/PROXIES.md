@@ -6,7 +6,6 @@ About it: Proxies manage different single minecraft servers and manage player co
 ⚠️ **Warning!** If a project is not in active development exploits such as Log4J could still work!
 
 # ✔️ Active Development
-
 ### [🌐 Bungeecord](https://github.com/SpigotMC/BungeeCord)
 - **Version:** 1.8 - 1.20.1
 - **Author:** md_5/SpigotMC
@@ -44,6 +43,12 @@ About it: Proxies manage different single minecraft servers and manage player co
 - **Description:** A high performance & paralleled Minecraft proxy server with scalability, flexibility & excellent server version support.
 
 # ❌ Inactive Development
+### [⬛ infrated](https://github.com/haveachin/infrared)
+- **Alternative**: Velocity/Waterfall
+- **Version:** 1.18
+- **Author:** haveachin
+- **Fork:** -
+- **Description:** An ultra lightweight minecraft reverse proxy and idle placeholder.
 
 ### [🛑 Hexacord](https://github.com/HexagonMC/BungeeCord)
 - **Alternative**: Velocity/Waterfall

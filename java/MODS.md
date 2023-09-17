@@ -43,7 +43,6 @@ If you're looking for a way to use both **plugins and mods**, checkout [this lis
 - **Mods:** Forge
 
 # ❌ Inactive Development
-
 ### [🐔 LiteLoader](http://www.liteloader.com/explore)
 - **Alternative**: Forge
 - **Version:** 1.5.2 - 1.12.2

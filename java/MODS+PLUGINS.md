@@ -4,7 +4,6 @@ This list contains Minecraft Java mods/plugins server softwares.
 ⚠️ **Warning!** If a project is not in active development exploits such as Log4J could still work!
 
 # ✔️ Active Development
-
 ### [🔶 Magma](https://magmafoundation.org)
 - **Version:** 1.12.2, 1.15.2 (Deprecated), 1.16.5 (Unsupported), 1.18.2, 1.19.3
 - **Author:** MagmaFoundation/Hexeption
@@ -70,8 +69,6 @@ This list contains Minecraft Java mods/plugins server softwares.
 - **Mods:** Forge
 
 # ❌ Inactive Development
-
-
 ### [🌫️ Mist](https://github.com/MinecraftMist/Mist)
 - **Alternative**: Mohist
 - **Version**: 1.16.5
