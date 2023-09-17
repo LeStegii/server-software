@@ -22,6 +22,36 @@ This list contains Minecraft Java vanilla server softwares.
 - **Description:** A Minecraft server implementation written in Go.
 
 # ❌ Inactive Development
+### [⬛ SharperMC](https://github.com/SharperMC/SharperMC)
+- **Version:** 1.8-1.8.9
+- **Author:** SharperMC
+- **Fork:** SharpMC --> SharperMC
+- **Description:** SharperMC is a forked & improved version of SharpMC.
+
+### [⬛ SharpMC](https://github.com/SharpMC/SharpMC)
+- **Version:** 1.8
+- **Author:** SharpMC
+- **Fork:** -
+- **Description:** A 1.8 server made from scratch in C#.
+
+### [⬛ TweakCraft](https://github.com/Meaglin/TweakCraft)
+- **Version:** -
+- **Author:** Meaglin
+- **Fork:** -
+- **Description:** TweakCraft was an experiment to implement a minecraft server from scratch using java and mmoserver engine.
+
+### [⬛ XMC](https://github.com/Xanamor/XMC)
+- **Version:** -
+- **Author:** Xanamor
+- **Fork:** -
+- **Description:** XMC was a server written in C# aiming to provide a survival experience.
+
+### [⬛ Starfield](https://github.com/StarfieldMC/Starfield)
+- **Version:** 1.16.4-1.16.5
+- **Author:** StarfieldMC
+- **Fork:** -
+- **Description:** Starfield is a server written in C#. It has a priority on performance. Previously known as nylium.
+
 ### [⬛ BurningPig](https://github.com/JoeDoyle23/BurningPig)
 - **Version:** 1.6.4
 - **Author:** JoeDoyle23
