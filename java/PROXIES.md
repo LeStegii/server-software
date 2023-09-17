@@ -43,6 +43,55 @@ About it: Proxies manage different single minecraft servers and manage player co
 - **Description:** A high performance & paralleled Minecraft proxy server with scalability, flexibility & excellent server version support.
 
 # ❌ Inactive Development
+### [⬛ Miners League BungeeCord](https://github.com/root1599/Miners-League-BungeeCord)
+- **Alternative**: Velocity/Waterfall
+- **Version:** 1.13
+- **Author:** root1599
+- **Fork:** Bungeecord --> MLBC
+- **Description:** MLBC is a fork of BungeeCord created by and used by the Miners League Minigames Network for any custom patches/features they may need.
+
+### [⬛ SecureCord](https://builtbybit.com/resources/securecord-powerfull-protection.15002/)
+- **Alternative**: Velocity/Waterfall
+- **Version:** -
+- **Author:** SpigotEnte
+- **Fork:** Bungeecord --> SecureCord
+- **Description:** SecureCord is a free BungeeCord fork which patches from harmful exploits.
+
+### [⬛ zBungeeCord](https://builtbybit.com/resources/zbungeecord-1-7-x-1-8-x-bungeecord-fork.10187/)
+- **Alternative**: Velocity/Waterfall
+- **Version:** 1.7-1.8
+- **Author:** Scalebound
+- **Fork:** Bungeecord --> zBungeeCord
+- **Description:** zBungeeCord is a premium BungeeCord fork optimizing BungeeCord quite a bit and cleaning up the commands.
+
+### [⬛ GuardHexa](https://builtbybit.com/resources/guardhexa-full-protection-antibot.16180/)
+- **Alternative**: Velocity/Waterfall
+- **Version:** 1.7-1.18.1
+- **Author:** TheEasyPeasy
+- **Fork:** Bungeecord --> Hexacord --> GuardHexa
+- **Description:** GuardHexa is a premium fork of HexaCord that patches a lot of bugs/exploits and has a bit of optimization.
+
+### [⬛ NachoBungee](https://github.com/CobbleSword/NachoBungee)
+- **Alternative**: Velocity/Waterfall
+- **Version:** 1.7-1.16
+- **Author:** CobbleSword
+- **Fork:** Bungeecord --> Waterfall --> Travertine --> NachoBungee
+- **Description:** NachoBungee is by the guys from NachoSpigot, which is a bad sign. On the GitHub page, they list off features of what they forked, nothing new. Was removed due to a DMCA.
+
+### [⬛ HQBungeeCord](https://github.com/moyugame/HQBungeeCord)
+- **Alternative**: Velocity/Waterfall
+- **Version:** -
+- **Author:** moyugame
+- **Fork:** Waterfall --> HQBungeeCord
+- **Description:** HQBungeeCord is a Waterfall fork aimed at improving stability and performance.
+
+### [⬛ BarelyAuthenticated](https://github.com/Mindgamesnl/BarelyAuthenticated)
+- **Alternative**: Velocity/Waterfall
+- **Version:** 1.8-1.16
+- **Author:** Mindgamesnl
+- **Fork:** -
+- **Description:** A fork of BungeeCord which caches players IPs and usernames to verify them while Mojang services are unstable. It is created and maintained for the server BlockParty.
+
 ### [⬛ Dripleaf](https://github.com/NoahvdAa/Dripleaf)
 - **Alternative**: Velocity/Waterfall
 - **Version:** 1.17.1
