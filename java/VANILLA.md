@@ -22,6 +22,36 @@ This list contains Minecraft Java vanilla server softwares.
 - **Description:** A Minecraft server implementation written in Go.
 
 # ❌ Inactive Development
+### [⬛ MC Erl](https://github.com/clonejo/mc-erl/)
+- **Version:** 1.4.7
+- **Author:** clonejo
+- **Fork:** -
+- **Description:** MC Erl is a 1.4.7 server written in Erlang.
+
+### [⬛ jsmc](https://github.com/deoxxa/jsmc)
+- **Version:** 1.4.2
+- **Author:** deoxxa
+- **Fork:** -
+- **Description:** jsmc is a server for 1.4.2 written in javascript.
+
+### [⬛ Enderstone](https://github.com/SanderGielisse/Enderstone)
+- **Version:** 1.8
+- **Author:** SanderGielisse
+- **Fork:** -
+- **Description:** Enderstone is a server software written from the ground up in Java.
+
+### [⬛ Erlcraft](https://github.com/ScottBrooks/Erlcraft)
+- **Version:** -
+- **Author:** ScottBrooks
+- **Fork:** -
+- **Description:** Erlcraft is a Minecraft Multiplayer Server written in Erlang.
+
+### [⬛ FastCraft](https://github.com/sprenger120/FastCraft)
+- **Version:** 1.3.2
+- **Author:** sprenger120
+- **Fork:** -
+- **Description:** FastCraft is a Minecraft Multiplayer Server written in C++ and compatible to Windows and Linux.
+
 ### [⬛ SharperMC](https://github.com/SharperMC/SharperMC)
 - **Version:** 1.8-1.8.9
 - **Author:** SharperMC
