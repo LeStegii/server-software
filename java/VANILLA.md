@@ -22,6 +22,12 @@ This list contains Minecraft Java vanilla server softwares.
 - **Description:** A Minecraft server implementation written in Go.
 
 # ❌ Inactive Development
+### [⬛ BurningPig](https://github.com/JoeDoyle23/BurningPig)
+- **Version:** 1.6.4
+- **Author:** JoeDoyle23
+- **Fork:** -
+- **Description:** BurningPig is a custom server built in Node.js.
+
 ### [⬛ c-raft](https://github.com/chraft/c-raft)
 - **Version:** 1.5
 - **Author:** chraft
@@ -33,12 +39,6 @@ This list contains Minecraft Java vanilla server softwares.
 - **Author:** vantezzen
 - **Fork:** -
 - **Description:** Cauldron-js is just a proof of concept idea of running a 1.13.2 server entirely inside your web browser. Doesn't run great, but still an achievement.
-
-### [⬛ Cleanstone](https://github.com/CleanstoneMC/Cleanstone)
-- **Version:** 1.12.2-1.14
-- **Author:** CleanstoneMC
-- **Fork:** -
-- **Description:** A multicore design server jar coded from the ground up.
 
 ### [⬛ composition](https://github.com/garentyler/composition)
 - **Version:** 1.8.9
