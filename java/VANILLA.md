@@ -22,8 +22,32 @@ This list contains Minecraft Java vanilla server softwares.
 - **Description:** A Minecraft server implementation written in Go.
 
 # ❌ Inactive Development
+### [⬛ c-raft](https://github.com/chraft/c-raft)
+- **Version:** 1.5
+- **Author:** chraft
+- **Fork:** -
+- **Description:** C#ract is a server written in C# for minecraft 1.5.
+
+### [⬛ cauldron-js](https://github.com/vantezzen/cauldron-js)
+- **Version:** 1.13.2
+- **Author:** vantezzen
+- **Fork:** -
+- **Description:** Cauldron-js is just a proof of concept idea of running a 1.13.2 server entirely inside your web browser. Doesn't run great, but still an achievement.
+
+### [⬛ Cleanstone](https://github.com/CleanstoneMC/Cleanstone)
+- **Version:** 1.12.2-1.14
+- **Author:** CleanstoneMC
+- **Fork:** -
+- **Description:** A multicore design server jar coded from the ground up.
+
+### [⬛ composition](https://github.com/garentyler/composition)
+- **Version:** 1.8.9
+- **Author:** garentyler
+- **Fork:** -
+- **Description:** Composition is a server created in rust that's aiming to get a working server then optimize speed.
+
 ### [⬛ Diorite](https://github.com/Diorite/Diorite)
-- **Version:** -
+- **Version:** 1.11.2
 - **Author:** GotoFinal
 - **Fork:** -
 - **Description:** Diorite is a new Minecraft server software aimed at security and performance.
