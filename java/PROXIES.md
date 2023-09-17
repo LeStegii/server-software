@@ -24,12 +24,6 @@ About it: Proxies manage different single minecraft servers and manage player co
 - **Fork:** Bungeecord --> Waterfall --> FlameCord
 - **Description:** Waterfall fork with Netty Exploits fixes and built-in firewall.
 
-### ️‍[⬛ XCord](https://builtbybit.com/resources/xcord-high-performance-anti-bot.16843/)
-- **Version:** 1.7-1.20.1
-- **Author:** bob7l
-- **Fork:** Bungeecord --> Waterfall --> XCord
-- **Description:** BungeeCord fork with built in anti-bot, anti-exploit, and many performance optimizations.
-
 ### [🌠 Velocity](https://www.velocitypowered.com/)
 - **Version:** 1.7.2 - 1.20.1
 - **Author:** VelocityPowered
@@ -55,27 +49,6 @@ About it: Proxies manage different single minecraft servers and manage player co
 - **Author:** root1599
 - **Fork:** Bungeecord --> MLBC
 - **Description:** MLBC is a fork of BungeeCord created by and used by the Miners League Minigames Network for any custom patches/features they may need.
-
-### [⬛ SecureCord](https://builtbybit.com/resources/securecord-powerfull-protection.15002/)
-- **Alternative**: Velocity/Waterfall
-- **Version:** -
-- **Author:** SpigotEnte
-- **Fork:** Bungeecord --> SecureCord
-- **Description:** SecureCord is a free BungeeCord fork which patches from harmful exploits.
-
-### [⬛ zBungeeCord](https://builtbybit.com/resources/zbungeecord-1-7-x-1-8-x-bungeecord-fork.10187/)
-- **Alternative**: Velocity/Waterfall
-- **Version:** 1.7-1.8
-- **Author:** Scalebound
-- **Fork:** Bungeecord --> zBungeeCord
-- **Description:** zBungeeCord is a premium BungeeCord fork optimizing BungeeCord quite a bit and cleaning up the commands.
-
-### [⬛ GuardHexa](https://builtbybit.com/resources/guardhexa-full-protection-antibot.16180/)
-- **Alternative**: Velocity/Waterfall
-- **Version:** 1.7-1.18.1
-- **Author:** TheEasyPeasy
-- **Fork:** Bungeecord --> Hexacord --> GuardHexa
-- **Description:** GuardHexa is a premium fork of HexaCord that patches a lot of bugs/exploits and has a bit of optimization.
 
 ### [⬛ NachoBungee](https://github.com/CobbleSword/NachoBungee)
 - **Alternative**: Velocity/Waterfall
