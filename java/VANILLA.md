@@ -22,6 +22,45 @@ This list contains Minecraft Java vanilla server softwares.
 - **Description:** A Minecraft server implementation written in Go.
 
 # ❌ Inactive Development
+
+
+
+### [⬛ Netherrack](https://github.com/Techern-archived/Netherrack)
+- **Version:** 1.8
+- **Author:** Techern-archived
+- **Fork:** -
+- **Description:** Netherrack is a server software created in Rust for 1.8.
+
+### [⬛ ModularMC](https://github.com/cachpachios/ModularMC)
+- **Version:** -
+- **Author:** cachpachios
+- **Fork:** -
+- **Description:** A opensource lightweight minecraft server. Powerful when extreme customization and little vanilla features are required. Focused on easy customization and maximum preformance.
+
+### [⬛ MotorMC](https://github.com/garet90/MotorMC)
+- **Version:** -
+- **Author:** garet90
+- **Fork:** -
+- **Description:** MotorMC is a blazing fast, multithreaded, asynchronous Minecraft server software that aims to handle many players (1000+) on a single world while still providing an experience as close to vanilla Minecraft as possible.
+
+### [⬛ mineserver2](https://github.com/Mineserver/mineserver2)
+- **Version:** 1.8.9
+- **Author:** Mineserver
+- **Fork:** mineserver --> mineserver2
+- **Description:** Mineserver 2 is a remake of Mineserver still in C++.
+
+### [⬛ mineserver](https://github.com/fador/mineserver/)
+- **Version:** 1.8.9
+- **Author:** fador
+- **Fork:** -
+- **Description:** Mineserver is a server software built from the ground up in C++.
+
+### [⬛ mineqwaft](https://github.com/dparnell/mineqwaft)
+- **Version:** -
+- **Author:** dparnell
+- **Fork:** -
+- **Description:** A server implementation written in lisp.
+
 ### [⬛ lightstone](https://github.com/grahamedgecombe/lightstone)
 - **Version:** -
 - **Author:** grahamedgecombe
