@@ -53,7 +53,7 @@ If you're looking for a way to use both **plugins and mods**, checkout [this lis
 ### [⬛ ModLoaderMP](https://mcarchive.net/mods/modloadermp)
 - **Alternative**: -
 - **Version:** b1.4-1.5.2
-- **Author:** -
-- **Fork: -
+- **Author:** ScottyDoesKnow
+- **Fork:** Risugami's Modloader -> ModLoaderMP
 - **Description:** ModLoaderMP was the first multiplayer mod loader, supporting from Beta 1.4 to release 1.5.2.
 - **Mods:** ModLoaderMP
