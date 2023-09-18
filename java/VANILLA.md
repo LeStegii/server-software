@@ -22,6 +22,171 @@ This list contains Minecraft Java vanilla server softwares.
 - **Description:** A Minecraft server implementation written in Go.
 
 # ❌ Inactive Development
+
+
+
+### [⬛ Netherrack](https://github.com/Techern-archived/Netherrack)
+- **Version:** 1.8
+- **Author:** Techern-archived
+- **Fork:** -
+- **Description:** Netherrack is a server software created in Rust for 1.8.
+
+### [⬛ ModularMC](https://github.com/cachpachios/ModularMC)
+- **Version:** -
+- **Author:** cachpachios
+- **Fork:** -
+- **Description:** A opensource lightweight minecraft server. Powerful when extreme customization and little vanilla features are required. Focused on easy customization and maximum preformance.
+
+### [⬛ MotorMC](https://github.com/garet90/MotorMC)
+- **Version:** -
+- **Author:** garet90
+- **Fork:** -
+- **Description:** MotorMC is a blazing fast, multithreaded, asynchronous Minecraft server software that aims to handle many players (1000+) on a single world while still providing an experience as close to vanilla Minecraft as possible.
+
+### [⬛ mineserver2](https://github.com/Mineserver/mineserver2)
+- **Version:** 1.8.9
+- **Author:** Mineserver
+- **Fork:** mineserver --> mineserver2
+- **Description:** Mineserver 2 is a remake of Mineserver still in C++.
+
+### [⬛ mineserver](https://github.com/fador/mineserver/)
+- **Version:** 1.8.9
+- **Author:** fador
+- **Fork:** -
+- **Description:** Mineserver is a server software built from the ground up in C++.
+
+### [⬛ mineqwaft](https://github.com/dparnell/mineqwaft)
+- **Version:** -
+- **Author:** dparnell
+- **Fork:** -
+- **Description:** A server implementation written in lisp.
+
+### [⬛ lightstone](https://github.com/grahamedgecombe/lightstone)
+- **Version:** -
+- **Author:** grahamedgecombe
+- **Fork:** -
+- **Description:** The official server software has some shortcomings such as the use of threaded, synchronous I/O along with high CPU and RAM usage. Lightstone aims to be a lightweight and high-performance alternative.
+
+### [⬛ Minecraft Alpha Server](https://github.com/stonar96/Minecraft-Alpha-Server)
+- **Version:** Alpha 1.2.6
+- **Author:** stonar96
+- **Fork:** -
+- **Description:** Minecraft-Alpha-Server is an Alpha 1.2.6 server that aims to fix bugs, make the server more usable, and more secure for the public.
+
+### [⬛ MCHPRS](https://github.com/MCHPR/MCHPRS)
+- **Version:** 1.15-1.17
+- **Author:** MCHPR
+- **Fork:** -
+- **Description:** Minecraft High-Performance Redstone Server (MCHPRS) is a server built from the ground up in rust designed to provide a high-performance creative plot server for redstone.
+
+### [⬛ minenode](https://github.com/minenode/minenode)
+- **Version:** 1.18.1
+- **Author:** minenode
+- **Fork:** -
+- **Description:** MineNode is a server built on top of NodeJS and rust.
+
+### [⬛ MCPP](https://github.com/RobertLeahy/MCPP)
+- **Version:** -
+- **Author:** RobertLeahy
+- **Fork:** -
+- **Description:** MCPP is a modular, multithreaded, event driven server implementation written in C++.
+
+### [⬛ McEx](https://github.com/McEx/McEx)
+- **Version:** 1.9.2
+- **Author:** McEx
+- **Fork:** -
+- **Description:** McEx is a Minecraft server written in Elixir and Rust. All the networking and logic is implemented in Elixir, while the low-level chunk data handling is done in Rust.
+
+### [⬛ MC Erl](https://github.com/clonejo/mc-erl/)
+- **Version:** 1.4.7
+- **Author:** clonejo
+- **Fork:** -
+- **Description:** MC Erl is a 1.4.7 server written in Erlang.
+
+### [⬛ jsmc](https://github.com/deoxxa/jsmc)
+- **Version:** 1.4.2
+- **Author:** deoxxa
+- **Fork:** -
+- **Description:** jsmc is a server for 1.4.2 written in javascript.
+
+### [⬛ Enderstone](https://github.com/SanderGielisse/Enderstone)
+- **Version:** 1.8
+- **Author:** SanderGielisse
+- **Fork:** -
+- **Description:** Enderstone is a server software written from the ground up in Java.
+
+### [⬛ Erlcraft](https://github.com/ScottBrooks/Erlcraft)
+- **Version:** -
+- **Author:** ScottBrooks
+- **Fork:** -
+- **Description:** Erlcraft is a Minecraft Multiplayer Server written in Erlang.
+
+### [⬛ FastCraft](https://github.com/sprenger120/FastCraft)
+- **Version:** 1.3.2
+- **Author:** sprenger120
+- **Fork:** -
+- **Description:** FastCraft is a Minecraft Multiplayer Server written in C++ and compatible to Windows and Linux.
+
+### [⬛ SharperMC](https://github.com/SharperMC/SharperMC)
+- **Version:** 1.8-1.8.9
+- **Author:** SharperMC
+- **Fork:** SharpMC --> SharperMC
+- **Description:** SharperMC is a forked & improved version of SharpMC.
+
+### [⬛ SharpMC](https://github.com/SharpMC/SharpMC)
+- **Version:** 1.8
+- **Author:** SharpMC
+- **Fork:** -
+- **Description:** A 1.8 server made from scratch in C#.
+
+### [⬛ TweakCraft](https://github.com/Meaglin/TweakCraft)
+- **Version:** -
+- **Author:** Meaglin
+- **Fork:** -
+- **Description:** TweakCraft was an experiment to implement a minecraft server from scratch using java and mmoserver engine.
+
+### [⬛ XMC](https://github.com/Xanamor/XMC)
+- **Version:** -
+- **Author:** Xanamor
+- **Fork:** -
+- **Description:** XMC was a server written in C# aiming to provide a survival experience.
+
+### [⬛ Starfield](https://github.com/StarfieldMC/Starfield)
+- **Version:** 1.16.4-1.16.5
+- **Author:** StarfieldMC
+- **Fork:** -
+- **Description:** Starfield is a server written in C#. It has a priority on performance. Previously known as nylium.
+
+### [⬛ BurningPig](https://github.com/JoeDoyle23/BurningPig)
+- **Version:** 1.6.4
+- **Author:** JoeDoyle23
+- **Fork:** -
+- **Description:** BurningPig is a custom server built in Node.js.
+
+### [⬛ c-raft](https://github.com/chraft/c-raft)
+- **Version:** 1.5
+- **Author:** chraft
+- **Fork:** -
+- **Description:** C#ract is a server written in C# for minecraft 1.5.
+
+### [⬛ cauldron-js](https://github.com/vantezzen/cauldron-js)
+- **Version:** 1.13.2
+- **Author:** vantezzen
+- **Fork:** -
+- **Description:** Cauldron-js is just a proof of concept idea of running a 1.13.2 server entirely inside your web browser. Doesn't run great, but still an achievement.
+
+### [⬛ composition](https://github.com/garentyler/composition)
+- **Version:** 1.8.9
+- **Author:** garentyler
+- **Fork:** -
+- **Description:** Composition is a server created in rust that's aiming to get a working server then optimize speed.
+
+### [⬛ Diorite](https://github.com/Diorite/Diorite)
+- **Version:** 1.11.2
+- **Author:** GotoFinal
+- **Fork:** -
+- **Description:** Diorite is a new Minecraft server software aimed at security and performance.
+
 ### [✒ feather](https://github.com/feather-rs/feather)
 - **Version:** 1.16.5
 - **Author:** feather-rs

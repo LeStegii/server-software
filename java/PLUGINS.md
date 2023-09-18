@@ -157,9 +157,14 @@ This list contains Minecraft Java plugins server softwares.
 - **Description:** Successor to Fusion and Andromeda.
 - **Plugins:** Bukkit, Spigot, Paper
 
+### [⬛ Dionysus](https://github.com/nopjmp/Dionysus)
+- **Version:** 1.12.2
+- **Author:** nopjmp
+- **Fork:** CraftBukkit --> Spigot --> Paper --> Dionysus
+- **Description:** Minecraft 1.12.2 Paper Fork designed for high player counts and anarchy.
+- **Plugins:** Bukkit, Spigot, Paper
 
 # ❌ Inactive Development
-  
 ### [🦈 Sharkur](https://github.com/SharkurMC/Sharkur)
 - **Version:** 1.19 - 1.19.1
 - **Author:** SharkurMC

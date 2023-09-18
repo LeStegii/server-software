@@ -16,7 +16,7 @@ If you're looking for a way to use both **plugins and mods**, checkout [this lis
 ### [🦊 Neoforge](https://neoforged.net/)
 - **Version:** 1.20.1
 - **Author:** NeoForged
-- **Fork:** MincraftForge --> NeoForge
+- **Fork:** Forge --> NeoForge
 - **Description:** A fork of NeoForge trying to fix issues with Forge's team/development.
 - **Mods:** Forge, NeoForge
 
@@ -35,19 +35,25 @@ If you're looking for a way to use both **plugins and mods**, checkout [this lis
 - **Mods:** Quilt, Fabric
 
 ### [⭐ GoldenForge](https://github.com/GoldenForge/GoldenForge)
-- **Alternative**: Forge
 - **Version:** 1.19.2
 - **Author:** manugame
-- **Fork: Forge** --> GoldenForge
+- **Fork:** Forge --> GoldenForge
 - **Description:** Fork of Forge 1.19.2 which implement some Paper patches.
 - **Mods:** Forge
 
 # ❌ Inactive Development
-
 ### [🐔 LiteLoader](http://www.liteloader.com/explore)
 - **Alternative**: Forge
 - **Version:** 1.5.2 - 1.12.2
 - **Author:** Mumfrey
-- **Fork: Forge** --> Liteloader
+- **Fork:** Forge --> Liteloader
 - **Description:** A Mod loader that works ontop of Forge or on its own and is Forge mod compatable
 - **Mods:** Forge/Liteloader
+
+### [⬛ ModLoaderMP](https://mcarchive.net/mods/modloadermp)
+- **Alternative**: -
+- **Version:** b1.4-1.5.2
+- **Author:** ScottyDoesKnow
+- **Fork:** Risugami's Modloader -> ModLoaderMP
+- **Description:** ModLoaderMP was the first multiplayer mod loader, supporting from Beta 1.4 to release 1.5.2.
+- **Mods:** ModLoaderMP

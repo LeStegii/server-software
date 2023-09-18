@@ -6,7 +6,6 @@ About it: Proxies manage different single minecraft servers and manage player co
 ⚠️ **Warning!** If a project is not in active development exploits such as Log4J could still work!
 
 # ✔️ Active Development
-
 ### [🌐 Bungeecord](https://github.com/SpigotMC/BungeeCord)
 - **Version:** 1.8 - 1.20.1
 - **Author:** md_5/SpigotMC
@@ -44,6 +43,47 @@ About it: Proxies manage different single minecraft servers and manage player co
 - **Description:** A high performance & paralleled Minecraft proxy server with scalability, flexibility & excellent server version support.
 
 # ❌ Inactive Development
+### [⬛ Miners League BungeeCord](https://github.com/root1599/Miners-League-BungeeCord)
+- **Alternative**: Velocity/Waterfall
+- **Version:** 1.13
+- **Author:** root1599
+- **Fork:** Bungeecord --> MLBC
+- **Description:** MLBC is a fork of BungeeCord created by and used by the Miners League Minigames Network for any custom patches/features they may need.
+
+### [⬛ NachoBungee](https://github.com/CobbleSword/NachoBungee)
+- **Alternative**: Velocity/Waterfall
+- **Version:** 1.7-1.16
+- **Author:** CobbleSword
+- **Fork:** Bungeecord --> Waterfall --> Travertine --> NachoBungee
+- **Description:** NachoBungee is by the guys from NachoSpigot, which is a bad sign. On the GitHub page, they list off features of what they forked, nothing new. Was removed due to a DMCA.
+
+### [⬛ HQBungeeCord](https://github.com/moyugame/HQBungeeCord)
+- **Alternative**: Velocity/Waterfall
+- **Version:** -
+- **Author:** moyugame
+- **Fork:** Waterfall --> HQBungeeCord
+- **Description:** HQBungeeCord is a Waterfall fork aimed at improving stability and performance.
+
+### [⬛ BarelyAuthenticated](https://github.com/Mindgamesnl/BarelyAuthenticated)
+- **Alternative**: Velocity/Waterfall
+- **Version:** 1.8-1.16
+- **Author:** Mindgamesnl
+- **Fork:** -
+- **Description:** A fork of BungeeCord which caches players IPs and usernames to verify them while Mojang services are unstable. It is created and maintained for the server BlockParty.
+
+### [⬛ Dripleaf](https://github.com/NoahvdAa/Dripleaf)
+- **Alternative**: Velocity/Waterfall
+- **Version:** 1.17.1
+- **Author:** NoahvdAa
+- **Fork:** -
+- **Description:** Dripleaf is a lightweight Minecraft "limbo" server, designed to be used as a queue server or as a fallback server in case of a crash.
+
+### [⬛ infrated](https://github.com/haveachin/infrared)
+- **Alternative**: Velocity/Waterfall
+- **Version:** 1.18
+- **Author:** haveachin
+- **Fork:** -
+- **Description:** An ultra lightweight minecraft reverse proxy and idle placeholder.
 
 ### [🛑 Hexacord](https://github.com/HexagonMC/BungeeCord)
 - **Alternative**: Velocity/Waterfall

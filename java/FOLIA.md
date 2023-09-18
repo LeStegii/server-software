@@ -4,7 +4,6 @@ This list contains Minecraft Java plugins server softwares based on Folia.
 ⚠️ **Warning!** If a project is not in active development exploits such as Log4J could still work!
 
 # ✔️ Active Development
-
 ### [🗺 Folia](https://github.com/PaperMC/Folia)
 - **Version:** 1.19.4-1.20.1
 - **Author:** PaperMC
