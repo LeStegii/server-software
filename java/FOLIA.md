@@ -19,7 +19,7 @@ This list contains Minecraft Java plugins server softwares based on Folia.
 - **Plugins:** Folia\*¹
 
 ### [☂ TenseiMC](https://github.com/DoctaEnkoda/TenseiMC)
-- **Version:** 1.19.4-1.20.1
+- **Version:** 1.19.4-1.20.2
 - **Author:** DoctaEnkoda
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Folia --> TenseiMC
 - **Description:** Fork of Folia with more customization options.
