@@ -22,8 +22,29 @@ This list contains Minecraft Java vanilla server softwares.
 - **Description:** A Minecraft server implementation written in Go.
 
 # ❌ Inactive Development
+### [⬛ Hematite](https://github.com/PistonDevelopers/hematite_server)
+- **Version:** 1.8.3
+- **Author:** PistonDevelopers
+- **Fork:** -
+- **Description:** Hematite is a server written in Rust and aims to have good performance and support server mods written in Rust.
 
+### [⬛ graphene](https://github.com/retrooper/graphene)
+- **Version:** 1.18.1
+- **Author:** retrooper
+- **Fork:** -
+- **Description:** Graphene is a server software created, from scratch, by the same developer as
 
+### [⬛ GoLangMc](https://github.com/GoLangMc/minecraft-server)
+- **Version:** 1.15.2
+- **Author:** GoLangMc
+- **Fork:** -
+- **Description:** GoLangMc is a server built in Go.
+
+### [⬛ Granite](https://github.com/jamierocks/Granite)
+- **Version:** 1.8
+- **Author:** jamierocks
+- **Fork:** SpongeVanilla -> Granite
+- **Description:** The total vanilla implementation of the Sponge API for Minecraft 1.8+
 
 ### [⬛ Netherrack](https://github.com/Techern-archived/Netherrack)
 - **Version:** 1.8
