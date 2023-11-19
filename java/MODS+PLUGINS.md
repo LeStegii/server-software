@@ -4,14 +4,6 @@ This list contains Minecraft Java mods/plugins server softwares.
 ⚠️ **Warning!** If a project is not in active development exploits such as Log4J could still work!
 
 # ✔️ Active Development
-### [🔶 Magma](https://magmafoundation.org)
-- **Version:** 1.12.2, 1.15.2 (Deprecated), 1.16.5 (Unsupported), 1.18.2, 1.19.3
-- **Author:** MagmaFoundation/Hexeption
-- **Fork:** Forge/Spigot/Paper/Thermos --> Magma
-- **Description:** Software that allows the use of Forge Mods and Bukkit/Spigot plugins on your server.
-- **Plugins:** Bukkit, Spigot, Paper
-- **Mods:** Forge
-
 ### [🪐 Mohist](https://mohistmc.com)
 - **Version:** 1.7.10 (Deprecated), 1.12.2, 1.16.5, 1.19.2, 1.19.4, 1.20.1 (Experimental)
 - **Author:** Mgazul
@@ -69,6 +61,14 @@ This list contains Minecraft Java mods/plugins server softwares.
 - **Mods:** Forge
 
 # ❌ Inactive Development
+### [🔶 Magma](https://magmafoundation.org)
+- **Version:** 1.12.2, 1.15.2 (Deprecated), 1.16.5 (Unsupported), 1.18.2, 1.19.3
+- **Author:** MagmaFoundation/Hexeption
+- **Fork:** Forge/Spigot/Paper/Thermos --> Magma
+- **Description:** Software that allows the use of Forge Mods and Bukkit/Spigot plugins on your server.
+- **Plugins:** Bukkit, Spigot, Paper
+- **Mods:** Forge
+
 ### [🌫️ Mist](https://github.com/MinecraftMist/Mist)
 - **Alternative**: Mohist
 - **Version**: 1.16.5
