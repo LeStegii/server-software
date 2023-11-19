@@ -22,6 +22,12 @@ This list contains Minecraft Java vanilla server softwares.
 - **Description:** A Minecraft server implementation written in Go.
 
 # ❌ Inactive Development
+### [⬛ HOSE](https://github.com/softpak/HOSE)
+- **Version:** 1.11.2
+- **Author:** softpak
+- **Fork:** -
+- **Description:** Minecraft server with multi-thread computing.
+
 ### [⬛ Hematite](https://github.com/PistonDevelopers/hematite_server)
 - **Version:** 1.8.3
 - **Author:** PistonDevelopers

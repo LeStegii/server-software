@@ -164,7 +164,28 @@ This list contains Minecraft Java plugins server softwares.
 - **Description:** Minecraft 1.12.2 Paper Fork designed for high player counts and anarchy.
 - **Plugins:** Bukkit, Spigot, Paper
 
+### [⬛ MultiPaper](https://github.com/MultiPaper/MultiPaper)
+- **Version:** 1.16 - 1.18
+- **Author:** softpak
+- **Fork:** CraftBukkit --> Spigot --> Paper --> Pufferfish --> Purpur --> MultiPaper
+- **Description:** MultiPaper is a Paper fork that aimed to sync the same files across multiple servers to seem as if they're all the same server.
+- **Plugins:** MultiPaper
+
 # ❌ Inactive Development
+### [⬛ Hydrinity](https://github.com/duplexsystem/Hydrinity)
+- **Version:** -
+- **Author:** softpak
+- **Fork:** CraftBukkit --> Spigot --> Paper --> Tuinity --> Hydrinity
+- **Description:** Hydrinity was a Tuinity fork with patches from some paper forks and the Lithium mod.
+- **Plugins:** Bukkit, Spigot, Paper
+- 
+### [⬛ NFT Worlds](https://github.com/NFT-Worlds/Server)
+- **Version:** 1.17
+- **Author:** NFT-Worlds
+- **Fork:** CraftBukkit --> Spigot --> Paper --> Airplane --> Pufferfish --> NFT Worlds
+- **Description:** NFT Worlds is a fork of airplane/pufferfish aiming to be prepackaged with everything you need to launch your NFT World for multiplayer.
+- **Plugins:** Bukkit, Spigot, Paper
+
 ### [⬛ EnchiladaSpigot](https://github.com/CyberFlameGO/EnchiladaSpigot)
 - **Version:** 1.8.8
 - **Author:** CyberFlameGO
@@ -353,6 +374,11 @@ This list contains Minecraft Java plugins server softwares.
 - **Description:** A fork of hMod.
 - **Plugins:** hMod
 
-  
+### [⬛ NeptuneMod](https://github.com/NeptunePowered/NeptuneMod)
+- **Version:** 1.8.9 - 1.9
+- **Author:** NeptunePowered
+- **Fork:** -
+- **Description:** A continuation of CanaryMod under a new repository and name.
+- **Plugins:** hMod
 
 
