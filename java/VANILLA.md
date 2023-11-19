@@ -43,7 +43,7 @@ This list contains Minecraft Java vanilla server softwares.
 ### [⬛ Granite](https://github.com/jamierocks/Granite)
 - **Version:** 1.8
 - **Author:** jamierocks
-- **Fork:** SpongeVanilla -> Granite
+- **Fork:** SpongeVanilla --> Granite
 - **Description:** The total vanilla implementation of the Sponge API for Minecraft 1.8+
 
 ### [⬛ Netherrack](https://github.com/Techern-archived/Netherrack)
