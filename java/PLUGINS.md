@@ -165,6 +165,13 @@ This list contains Minecraft Java plugins server softwares.
 - **Plugins:** Bukkit, Spigot, Paper
 
 # ❌ Inactive Development
+### [⬛ EnchiladaSpigot](https://github.com/CyberFlameGO/EnchiladaSpigot)
+- **Version:** 1.8.8
+- **Author:** CyberFlameGO
+- **Fork:** CraftBukkit --> Spigot --> Paper --> TacoSpigot --> BurritoSpigot --> EnchiladaSpigot
+- **Description:** EnchiladaSpigot is a fork of BurritoSpigot that is better because it's an enchilada instead of a burrito
+- **Plugins:** Bukkit, Spigot, Paper
+
 ### [🦈 Sharkur](https://github.com/SharkurMC/Sharkur)
 - **Version:** 1.19 - 1.19.1
 - **Author:** SharkurMC
