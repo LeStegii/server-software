@@ -173,7 +173,7 @@ This list contains Minecraft Java plugins server softwares.
 
 # ❌ Inactive Development
 ### [⬛ Hydrinity](https://github.com/duplexsystem/Hydrinity)
-- **Version:** -
+- **Version:** 1.16.3
 - **Author:** softpak
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Tuinity --> Hydrinity
 - **Description:** Hydrinity was a Tuinity fork with patches from some paper forks and the Lithium mod.
@@ -184,13 +184,6 @@ This list contains Minecraft Java plugins server softwares.
 - **Author:** NFT-Worlds
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Airplane --> Pufferfish --> NFT Worlds
 - **Description:** NFT Worlds is a fork of airplane/pufferfish aiming to be prepackaged with everything you need to launch your NFT World for multiplayer.
-- **Plugins:** Bukkit, Spigot, Paper
-
-### [⬛ EnchiladaSpigot](https://github.com/CyberFlameGO/EnchiladaSpigot)
-- **Version:** 1.8.8
-- **Author:** CyberFlameGO
-- **Fork:** CraftBukkit --> Spigot --> Paper --> TacoSpigot --> BurritoSpigot --> EnchiladaSpigot
-- **Description:** EnchiladaSpigot is a fork of BurritoSpigot that is better because it's an enchilada instead of a burrito
 - **Plugins:** Bukkit, Spigot, Paper
 
 ### [🦈 Sharkur](https://github.com/SharkurMC/Sharkur)

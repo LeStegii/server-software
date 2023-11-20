@@ -38,7 +38,7 @@ This list contains Minecraft Java vanilla server softwares.
 - **Version:** 1.18.1
 - **Author:** retrooper
 - **Fork:** -
-- **Description:** Graphene is a server software created, from scratch, by the same developer as
+- **Description:** Graphene is a 1.18.1 vanilla minecraft server from scratch using PacketEvents.
 
 ### [⬛ GoLangMc](https://github.com/GoLangMc/minecraft-server)
 - **Version:** 1.15.2
