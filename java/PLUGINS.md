@@ -142,7 +142,7 @@ This list contains Minecraft Java plugins server softwares.
 - **Fork:** CraftBukkit --> Spigot --> Paper --> SparklyPaper
 - **Description:** SparklyPower's Paper fork, making large servers snappier with high-performance optimizations and improvements! 
 - **Plugins:** Bukkit, Spigot, Paper
-- 
+ 
 ### [🐙 Flying Squid](https://github.com/PrismarineJS/flying-squid)
 - **Version:** 1.8 - 1.16.1
 - **Author:** PrismarineJS
