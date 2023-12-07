@@ -130,13 +130,20 @@ This list contains Minecraft Java plugins server softwares.
 - **Plugins:** Minestom implementations
 
 ### [✂️ Slice](https://github.com/Cryptite/Slice)
-- **Version:** 1.17.1 - 1.22
+- **Version:** 1.17.1 - 1.20.2
 - **Author:** Cryptite
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Slice
 - **Description:** A fork of Paper with additional patches (Note: nearly no information available, not recommended).
 - **Plugins:** Bukkit, Spigot, Paper
 
-- ### [🐙 Flying Squid](https://github.com/PrismarineJS/flying-squid)
+### [✨ SparklyPaper](https://github.com/SparklyPower/SparklyPaper)
+- **Version:** 1.20.2
+- **Author:** SparklyPower
+- **Fork:** CraftBukkit --> Spigot --> Paper --> SparklyPaper
+- **Description:** SparklyPower's Paper fork, making large servers snappier with high-performance optimizations and improvements! (Note: only recommended for advanced users due to features that may break plugins and cause server instability)
+- **Plugins:** Bukkit, Spigot, Paper
+ 
+### [🐙 Flying Squid](https://github.com/PrismarineJS/flying-squid)
 - **Version:** 1.8 - 1.16.1
 - **Author:** PrismarineJS
 - **Fork:** -
