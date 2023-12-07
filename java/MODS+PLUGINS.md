@@ -4,6 +4,14 @@ This list contains Minecraft Java mods/plugins server softwares.
 ⚠️ **Warning!** If a project is not in active development exploits such as Log4J could still work!
 
 # ✔️ Active Development
+### [⬛ Magma Maintained](https://github.com/magmamaintained)
+- **Version:** 1.12.2, 1.18.2, 1.19.3, 1.20.1
+- **Author:** TonimatasDEV
+- **Fork:** Forge/CraftBukkit/Spigot --> Magma --> Magma Maintained
+- **Description:** This project is to maintain the existing versions of Magma (1.20.1, 1.19.3, 1.18.2, 1.12.2).
+- **Plugins:** Bukkit, Spigot, Paper
+- **Mods:** Forge
+
 ### [🪐 Mohist](https://mohistmc.com)
 - **Version:** 1.7.10 (Deprecated), 1.12.2, 1.16.5, 1.19.2, 1.19.4, 1.20.1 (Experimental)
 - **Author:** Mgazul
