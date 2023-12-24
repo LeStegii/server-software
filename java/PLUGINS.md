@@ -164,14 +164,35 @@ This list contains Minecraft Java plugins server softwares.
 - **Description:** Successor to Fusion and Andromeda.
 - **Plugins:** Bukkit, Spigot, Paper
 
-### [⬛ Dionysus](https://github.com/nopjmp/Dionysus)
+### [🧨 Dionysus](https://github.com/nopjmp/Dionysus)
 - **Version:** 1.12.2
 - **Author:** nopjmp
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Dionysus
 - **Description:** Minecraft 1.12.2 Paper Fork designed for high player counts and anarchy.
 - **Plugins:** Bukkit, Spigot, Paper
 
+### [💌 MultiPaper](https://github.com/MultiPaper/MultiPaper)
+- **Version:** 1.16 - 1.18
+- **Author:** softpak
+- **Fork:** CraftBukkit --> Spigot --> Paper --> Pufferfish --> Purpur --> MultiPaper
+- **Description:** MultiPaper is a Paper fork that aimed to sync the same files across multiple servers to seem as if they're all the same server.
+- **Plugins:** MultiPaper
+
 # ❌ Inactive Development
+### [🔱 Hydrinity](https://github.com/duplexsystem/Hydrinity)
+- **Version:** 1.16.3
+- **Author:** softpak
+- **Fork:** CraftBukkit --> Spigot --> Paper --> Tuinity --> Hydrinity
+- **Description:** Hydrinity is a Tuinity fork with patches from some paper forks and the Lithium mod.
+- **Plugins:** Bukkit, Spigot, Paper
+- 
+### [🌍 NFT Worlds](https://github.com/NFT-Worlds/Server)
+- **Version:** 1.17
+- **Author:** NFT-Worlds
+- **Fork:** CraftBukkit --> Spigot --> Paper --> Airplane --> Pufferfish --> NFT Worlds
+- **Description:** NFT Worlds is a fork of airplane/pufferfish aiming to be prepackaged with everything you need to launch your NFT World for multiplayer.
+- **Plugins:** Bukkit, Spigot, Paper
+
 ### [🦈 Sharkur](https://github.com/SharkurMC/Sharkur)
 - **Version:** 1.19 - 1.19.1
 - **Author:** SharkurMC
@@ -353,6 +374,11 @@ This list contains Minecraft Java plugins server softwares.
 - **Description:** A fork of hMod.
 - **Plugins:** hMod
 
-  
+### [🐠 NeptuneMod](https://github.com/NeptunePowered/NeptuneMod)
+- **Version:** 1.8.9 - 1.9
+- **Author:** NeptunePowered
+- **Fork:** -
+- **Description:** A continuation of CanaryMod under a new repository and name.
+- **Plugins:** hMod
 
 

@@ -22,82 +22,109 @@ This list contains Minecraft Java vanilla server softwares.
 - **Description:** A Minecraft server implementation written in Go.
 
 # ❌ Inactive Development
+### [🌀 HOSE](https://github.com/softpak/HOSE)
+- **Version:** 1.11.2
+- **Author:** softpak
+- **Fork:** -
+- **Description:** Minecraft server with multi-thread computing.
 
+### [⬛ Hematite](https://github.com/PistonDevelopers/hematite_server)
+- **Version:** 1.8.3
+- **Author:** PistonDevelopers
+- **Fork:** -
+- **Description:** Hematite is a server written in Rust and aims to have good performance and support server mods written in Rust.
 
+### [⬛ graphene](https://github.com/retrooper/graphene)
+- **Version:** 1.18.1
+- **Author:** retrooper
+- **Fork:** -
+- **Description:** Graphene is a 1.18.1 vanilla minecraft server from scratch using PacketEvents.
 
-### [⬛ Netherrack](https://github.com/Techern-archived/Netherrack)
+### [🎽 GoLangMc](https://github.com/GoLangMc/minecraft-server)
+- **Version:** 1.15.2
+- **Author:** GoLangMc
+- **Fork:** -
+- **Description:** GoLangMc is a server built in Go.
+
+### [🗻 Granite](https://github.com/jamierocks/Granite)
+- **Version:** 1.8
+- **Author:** jamierocks
+- **Fork:** SpongeVanilla --> Granite
+- **Description:** The total vanilla implementation of the Sponge API for Minecraft 1.8+
+
+### [🔴 Netherrack](https://github.com/Techern-archived/Netherrack)
 - **Version:** 1.8
 - **Author:** Techern-archived
 - **Fork:** -
 - **Description:** Netherrack is a server software created in Rust for 1.8.
 
-### [⬛ ModularMC](https://github.com/cachpachios/ModularMC)
+### [🧩 ModularMC](https://github.com/cachpachios/ModularMC)
 - **Version:** -
 - **Author:** cachpachios
 - **Fork:** -
 - **Description:** A opensource lightweight minecraft server. Powerful when extreme customization and little vanilla features are required. Focused on easy customization and maximum preformance.
 
-### [⬛ MotorMC](https://github.com/garet90/MotorMC)
+### [🏍 MotorMC](https://github.com/garet90/MotorMC)
 - **Version:** -
 - **Author:** garet90
 - **Fork:** -
 - **Description:** MotorMC is a blazing fast, multithreaded, asynchronous Minecraft server software that aims to handle many players (1000+) on a single world while still providing an experience as close to vanilla Minecraft as possible.
 
-### [⬛ mineserver2](https://github.com/Mineserver/mineserver2)
+### [Ⓜ mineserver2](https://github.com/Mineserver/mineserver2)
 - **Version:** 1.8.9
 - **Author:** Mineserver
 - **Fork:** mineserver --> mineserver2
 - **Description:** Mineserver 2 is a remake of Mineserver still in C++.
 
-### [⬛ mineserver](https://github.com/fador/mineserver/)
+### [Ⓜ mineserver](https://github.com/fador/mineserver/)
 - **Version:** 1.8.9
 - **Author:** fador
 - **Fork:** -
 - **Description:** Mineserver is a server software built from the ground up in C++.
 
-### [⬛ mineqwaft](https://github.com/dparnell/mineqwaft)
+### [Ⓜ mineqwaft](https://github.com/dparnell/mineqwaft)
 - **Version:** -
 - **Author:** dparnell
 - **Fork:** -
 - **Description:** A server implementation written in lisp.
 
-### [⬛ lightstone](https://github.com/grahamedgecombe/lightstone)
+### [💡 lightstone](https://github.com/grahamedgecombe/lightstone)
 - **Version:** -
 - **Author:** grahamedgecombe
 - **Fork:** -
 - **Description:** The official server software has some shortcomings such as the use of threaded, synchronous I/O along with high CPU and RAM usage. Lightstone aims to be a lightweight and high-performance alternative.
 
-### [⬛ Minecraft Alpha Server](https://github.com/stonar96/Minecraft-Alpha-Server)
+### [⌚ Minecraft Alpha Server](https://github.com/stonar96/Minecraft-Alpha-Server)
 - **Version:** Alpha 1.2.6
 - **Author:** stonar96
 - **Fork:** -
 - **Description:** Minecraft-Alpha-Server is an Alpha 1.2.6 server that aims to fix bugs, make the server more usable, and more secure for the public.
 
-### [⬛ MCHPRS](https://github.com/MCHPR/MCHPRS)
+### [🍎 MCHPRS](https://github.com/MCHPR/MCHPRS)
 - **Version:** 1.15-1.17
 - **Author:** MCHPR
 - **Fork:** -
 - **Description:** Minecraft High-Performance Redstone Server (MCHPRS) is a server built from the ground up in rust designed to provide a high-performance creative plot server for redstone.
 
-### [⬛ minenode](https://github.com/minenode/minenode)
+### [Ⓜ minenode](https://github.com/minenode/minenode)
 - **Version:** 1.18.1
 - **Author:** minenode
 - **Fork:** -
 - **Description:** MineNode is a server built on top of NodeJS and rust.
 
-### [⬛ MCPP](https://github.com/RobertLeahy/MCPP)
+### [© MCPP](https://github.com/RobertLeahy/MCPP)
 - **Version:** -
 - **Author:** RobertLeahy
 - **Fork:** -
 - **Description:** MCPP is a modular, multithreaded, event driven server implementation written in C++.
 
-### [⬛ McEx](https://github.com/McEx/McEx)
+### [® McEx](https://github.com/McEx/McEx)
 - **Version:** 1.9.2
 - **Author:** McEx
 - **Fork:** -
 - **Description:** McEx is a Minecraft server written in Elixir and Rust. All the networking and logic is implemented in Elixir, while the low-level chunk data handling is done in Rust.
 
-### [⬛ MC Erl](https://github.com/clonejo/mc-erl/)
+### [🧬 MC Erl](https://github.com/clonejo/mc-erl/)
 - **Version:** 1.4.7
 - **Author:** clonejo
 - **Fork:** -
@@ -109,7 +136,7 @@ This list contains Minecraft Java vanilla server softwares.
 - **Fork:** -
 - **Description:** jsmc is a server for 1.4.2 written in javascript.
 
-### [⬛ Enderstone](https://github.com/SanderGielisse/Enderstone)
+### [🟨 Enderstone](https://github.com/SanderGielisse/Enderstone)
 - **Version:** 1.8
 - **Author:** SanderGielisse
 - **Fork:** -
