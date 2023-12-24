@@ -164,14 +164,14 @@ This list contains Minecraft Java plugins server softwares.
 - **Description:** Successor to Fusion and Andromeda.
 - **Plugins:** Bukkit, Spigot, Paper
 
-### [⬛ Dionysus](https://github.com/nopjmp/Dionysus)
+### [🧨 Dionysus](https://github.com/nopjmp/Dionysus)
 - **Version:** 1.12.2
 - **Author:** nopjmp
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Dionysus
 - **Description:** Minecraft 1.12.2 Paper Fork designed for high player counts and anarchy.
 - **Plugins:** Bukkit, Spigot, Paper
 
-### [⬛ MultiPaper](https://github.com/MultiPaper/MultiPaper)
+### [💌 MultiPaper](https://github.com/MultiPaper/MultiPaper)
 - **Version:** 1.16 - 1.18
 - **Author:** softpak
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Pufferfish --> Purpur --> MultiPaper
@@ -179,14 +179,14 @@ This list contains Minecraft Java plugins server softwares.
 - **Plugins:** MultiPaper
 
 # ❌ Inactive Development
-### [⬛ Hydrinity](https://github.com/duplexsystem/Hydrinity)
+### [🔱 Hydrinity](https://github.com/duplexsystem/Hydrinity)
 - **Version:** 1.16.3
 - **Author:** softpak
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Tuinity --> Hydrinity
-- **Description:** Hydrinity was a Tuinity fork with patches from some paper forks and the Lithium mod.
+- **Description:** Hydrinity is a Tuinity fork with patches from some paper forks and the Lithium mod.
 - **Plugins:** Bukkit, Spigot, Paper
 - 
-### [⬛ NFT Worlds](https://github.com/NFT-Worlds/Server)
+### [🌍 NFT Worlds](https://github.com/NFT-Worlds/Server)
 - **Version:** 1.17
 - **Author:** NFT-Worlds
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Airplane --> Pufferfish --> NFT Worlds
@@ -374,7 +374,7 @@ This list contains Minecraft Java plugins server softwares.
 - **Description:** A fork of hMod.
 - **Plugins:** hMod
 
-### [⬛ NeptuneMod](https://github.com/NeptunePowered/NeptuneMod)
+### [🐠 NeptuneMod](https://github.com/NeptunePowered/NeptuneMod)
 - **Version:** 1.8.9 - 1.9
 - **Author:** NeptunePowered
 - **Fork:** -
