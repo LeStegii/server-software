@@ -179,6 +179,20 @@ This list contains Minecraft Java plugins server softwares.
 - **Plugins:** MultiPaper
 
 # ❌ Inactive Development
+### [⬛ Hearse](https://github.com/Era4FunMC/Hearse)
+- **Version:** 1.19.3
+- **Author:** Era4FunMC
+- **Fork:** CraftBukkit --> Spigot --> Paper --> Pufferfish --> Purpur --> Hearse
+- **Description:** Fork of Purpur with some jokes and wrote for fun.
+- **Plugins:** Bukkit, Spigot, Paper, Purpur
+
+### [⬛ Moka](https://github.com/Era4FunMC/Moka)
+- **Version:** 1.19.3
+- **Author:** Era4FunMC
+- **Fork:** CraftBukkit --> Spigot --> Paper --> Pufferfish --> Purpur --> Moka
+- **Description:** Fork of Purpur including mcmt.
+- **Plugins:** Bukkit, Spigot, Paper, Purpur
+
 ### [🔱 Hydrinity](https://github.com/duplexsystem/Hydrinity)
 - **Version:** 1.16.3
 - **Author:** softpak
