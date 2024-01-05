@@ -4,21 +4,21 @@ This list contains Minecraft Java plugins server softwares.
 ⚠️ **Warning!** If a project is not in active development exploits such as Log4J could still work!
 # ✔️ Active Development
 ### [🪣 Bukkit/CraftBukkit](https://www.spigotmc.org/wiki/buildtools/)
-- **Version:** Beta 1.2 - 1.20.2 (only 1.8+ official)
+- **Version:** Beta 1.2 - 1.20.4 (only 1.8+ official)
 - **Author:** various authors, maintained by md_5/SpigotMC
 - **Fork:** -
 - **Description:** Software that allows using plugins on servers.
 - **Plugins:** Bukkit
 
 ### [🚰 Spigot](https://www.spigotmc.org/wiki/buildtools/)
-- **Version:** 1.4.6 - 1.20.2 (only 1.8+ official)
+- **Version:** 1.4.6 - 1.20.4 (only 1.8+ official)
 - **Author:** md_5/SpigotMC
 - **Fork:** CraftBukkit --> Spigot
 - **Description:** Bukkit with performance patches, more features and Bungeecord support.
 - **Plugins:** Bukkit, Spigot
 
 ### [✉️ Paper](https://papermc.io/)
-- **Version:** 1.7.10 - 1.20.1 (Unsupported), 1.20.2
+- **Version:** 1.7.10 - 1.20.2 (Unsupported), 1.20.4
 - **Author:** PaperMC
 - **Fork:** CraftBukkit --> Spigot --> Paper
 - **Description:** Spigot with performance patches and more features.
@@ -67,28 +67,28 @@ This list contains Minecraft Java plugins server softwares.
 - **Plugins:** Bukkit, Spigot, Paper
 
 ### [🐡 Pufferfish](https://github.com/pufferfish-gg/Pufferfish)
-- **Version:** 1.18.1 - 1.20.2
+- **Version:** 1.18.1 - 1.20.2, 1.20.4
 - **Author:** pufferfish-gg
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Airplane --> Pufferfish
 - **Description:** A highly optimized Paper fork designed for large servers.
 - **Plugins:** Bukkit, Spigot, Paper
 
 ### [🟣 Purpur](https://github.com/pl3xgaming/Purpur)
-- **Version:** 1.14.1 - 1.20.2
+- **Version:** 1.14.1 - 1.20.2, 1.20.4
 - **Author:** pl3xgaming
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Pufferfish --> Purpur
 - **Description:** Fork of Tuinity/Pufferfish with the goal of providing new and interesting configuration options.
 - **Plugins:** Bukkit, Spigot, Paper
 
 ### [⬛ Obsidian](https://github.com/ObsidianMC/Obsidian)
-- **Version:** 1.19.4 - 1.20
+- **Version:** 1.19.4 - 1.20.3
 - **Author:** ObsidianMC
 - **Fork:** -
 - **Description:** A C# implementation of the Minecraft server protocol.
 - **Plugins:** Obsidian
 
 ### [🧼 Patina](https://github.com/PatinaMC/Patina)
-- **Version:** 1.16.5-1.20.1
+- **Version:** 1.16.5-1.20.2
 - **Author:** PatinaMC
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Pufferfish/Purpur/Jettpack/EmpireCraft --> Patina
 - **Description:** A performance-oriented Minecraft Server fork based on PaperMC (Note: nearly no information available, not recommended).
@@ -130,14 +130,14 @@ This list contains Minecraft Java plugins server softwares.
 - **Plugins:** Minestom implementations
 
 ### [✂️ Slice](https://github.com/Cryptite/Slice)
-- **Version:** 1.17.1 - 1.20.2
+- **Version:** 1.17.1 - 1.20.2, 1.20.4
 - **Author:** Cryptite
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Slice
 - **Description:** A fork of Paper with additional patches (Note: nearly no information available, not recommended).
 - **Plugins:** Bukkit, Spigot, Paper
 
 ### [✨ SparklyPaper](https://github.com/SparklyPower/SparklyPaper)
-- **Version:** 1.20.2
+- **Version:** 1.20.2, 1.20.4
 - **Author:** SparklyPower
 - **Fork:** CraftBukkit --> Spigot --> Paper --> SparklyPaper
 - **Description:** SparklyPower's Paper fork, making large servers snappier with high-performance optimizations and improvements! (Note: only recommended for advanced users due to features that may break plugins and cause server instability)
@@ -172,7 +172,7 @@ This list contains Minecraft Java plugins server softwares.
 - **Plugins:** Bukkit, Spigot, Paper
 
 ### [💌 MultiPaper](https://github.com/MultiPaper/MultiPaper)
-- **Version:** 1.16 - 1.18
+- **Version:** 1.16-1.18.2, 1.19.2, 1.20.1
 - **Author:** softpak
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Pufferfish --> Purpur --> MultiPaper
 - **Description:** MultiPaper is a Paper fork that aimed to sync the same files across multiple servers to seem as if they're all the same server.

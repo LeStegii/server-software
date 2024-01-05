@@ -5,7 +5,7 @@ This list contains Minecraft Java mods/plugins server softwares.
 
 # ✔️ Active Development
 ### [🔶 Magma Maintained](https://github.com/magmamaintained)
-- **Version:** 1.12.2, 1.18.2, 1.19.3, 1.20.1
+- **Version:** 1.12.2, 1.18.2, 1.19.3 (Legacy), 1.20.1
 - **Author:** TonimatasDEV
 - **Fork:** Forge/CraftBukkit/Spigot --> Magma --> Magma Maintained
 - **Description:** This project is to maintain the existing versions of Magma (1.20.1, 1.19.3, 1.18.2, 1.12.2).
@@ -13,7 +13,7 @@ This list contains Minecraft Java mods/plugins server softwares.
 - **Mods:** Forge
 
 ### [🪐 Mohist](https://mohistmc.com)
-- **Version:** 1.7.10 (Deprecated), 1.12.2, 1.16.5, 1.19.2, 1.19.4, 1.20.1 (Experimental)
+- **Version:** 1.7.10 (Deprecated), 1.12.2, 1.16.5, 1.19.2, 1.19.4, 1.20.1, 1.20.2, 1.20.4 (Experimental)
 - **Author:** Mgazul
 - **Fork:** Forge/Spigot/Paper/Atom/Thermos/um_bukkit --> Mohist
 - **Description:** Software that allows the use of Forge Mods and Bukkit/Spigot/Paper plugins on your server.
@@ -21,7 +21,7 @@ This list contains Minecraft Java mods/plugins server softwares.
 - **Mods:** Forge
 
 ### [🏔 Arclight](https://github.com/IzzelAliz/Arclight)
-- **Version:** 1.14-1.15.2 (Legacy), 1.16.5, 1.17.1 (Legacy), 1.18-1.19.4, 1.20.2 (Experimental)
+- **Version:** 1.14-1.15.2 (Legacy), 1.16.5, 1.17.1 (Legacy), 1.18-1.19.4, 1.20.4 (Experimental)
 - **Author:** IzzelAliz
 - **Fork:** Forge/CraftBukkit/Spigot --> Arclight
 - **Description:** A Bukkit(1.16/1.18) server implementation on Forge using Mixin.
@@ -45,7 +45,7 @@ This list contains Minecraft Java mods/plugins server softwares.
 - **Mods:** Forge
 
 ### [🚩 Banner](https://github.com/MohistMC/Banner)
-- **Version:** 1.19.4, 1.20.1
+- **Version:** 1.19.4, 1.20.1, 1.20.2 (Experimental), 1.20.4 (Experimental)
 - **Author:** MohistMC
 - **Fork:** Fabric/CraftBukkit/Spigot/Paper/Mohist/Arclight --> Banner
 - **Description:** Fabric Mod that allows the use of Bukkit/Spigot/Paper Plugins.
