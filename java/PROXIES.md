@@ -31,7 +31,7 @@ About it: Proxies manage different single minecraft servers and manage player co
 - **Description:** A fork of Waterfall with modern forge support (requires a client side mod).
 
 ### [🚪 gate](https://github.com/minekube/gate)
-- **Version:** 1.8-1.20.4
+- **Version:** 1.8 - 1.20.4
 - **Author:** minekube
 - **Fork:** -
 - **Description:** A high performance & paralleled Minecraft proxy server with scalability, flexibility & excellent server version support.
@@ -46,7 +46,7 @@ About it: Proxies manage different single minecraft servers and manage player co
 
 ### [⬛ NachoBungee](https://github.com/CobbleSword/NachoBungee)
 - **Alternative**: Velocity/Waterfall
-- **Version:** 1.7-1.16
+- **Version:** 1.7 - 1.16
 - **Author:** CobbleSword
 - **Fork:** Bungeecord --> Waterfall --> Travertine --> NachoBungee
 - **Description:** NachoBungee is by the guys from NachoSpigot, which is a bad sign. On the GitHub page, they list off features of what they forked, nothing new. Was removed due to a DMCA.
@@ -60,7 +60,7 @@ About it: Proxies manage different single minecraft servers and manage player co
 
 ### [⬛ BarelyAuthenticated](https://github.com/Mindgamesnl/BarelyAuthenticated)
 - **Alternative**: Velocity/Waterfall
-- **Version:** 1.8-1.16
+- **Version:** 1.8 - 1.16
 - **Author:** Mindgamesnl
 - **Fork:** -
 - **Description:** A fork of BungeeCord which caches players IPs and usernames to verify them while Mojang services are unstable. It is created and maintained for the server BlockParty.
