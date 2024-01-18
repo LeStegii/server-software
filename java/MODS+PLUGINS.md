@@ -9,7 +9,7 @@ This list contains Minecraft Java mods/plugins server softwares.
 - **Author:** TonimatasDEV
 - **Fork:** Forge/CraftBukkit/Spigot --> Magma --> Magma Maintained
 - **Description:** This project is to maintain the existing versions of Magma (1.20.1, 1.19.3, 1.18.2, 1.12.2).
-- **Plugins:** Bukkit, Spigot, Paper
+- **Plugins:** Bukkit, Spigot
 - **Mods:** Forge
 
 ### [🔗 Ketting](https://github.com/kettingpowered)
@@ -17,7 +17,7 @@ This list contains Minecraft Java mods/plugins server softwares.
 - **Author:** KettingPowered
 - **Fork:** Forge/CraftBukkit/Spigot --> Ketting
 - **Description:** Software that allows the use of Forge Mods and Bukkit/Spigot/Paper plugins on your server.
-- **Plugins:** Bukkit, Spigot, Paper
+- **Plugins:** Bukkit, Spigot
 - **Mods:** Forge
 
 ### [🪐 Mohist](https://mohistmc.com)
@@ -25,7 +25,7 @@ This list contains Minecraft Java mods/plugins server softwares.
 - **Author:** Mgazul
 - **Fork:** Forge/Spigot/Paper/Atom/Thermos/um_bukkit --> Mohist
 - **Description:** Software that allows the use of Forge Mods and Bukkit/Spigot/Paper plugins on your server.
-- **Plugins:** Bukkit, Spigot, Paper
+- **Plugins:** Bukkit, Spigot
 - **Mods:** Forge
 
 ### [🏔 Arclight](https://github.com/IzzelAliz/Arclight)
@@ -33,7 +33,7 @@ This list contains Minecraft Java mods/plugins server softwares.
 - **Author:** IzzelAliz
 - **Fork:** Forge/CraftBukkit/Spigot --> Arclight
 - **Description:** A Bukkit(1.16/1.18) server implementation on Forge using Mixin.
-- **Plugins:** Bukkit, Spigot, Paper
+- **Plugins:** Bukkit, Spigot
 - **Mods:** Forge
 
 ### [😺 CatServer](https://github.com/Luohuayu/CatServer)
@@ -41,7 +41,7 @@ This list contains Minecraft Java mods/plugins server softwares.
 - **Author:** Luohuayu
 - **Fork:** Forge/Spigot/Paper --> CatServer
 - **Description:** Software that allows the use of Forge Mods and Bukkit/Spigot/Paper plugins on your server.
-- **Plugins:** Bukkit, Spigot, Paper
+- **Plugins:** Bukkit, Spigot
 - **Mods:** Forge
 
 ### [🧽 SpongeForge](https://www.spongepowered.org/downloads/spongeforge/)
