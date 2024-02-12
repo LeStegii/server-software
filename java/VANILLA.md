@@ -28,6 +28,36 @@ This list contains Minecraft Java vanilla server softwares.
 - **Description:** A multithreaded reimplementation of the Mincraft server in Rust, made for redstone plot servers.
 
 # ❌ Inactive Development
+### [⬛ Spout](https://github.com/SpoutDev/Spout)
+- **Version:** 1.5.2
+- **Author:** SpoutDev
+- **Fork:** -
+- **Description:** Open source, multithreaded, voxel game engine and platform, written in Java.
+
+### [⬛ Spacecraft-GT](https://github.com/SpaceManiac/Spacecraft-GT)
+- **Version:** 14w04b
+- **Author:** SpaceManiac
+- **Fork:** -
+- **Description:** Spacecraft is a survival multiplayer rendition of Spacecraft, the SpaceManiac Minecraft Server. It was written in C#.
+
+### [⬛ Snowstorm](https://github.com/SnowstormTeam/Snowstorm)
+- **Version:** -
+- **Author:** SnowstormTeam
+- **Fork:** -
+- **Description:** Snowstorm is a new modular Minecraft server software written in Java.
+
+### [⬛ Rush](https://github.com/kangarko/Rush)
+- **Version:** 1.8
+- **Author:** kangarko
+- **Fork:** -
+- **Description:** Rush is a lightweight server written from scratch.
+
+### [⬛ RealCraft](https://github.com/carlbennett/realcraft)
+- **Version:** 1.3.2
+- **Author:** carlbennett
+- **Fork:** -
+- **Description:** Realcraft is a custom server implementation of Minecraft written in REALbasic.
+
 ### [⬛ Polaris](https://github.com/Rammelkast/Polaris)
 - **Version:** 1.8
 - **Author:** Rammelkast

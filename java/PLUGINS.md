@@ -200,6 +200,13 @@ This list contains Minecraft Java plugins server softwares.
 - **Plugins:** Bukkit
 
 # ❌ Inactive Development
+### [⬛ Reflx](https://github.com/Jckf/Reflx)
+- **Version:** 1.3.2
+- **Author:** Jckf
+- **Fork:** -
+- **Description:** Open source Minecraft server plugin API, and reflection based implementation.
+- **Plugins:** Reflx
+
 ### [⬛ PyMine](https://github.com/py-mine/PyMine-Server)
 - **Version:** 1.16.5
 - **Author:** py-mine
