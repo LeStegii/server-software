@@ -181,18 +181,53 @@ This list contains Minecraft Java plugins server softwares.
 ### [⬛ Canvas](https://github.com/CraftCanvasMC/Canvas)
 - **Version:** 1.20.2, 1.20.4
 - **Author:** CraftCanvasMC
-- **Fork:** CraftBukkit --> Spigot --> Paper --> Pufferfish --> Purpur --> MultiPaper
+- **Fork:** CraftBukkit --> Spigot --> Paper --> Pufferfish --> Purpur --> Canvas
 - **Description:** Purpur fork that tries to give plugin developers unlimted freedom when making plugins.
 - **Plugins:** Bukkit, Spigot, Paper
 
 ### [⬛ DivineMC](https://github.com/DivineMC/DivineMC)
 - **Version:** 1.19.2-1.20.4
 - **Author:** CraftCanvasMC
-- **Fork:** CraftBukkit --> Spigot --> Paper --> Pufferfish --> Purpur --> MultiPaper
+- **Fork:** CraftBukkit --> Spigot --> Paper --> Pufferfish --> Purpur --> DivineMC
 - **Description:** Slightly optimized fork of Purpur.
 - **Plugins:** Bukkit, Spigot, Paper
 
+### [⬛ Project-Poseidon](https://github.com/RhysB/Project-Poseidon)
+- **Version:** Beta 1.7.3
+- **Author:** RhysB
+- **Fork:** CraftBukkit --> Project-Poseidon
+- **Description:** A CraftBukkit CB1060 fork for Beta 1.7.3 fixing bugs and adding basic features.
+- **Plugins:** Bukkit
+
 # ❌ Inactive Development
+### [⬛ PyMine](https://github.com/py-mine/PyMine-Server)
+- **Version:** 1.16.5
+- **Author:** py-mine
+- **Fork:** -
+- **Description:** PyMine is a server built in Python. It has support for plugins.
+- **Plugins:** py-mine
+
+### [⬛ Purplane](https://github.com/theomega24/Purplane)
+- **Version:** 1.16.5 - 1.17.1
+- **Author:** theomega24
+- **Fork:** CraftBukkit --> Spigot --> Paper --> Pufferfish --> Purpur/AirPlane --> DivineMC
+- **Description:** A fork of purpur that adds features from Airplane.
+- **Plugins:** Bukkit, Spigot, Paper
+
+### [⬛ Pukkit](https://github.com/PigeonMC/Pukkit)
+- **Version:** Beta 1.7.3
+- **Author:** PigeonMC
+- **Fork:** CraftBukkit --> Pukkit
+- **Description:** A fork of the Bukkit Minecraft Server API for Beta 1.7.3.
+- **Plugins:** Bukkit
+
+### [⬛ PopupMC](https://github.com/PopupMC/Server)
+- **Version:** 1.15.2
+- **Author:** PopupMC
+- **Fork:** CraftBukkit --> Spigot --> Paper --> PopupMC
+- **Description:** High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies.
+- **Plugins:** Bukkit, Spigot, Paper
+
 ### [⬛ PaperMC-unpatch](https://github.com/x4e/PaperBin)
 - **Version:** 1.16.5
 - **Author:** x4e

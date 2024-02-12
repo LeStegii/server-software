@@ -28,6 +28,12 @@ This list contains Minecraft Java vanilla server softwares.
 - **Description:** A multithreaded reimplementation of the Mincraft server in Rust, made for redstone plot servers.
 
 # ❌ Inactive Development
+### [⬛ Polaris](https://github.com/Rammelkast/Polaris)
+- **Version:** 1.8
+- **Author:** Rammelkast
+- **Fork:** -
+- **Description:** Multi-version 1.8-based Minecraft server software
+
 ### [⬛ PartyCraft](https://github.com/ddevault/PartyCraft)
 - **Version:** 1.4.2-1.6.2
 - **Author:** ddevault
