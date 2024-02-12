@@ -21,7 +21,25 @@ This list contains Minecraft Java vanilla server softwares.
 - **Fork:** -
 - **Description:** A Minecraft server implementation written in Go.
 
+### [⬛ MCHPR](https://github.com/MCHPR/MCHPRS)
+- **Version:** 1.18.2
+- **Author:** MCHPR
+- **Fork:** -
+- **Description:** A multithreaded reimplementation of the Mincraft server in Rust, made for redstone plot servers.
+
 # ❌ Inactive Development
+### [⬛ PartyCraft](https://github.com/ddevault/PartyCraft)
+- **Version:** 1.4.2-1.6.2
+- **Author:** ddevault
+- **Fork:** -
+- **Description:** PartyCraft is a Minecraft 1.6.2 multiplayer server based on Craft.Net.
+
+### [⬛ OpenSandbox](https://github.com/MarkMcCaskey/opensandbox)
+- **Version:** 1.10
+- **Author:** MarkMcCaskey
+- **Fork:** -
+- **Description:** OpenSandbox is a custom Minecraft server implemented in Haskell.
+
 ### [🌀 HOSE](https://github.com/softpak/HOSE)
 - **Version:** 1.11.2
 - **Author:** softpak
