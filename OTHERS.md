@@ -10,16 +10,10 @@ This list contains softwares that are related to minecraft servers but are no se
 - **Platforms:** Bukkit/Spigot/Paper, Bungeecord, Sponge, Velocity
 
 ### [✴️ Minestom](https://github.com/Minestom/Minestom)
-- **Version:** 1.18 - 1.19.3
+- **Version:** 1.18 - 1.20.4
 - **Author:** Minestom
 - **Fork:** -
 - **Description:** Minestom is an open-source library that enables developers to create their own Minecraft server software, without any code from Mojang.
-
-### [⬛ minestom-ce](https://github.com/hollow-cube/minestom-ce)
-- **Version:** 1.20.1
-- **Author:** hollow-cube
-- **Fork:** Minestom
-- **Description:** minestom-ce is an updated version of Minestom for 1.20.1.
 
 # ❌ Inactive Development
 ### [🐟 Carbon](https://www.spigotmc.org/resources/1258/)
