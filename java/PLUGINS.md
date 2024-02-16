@@ -217,7 +217,7 @@ This list contains Minecraft Java plugins server softwares.
 ### [⬛ Purplane](https://github.com/theomega24/Purplane)
 - **Version:** 1.16.5 - 1.17.1
 - **Author:** theomega24
-- **Fork:** CraftBukkit --> Spigot --> Paper --> Pufferfish --> Purpur/AirPlane --> DivineMC
+- **Fork:** CraftBukkit --> Spigot --> Paper --> Pufferfish --> Purpur/AirPlane --> Purplane
 - **Description:** A fork of purpur that adds features from Airplane.
 - **Plugins:** Bukkit, Spigot, Paper
 
@@ -235,9 +235,9 @@ This list contains Minecraft Java plugins server softwares.
 - **Description:** High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies.
 - **Plugins:** Bukkit, Spigot, Paper
 
-### [⬛ PaperMC-unpatch](https://github.com/x4e/PaperBin)
+### [⬛ PaperMC-unpatch](https://github.com/YaCodesDevelopment/PaperMC-unpatch)
 - **Version:** 1.16.5
-- **Author:** x4e
+- **Author:** YaCodesDevelopment
 - **Fork:** CraftBukkit --> Spigot --> Paper --> PaperMC-unpatch
 - **Description:** PaperMC-unpatch is a fork of Paper which removes a patch for sand duping.
 - **Plugins:** Bukkit, Spigot, Paper
@@ -253,7 +253,7 @@ This list contains Minecraft Java plugins server softwares.
 - **Version:** 1.14.4 - 1.16.5
 - **Author:** Minebench
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Origami
-- **Description:** Custom paper fork used by Minebench.de. The fork is based on the framework used in Spottedleaf's Tuinity.
+- **Description:** A performance Minecraft server based on Tuinity and adding patches that the paper considers unnecessary.
 - **Plugins:** Bukkit, Spigot, Paper
 
 ### [⬛ Lantern](https://github.com/LanternPowered/Lantern)
