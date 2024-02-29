@@ -36,6 +36,13 @@ About it: Proxies manage different single minecraft servers and manage player co
 - **Fork:** -
 - **Description:** A high performance & paralleled Minecraft proxy server with scalability, flexibility & excellent server version support.
 
+### [✅ VanillaCord](https://github.com/ME1312/VanillaCord)
+- **Alternative**: Velocity/Waterfall
+- **Version:** 1.12 - 1.20.4
+- **Author:** Thinkofname, maximvarentsov, ME1312
+- **Fork:**  Bungeecord --> VanillaCord
+- **Description:** Bungeecord fork adding IP Forwarding support for Vanilla Minecraft Servers.
+
 # ❌ Inactive Development
 ### [⬛ Miners League BungeeCord](https://github.com/root1599/Miners-League-BungeeCord)
 - **Alternative**: Velocity/Waterfall
@@ -134,13 +141,6 @@ About it: Proxies manage different single minecraft servers and manage player co
 - **Author:** meta1203
 - **Fork:** -
 - **Description:** A Minecraft Proxy Server designed for cross server teleportation written in python.
-
-### [✅ VanillaCord](https://github.com/ME1312/VanillaCord)
-- **Alternative**: Velocity/Waterfall
-- **Version:** 1.12 - 1.19
-- **Author:** Thinkofname, maximvarentsov, ME1312
-- **Fork:**  Bungeecord --> VanillaCord
-- **Description:** Bungeecord fork adding IP Forwarding support for Vanilla Minecraft Servers.
 
 ### [🎉 wCord](https://github.com/wtfaremyinitials/wCord)
 - **Alternative**: Velocity/Waterfall

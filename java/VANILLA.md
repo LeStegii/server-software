@@ -21,7 +21,61 @@ This list contains Minecraft Java vanilla server softwares.
 - **Fork:** -
 - **Description:** A Minecraft server implementation written in Go.
 
+### [⬛ MCHPR](https://github.com/MCHPR/MCHPRS)
+- **Version:** 1.18.2
+- **Author:** MCHPR
+- **Fork:** -
+- **Description:** A multithreaded reimplementation of the Mincraft server in Rust, made for redstone plot servers.
+
 # ❌ Inactive Development
+### [⬛ Spout](https://github.com/SpoutDev/Spout)
+- **Version:** 1.5.2
+- **Author:** SpoutDev
+- **Fork:** -
+- **Description:** Open source, multithreaded, voxel game engine and platform, written in Java.
+
+### [⬛ Spacecraft-GT](https://github.com/SpaceManiac/Spacecraft-GT)
+- **Version:** 14w04b
+- **Author:** SpaceManiac
+- **Fork:** -
+- **Description:** Spacecraft is a survival multiplayer rendition of Spacecraft, the SpaceManiac Minecraft Server. It was written in C#.
+
+### [⬛ Snowstorm](https://github.com/SnowstormTeam/Snowstorm)
+- **Version:** -
+- **Author:** SnowstormTeam
+- **Fork:** -
+- **Description:** Snowstorm is a new modular Minecraft server software written in Java.
+
+### [⬛ Rush](https://github.com/kangarko/Rush)
+- **Version:** 1.8
+- **Author:** kangarko
+- **Fork:** -
+- **Description:** Rush is a lightweight server written from scratch.
+
+### [⬛ RealCraft](https://github.com/carlbennett/realcraft)
+- **Version:** 1.3.2
+- **Author:** carlbennett
+- **Fork:** -
+- **Description:** Realcraft is a custom server implementation of Minecraft written in REALbasic.
+
+### [⬛ Polaris](https://github.com/Rammelkast/Polaris)
+- **Version:** 1.8
+- **Author:** Rammelkast
+- **Fork:** -
+- **Description:** Multi-version 1.8-based Minecraft server software
+
+### [⬛ PartyCraft](https://github.com/ddevault/PartyCraft)
+- **Version:** 1.4.2-1.6.2
+- **Author:** ddevault
+- **Fork:** -
+- **Description:** PartyCraft is a Minecraft 1.6.2 multiplayer server based on Craft.Net.
+
+### [⬛ OpenSandbox](https://github.com/MarkMcCaskey/opensandbox)
+- **Version:** 1.10
+- **Author:** MarkMcCaskey
+- **Fork:** -
+- **Description:** OpenSandbox is a custom Minecraft server implemented in Haskell.
+
 ### [🌀 HOSE](https://github.com/softpak/HOSE)
 - **Version:** 1.11.2
 - **Author:** softpak
