@@ -12,12 +12,6 @@ About it: Proxies manage different single minecraft servers and manage player co
 - **Fork:**
 - **Description:** Proxy that manages spigot servers and connects players to it.
 
-### [🌊 Waterfall](https://github.com/PaperMC/Waterfall)
-- **Version:** 1.8 - 1.20.4
-- **Author:** PaperMC
-- **Fork:** Bungeecord --> Waterfall
-- **Description:** Bungeecord focused on stability, new features and scalability.
-
 ### [🌠 Velocity](https://www.velocitypowered.com/)
 - **Version:** 1.7.2 - 1.20.4
 - **Author:** VelocityPowered
@@ -169,3 +163,9 @@ About it: Proxies manage different single minecraft servers and manage player co
 - **Author:** LilyPad
 - **Fork:**  -
 - **Description:** An implementation of the LilyPad proxy in Go.
+
+### [🌊 Waterfall](https://github.com/PaperMC/Waterfall)
+- **Version:** 1.8 - 1.20.4
+- **Author:** PaperMC
+- **Fork:** Bungeecord --> Waterfall
+- **Description:** Bungeecord focused on stability, new features and scalability.
