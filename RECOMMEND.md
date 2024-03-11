@@ -30,5 +30,5 @@ Here you can find the recommended softwares for your use case. This list is base
 
 
 ### 🌐 Minecraft Networks
-  - If you want to connect Java Edition servers with each other, use [Velocity](/java/PROXIES.md#-velocity) or [Waterfall](/java/PROXIES.md#-waterfall).
+  - If you want to connect Java Edition servers with each other, use [Velocity](/java/PROXIES.md#-velocity).
   - If you want to connect Bedrock Edition servers with each other, use [WaterdogPE](/bedrock/PROXIES.md#-waterdogpe).
