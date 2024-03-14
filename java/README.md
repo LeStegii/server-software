@@ -11,5 +11,5 @@
 ### 📗 [Regionized (Folia, ...)](/java/FOLIA.md)
 **Minecraft server software splitting the server into multiple regions.**
 
-### 📚 [Proxies (BungeeCord, Waterfall, Velocity, ...)](/java/PROXIES.md)
+### 📚 [Proxies (BungeeCord, Velocity, ...)](/java/PROXIES.md)
 **Software for connecting multiple servers with each other.**
