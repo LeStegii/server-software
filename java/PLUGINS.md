@@ -142,21 +142,21 @@ This list contains Minecraft Java plugins server softwares.
 - **Fork:** CraftBukkit --> Spigot --> Paper --> SparklyPaper
 - **Description:** SparklyPower's Paper fork, making large servers snappier with high-performance optimizations and improvements! (Note: only recommended for advanced users due to features that may break plugins and cause server instability)
 - **Plugins:** Bukkit, Spigot, Paper
- 
+
 ### [🐙 Flying Squid](https://github.com/PrismarineJS/flying-squid)
 - **Version:** 1.8 - 1.16.1
 - **Author:** PrismarineJS
 - **Fork:** -
 - **Description:** Create Minecraft servers with a powerful, stable, and high level JavaScript API.
 - **Plugins:** Flying Squid
-  
+
 ### [🔥 FlamePaper](https://github.com/galgotuberz/FlamePaper)
 - **Version:** 1.8.8
 - **Author:** LinsaFTW
 - **Fork:** CraftBukkit --> Spigot --> Paper --> FlamePaper
 - **Description:** A 1.8.8 fork of PaperSpigot aiming to improve security and performance for stability.
 - **Plugins:** Bukkit, Spigot, Paper
-  
+
 ### [⚡ Plazma](https://github.com/PlazmaMC/Plazma)
 - **Version:** 1.19.4-1.20.2
 - **Author:** PlazmaMC
@@ -283,7 +283,7 @@ This list contains Minecraft Java plugins server softwares.
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Tuinity --> Hydrinity
 - **Description:** Hydrinity is a Tuinity fork with patches from some paper forks and the Lithium mod.
 - **Plugins:** Bukkit, Spigot, Paper
-- 
+
 ### [🌍 NFT Worlds](https://github.com/NFT-Worlds/Server)
 - **Version:** 1.17
 - **Author:** NFT-Worlds
@@ -318,7 +318,7 @@ This list contains Minecraft Java plugins server softwares.
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Pufferfish --> Purpur --> Petal --> Sakura
 - **Description:** Backport of Petal for 1.18.2.
 - **Plugins:** Bukkit, Spigot, Paper
-- 
+
 ### [🐆 ChikaCraft](https://github.com/bitbloxhub/ChikaCraft)
 - **Version:** 1.19.3
 - **Author:** bitbloxhub
@@ -478,5 +478,3 @@ This list contains Minecraft Java plugins server softwares.
 - **Fork:** -
 - **Description:** A continuation of CanaryMod under a new repository and name.
 - **Plugins:** hMod
-
-

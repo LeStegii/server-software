@@ -24,7 +24,7 @@ This list contains Minecraft Java plugins server softwares based on Folia.
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Folia --> TenseiMC
 - **Description:** Fork of Folia with more customization options.
 - **Plugins:** Folia\*¹
-  
+
 ### [🏔️ DirtyFolia](https://github.com/killerprojecte/Folia)
 - **Version:** 1.19.4-1.20.1
 - **Author:** killerprojecte
