@@ -303,7 +303,7 @@ This list contains Minecraft Java vanilla server softwares.
 - **Author:** BizzareCake
 - **Fork:** -
 - **Description:** A custom implementation of a Minecraft server striving to be fast, customizable and easy to use.
-  
+
 ### [🌟 Cleanstone](https://github.com/CleanstoneMC/Cleanstone)
 - **Version:** 1.12.2 - 1.14
 - **Author:** LeonMangler

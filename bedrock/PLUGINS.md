@@ -34,12 +34,12 @@ Since most of the softwares do not support all vanilla features, it's recommende
 
 # ❌ Inactive Development
 ### [⚛️ Nukkit](https://github.com/Nukkit/Nukkit)
-- Alternative: NukkitX/Cloudburst
-- Author: Nukkit
-- Fork: -
-- Description: Server software for Minecraft: Pocket Edition written in Java.
-- Plugins: Nukkit
-- Addons: ❌
+- **Alternative**: NukkitX/Cloudburst
+- **Author**: Nukkit
+- **Fork**: -
+- **Description**: Server software for Minecraft: Pocket Edition written in Java.
+- **Plugins**: Nukkit
+- **Addons**: ❌
 
 ### [🍃 GoMint](https://github.com/gomint/gomint)
 - **Author:** gomint
