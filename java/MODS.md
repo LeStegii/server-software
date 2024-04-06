@@ -9,7 +9,7 @@ If you're looking for a way to use both **plugins and mods**, checkout [this lis
 ### [🔨 Forge](http://files.minecraftforge.net/)
 - **Version:** 1.1-1.20.4
 - **Author:** MinecraftForge
-- **Fork:** -
+- **Fork:** N/A
 - **Description:** Software that allows the use of Forge Mods on your server.
 - **Mods:** Forge
 
@@ -23,7 +23,7 @@ If you're looking for a way to use both **plugins and mods**, checkout [this lis
 ### [🧻 Fabric](https://fabricmc.net/)
 - **Version:** 1.14.4-1.20.4, Snapshots
 - **Author:** FabricMC
-- **Fork:** -
+- **Fork:** N/A
 - **Description:** Software that allows the use of Fabric Mods on your server.
 - **Mods:** Fabric
 
@@ -43,7 +43,7 @@ If you're looking for a way to use both **plugins and mods**, checkout [this lis
 
 # ❌ Inactive Development
 ### [🐔 LiteLoader](http://www.liteloader.com/explore)
-- **Alternative**: Forge
+- **Alternative:** Forge
 - **Version:** 1.5.2 - 1.12.2
 - **Author:** Mumfrey
 - **Fork:** Forge --> Liteloader
@@ -51,7 +51,7 @@ If you're looking for a way to use both **plugins and mods**, checkout [this lis
 - **Mods:** Forge/Liteloader
 
 ### [⬛ ModLoaderMP](https://mcarchive.net/mods/modloadermp)
-- **Alternative**: -
+- **Alternative:** -
 - **Version:** b1.4-1.5.2
 - **Author:** ScottyDoesKnow
 - **Fork:** Risugami's Modloader -> ModLoaderMP

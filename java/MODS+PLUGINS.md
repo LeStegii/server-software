@@ -47,7 +47,7 @@ This list contains Minecraft Java mods/plugins server softwares.
 ### [🧽 SpongeForge](https://www.spongepowered.org/downloads/spongeforge/)
 - **Version:** 1.8-1.12.2, 1.16.5
 - **Author:** SpongePowered
-- **Fork:** -
+- **Fork:** N/A
 - **Description:** Forge Mod that allows the use of Sponge Plugins.
 - **Plugins:** Sponge
 - **Mods:** Forge
@@ -86,8 +86,8 @@ This list contains Minecraft Java mods/plugins server softwares.
 - **Mods:** Forge
 
 ### [🌫️ Mist](https://github.com/MinecraftMist/Mist)
-- **Alternative**: Mohist
-- **Version**: 1.16.5
+- **Alternative:** Mohist
+- **Version:** 1.16.5
 - **Author:** KR33PY
 - **Fork:** Forge/Spigot/Paper/Atom/Thermos/um_bukkit --> Mohist --> Mist
 - **Description:** Fork of Mohist 1.16.5 which implement some Paper patches.
@@ -95,7 +95,7 @@ This list contains Minecraft Java mods/plugins server softwares.
 - **Mods:** Forge
 
 ### [🗑 (k)Cauldron](https://sourceforge.net/projects/cauldron-unofficial/)
-- **Alternative**: Crucible
+- **Alternative:** Crucible
 - **Version:** 1.7.10
 - **Author:** Various authors
 - **Fork:** Forge/CraftBukkit --> MCPC+ --> Cauldron --> kCauldron
@@ -104,7 +104,7 @@ This list contains Minecraft Java mods/plugins server softwares.
 - **Mods:** ️ Forge
 
 ### [☕️ Thermos](https://github.com/CyberdyneCC/Thermos)
-- **Alternative**: Crucible
+- **Alternative:** Crucible
 - **Version:** 1.7.10
 - **Author:** CyberdyneCC
 - **Fork:** Forge/Bukkit --> MCPC+ --> Cauldron --> kCauldron --> Thermos
@@ -113,7 +113,7 @@ This list contains Minecraft Java mods/plugins server softwares.
 - **Mods:** Forge
 
 ### [♓ Contigo](https://github.com/gcallant/Contigo)
-- **Alternative**: Crucible
+- **Alternative:** Crucible
 - **Version:** 1.7.10
 - **Author:** gcallant
 - **Fork:** Forge/Bukkit --> MCPC+ --> Cauldron --> kCauldron --> Thermos --> Contigo
@@ -122,7 +122,7 @@ This list contains Minecraft Java mods/plugins server softwares.
 - **Mods:** Forge
 
 ### [♓ NeptuneForge](https://github.com/NeptunePowered/NeptuneForge)
-- **Alternative**: -
+- **Alternative:** N/A
 - **Version:** -
 - **Author:** NeptunePowered
 - **Fork:** hMod --> CanaryMod + Forge --> NeptuneForge
@@ -131,7 +131,7 @@ This list contains Minecraft Java mods/plugins server softwares.
 - **Mods:** Forge
 
 ### [⬛ PFServer](https://github.com/l89669/PFServer)
-- **Alternative**: CatServer
+- **Alternative:** CatServer
 - **Version:** 1.12.2
 - **Author:** l89669
 - **Fork:** Forge/Spigot/Paper --> CatServer/AtomMC --> PFServer
@@ -140,7 +140,7 @@ This list contains Minecraft Java mods/plugins server softwares.
 - **Mods:** Forge
 
 ### [💥 Lava](https://github.com/Timardo/Lava)
-- **Alternative**: CatServer
+- **Alternative:** CatServer
 - **Version:** 1.12.2
 - **Author:** Timardo
 - **Fork:** Forge/Spigot --> Lava
@@ -149,7 +149,7 @@ This list contains Minecraft Java mods/plugins server softwares.
 - **Mods:** Forge
 
 ### [🔆 AtomMC](https://github.com/josephworks/AtomMC)
-- **Alternative**: Magma
+- **Alternative:** Magma
 - **Version:** 1.12.2
 - **Author:** josephworks
 - **Fork:** Forge/Spigot/Craftbukkit -->  AtomMC
@@ -158,7 +158,7 @@ This list contains Minecraft Java mods/plugins server softwares.
 - **Mods:** Forge
 
 ### [🔥 Hotpur](https://github.com/KettleFoundation/Kettle)
-- **Alternative**: -
+- **Alternative:** N/A
 - **Version:** 1.16.4
 - **Author:** KettleFoundation
 - **Fork:** Purpur/Fabric --> Hotpur
@@ -167,7 +167,7 @@ This list contains Minecraft Java mods/plugins server softwares.
 - **Mods:** Fabric
 
 ### [🛑 Kettle](https://github.com/KettleFoundation/Kettle)
-- **Alternative**: Magma
+- **Alternative:** Magma
 - **Version:** 1.12.2, 1.14.4
 - **Author:** KettleFoundation
 - **Fork:** Forge/Bukkit --> MCPC+ --> Cauldron --> kCauldron --> Thermos --> Contigo --> Kettle
@@ -176,7 +176,7 @@ This list contains Minecraft Java mods/plugins server softwares.
 - **Mods:** Forge
 
 ### [⚒️ BukkitForge](https://github.com/keepcalm/BukkitForge)
-- **Alternative**: -
+- **Alternative:** N/A
 - **Version:** 1.5.2
 - **Author:** keepcalm
 - **Fork:** CraftBukkit --> BukkitForge
@@ -185,7 +185,7 @@ This list contains Minecraft Java mods/plugins server softwares.
 - **Mods:** Forge
 
 ### [☢️ Uranium](https://github.com/UraniumMC/Uranium)
-- **Alternative**: Crucible
+- **Alternative:** Crucible
 - **Version:** 1.7.10
 - **Author:** UraniumMC
 - **Fork:** Forge/CraftBukkit --> MCPC+ --> Cauldron --> kCauldron --> Uranium
@@ -194,7 +194,7 @@ This list contains Minecraft Java mods/plugins server softwares.
 - **Mods:** Forge
 
 ### [🚧 MCPC+](https://apocgaming.net/repo/jars/hybrid-servers/MCPC/)
-- **Alternative**: Crucible
+- **Alternative:** Crucible
 - **Version:** 1.2.5-1.7.2 (not all Versions available) 
 - **Author:** MD-5
 - **Fork:** Forge/CraftBukkit --> MCPC+
