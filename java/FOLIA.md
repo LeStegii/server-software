@@ -35,7 +35,7 @@ This list contains Minecraft Java plugins server softwares based on Folia.
 ### [⬛ Luminol](https://github.com/LuminolMC/Luminol)
 - **Version:** 1.20.2
 - **Author:** LuminolMC
-- **Fork:** CraftBukkit --> Spigot --> Paper --> Folia --> SandFolia
+- **Fork:** CraftBukkit --> Spigot --> Paper --> Folia --> Luminol
 - **Description:** Lightweight, optimized and functional Folia fork designed for survival and anarchy servers.
 - **Plugins:** Folia\*¹
 
