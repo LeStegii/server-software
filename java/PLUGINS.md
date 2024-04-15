@@ -6,7 +6,7 @@ This list contains Minecraft Java plugins server softwares.
 ### [🪣 Bukkit/CraftBukkit](https://www.spigotmc.org/wiki/buildtools/)
 - **Version:** Beta 1.2 - 1.20.4 (only 1.8+ official)
 - **Author:** various authors, maintained by md_5/SpigotMC
-- **Fork:** N/A
+- **Fork:** ?
 - **Description:** Software that allows using plugins on servers.
 - **Plugins:** Bukkit
 
@@ -83,7 +83,7 @@ This list contains Minecraft Java plugins server softwares.
 ### [⬛ Obsidian](https://github.com/ObsidianMC/Obsidian)
 - **Version:** 1.19.4 - 1.20.3
 - **Author:** ObsidianMC
-- **Fork:** N/A
+- **Fork:** ?
 - **Description:** A C# implementation of the Minecraft server protocol.
 - **Plugins:** Obsidian
 
@@ -104,28 +104,28 @@ This list contains Minecraft Java plugins server softwares.
 ### [🔆 Glowstone](https://glowstone.net/)
 - **Version:** 1.12.2, 1.16.5 (Unsupported), 1.19 (Experimental)
 - **Author:** GlowstoneMC
-- **Fork:** N/A
+- **Fork:** ?
 - **Description:** Completely open source Minecraft server that doesn't rely on any of Mojang's code and supports Bukkit/Spigot/Paper plugins.
 - **Plugins:** Bukkit, Spigot, Paper
 
 ### [🧽 SpongeVanilla](https://www.spongepowered.org/downloads/spongevanilla/)
 - **Version:** 1.8 - 1.12.2, 1.15 - 1.20.2
 - **Author:** SpongePowered
-- **Fork:** N/A
+- **Fork:** ?
 - **Description:** Software that allows the use of Sponge plugins without mods.
 - **Plugins:** Sponge
 
 ### [🎲 Cuberite](https://cuberite.org/)
 - **Version:** 1.8 - 1.12.2
 - **Author:** cuberite
-- **Fork:** N/A
+- **Fork:** ?
 - **Description:** A lightweight, fast and extensible game server for Minecraft written in C++.
 - **Plugins:** Cuberite Lua
 
 ### [✴️ Minestom](https://minestom.net/)
 - **Version:** 1.18 - 1.19.3
 - **Author:** Minestom
-- **Fork:** N/A
+- **Fork:** ?
 - **Description:** Minestom is an open-source library that enables developers to create their own Minecraft server software, without any code from Mojang.
 - **Plugins:** Minestom implementations
 
@@ -146,7 +146,7 @@ This list contains Minecraft Java plugins server softwares.
 ### [🐙 Flying Squid](https://github.com/PrismarineJS/flying-squid)
 - **Version:** 1.8 - 1.16.1
 - **Author:** PrismarineJS
-- **Fork:** N/A
+- **Fork:** ?
 - **Description:** Create Minecraft servers with a powerful, stable, and high level JavaScript API.
 - **Plugins:** Flying Squid
 
@@ -203,14 +203,14 @@ This list contains Minecraft Java plugins server softwares.
 ### [⬛ Reflx](https://github.com/Jckf/Reflx)
 - **Version:** 1.3.2
 - **Author:** Jckf
-- **Fork:** N/A
+- **Fork:** ?
 - **Description:** Open source Minecraft server plugin API, and reflection based implementation.
 - **Plugins:** Reflx
 
 ### [⬛ PyMine](https://github.com/py-mine/PyMine-Server)
 - **Version:** 1.16.5
 - **Author:** py-mine
-- **Fork:** N/A
+- **Fork:** ?
 - **Description:** PyMine is a server built in Python. It has support for plugins.
 - **Plugins:** py-mine
 
@@ -259,7 +259,7 @@ This list contains Minecraft Java plugins server softwares.
 ### [⬛ Lantern](https://github.com/LanternPowered/Lantern)
 - **Version:** 1.12-1.14, 1.16
 - **Author:** LanternPowered
-- **Fork:** N/A
+- **Fork:** ?
 - **Description:** An open-source Minecraft server that implements the SpongeAPI.
 - **Plugins:** Sponge
 
@@ -447,21 +447,21 @@ This list contains Minecraft Java plugins server softwares.
 - **Alternative:** Paper
 - **Version:** 1.15.2
 - **Author:** MyCraftServerMC
-- **Fork:** N/A
+- **Fork:** ?
 - **Description:** High performance Paper fork that aims to add more gameplay and mechanics.
 - **Plugins:** Bukkit, Spigot, Paper
 
 ### [🧳 Basin](https://github.com/basinserver/Basin)
 - **Version:** 1.10-1.11
 - **Author:** basinserver
-- **Fork:** N/A
+- **Fork:** ?
 - **Description:** A high performance Minecraft server implementation written in C compatible with Spigot (drop-in replacement).
 - **Plugins:** Spigot, Basin C
 
 ### [🌎 hMod](https://github.com/traitor/Minecraft-Server-Mod)
 - **Version:** Beta
 - **Author:** traitor
-- **Fork:** N/A
+- **Fork:** ?
 - **Description:** Server administration mod and API for Minecraft beta multiplayer server (inspiration for Bukkit).
 - **Plugins:** hMod
 
@@ -475,6 +475,6 @@ This list contains Minecraft Java plugins server softwares.
 ### [🐠 NeptuneMod](https://github.com/NeptunePowered/NeptuneMod)
 - **Version:** 1.8.9 - 1.9
 - **Author:** NeptunePowered
-- **Fork:** N/A
+- **Fork:** ?
 - **Description:** A continuation of CanaryMod under a new repository and name.
 - **Plugins:** hMod

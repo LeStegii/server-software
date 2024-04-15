@@ -15,7 +15,7 @@ About it: Proxies manage different single minecraft servers and manage player co
 ### [🌠 Velocity](https://www.velocitypowered.com/)
 - **Version:** 1.7.2 - 1.20.4
 - **Author:** VelocityPowered
-- **Fork:** N/A
+- **Fork:** ?
 - **Description:** Proxy with unparalleled server support, scalability, and flexibility.
 
 ### [💨 lightfall](https://github.com/ArclightPowered/lightfall)
@@ -27,7 +27,7 @@ About it: Proxies manage different single minecraft servers and manage player co
 ### [🚪 gate](https://github.com/minekube/gate)
 - **Version:** 1.8 - 1.20.4
 - **Author:** minekube
-- **Fork:** N/A
+- **Fork:** ?
 - **Description:** A high performance & paralleled Minecraft proxy server with scalability, flexibility & excellent server version support.
 
 ### [✅ VanillaCord](https://github.com/ME1312/VanillaCord)
@@ -62,21 +62,21 @@ About it: Proxies manage different single minecraft servers and manage player co
 - **Alternative:** Velocity/Bungeecord
 - **Version:** 1.8 - 1.16
 - **Author:** Mindgamesnl
-- **Fork:** N/A
+- **Fork:** ?
 - **Description:** A fork of BungeeCord which caches players IPs and usernames to verify them while Mojang services are unstable. It is created and maintained for the server BlockParty.
 
 ### [⬛ Dripleaf](https://github.com/NoahvdAa/Dripleaf)
 - **Alternative:** -
 - **Version:** 1.17.1
 - **Author:** NoahvdAa
-- **Fork:** N/A
+- **Fork:** ?
 - **Description:** Dripleaf is a lightweight Minecraft "limbo" server, designed to be used as a queue server or as a fallback server in case of a crash.
 
 ### [⬛ infrated](https://github.com/haveachin/infrared)
 - **Alternative:** Velocity
 - **Version:** 1.18
 - **Author:** haveachin
-- **Fork:** N/A
+- **Fork:** ?
 - **Description:** An ultra lightweight minecraft reverse proxy and idle placeholder.
 
 ### [🛑 Hexacord](https://github.com/HexagonMC/BungeeCord)
@@ -132,7 +132,7 @@ About it: Proxies manage different single minecraft servers and manage player co
 - **Alternative:** Velocity
 - **Version:** -
 - **Author:** meta1203
-- **Fork:** N/A
+- **Fork:** ?
 - **Description:** A Minecraft Proxy Server designed for cross server teleportation written in python.
 
 ### [🎉 wCord](https://github.com/wtfaremyinitials/wCord)
@@ -153,14 +153,14 @@ About it: Proxies manage different single minecraft servers and manage player co
 - **Alternative:** Velocity
 - **Version:** 1.12
 - **Author:** LilyPad
-- **Fork:** N/A
+- **Fork:** ?
 - **Description:** An implementation of the LilyPad proxy in Java.
 
 ### [🍃 GoLilyPad](https://github.com/LilyPad/GoLilyPad)
 - **Alternative:** Velocity
 - **Version:** 1.11 - 1.19.1
 - **Author:** LilyPad
-- **Fork:** N/A
+- **Fork:** ?
 - **Description:** An implementation of the LilyPad proxy in Go.
 
 ### [🌊 Waterfall](https://github.com/PaperMC/Waterfall)

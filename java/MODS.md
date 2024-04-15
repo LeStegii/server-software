@@ -9,7 +9,7 @@ If you're looking for a way to use both **plugins and mods**, checkout [this lis
 ### [🔨 Forge](http://files.minecraftforge.net/)
 - **Version:** 1.1-1.20.4
 - **Author:** MinecraftForge
-- **Fork:** N/A
+- **Fork:** ?
 - **Description:** Software that allows the use of Forge Mods on your server.
 - **Mods:** Forge
 
@@ -23,7 +23,7 @@ If you're looking for a way to use both **plugins and mods**, checkout [this lis
 ### [🧻 Fabric](https://fabricmc.net/)
 - **Version:** 1.14.4-1.20.4, Snapshots
 - **Author:** FabricMC
-- **Fork:** N/A
+- **Fork:** ?
 - **Description:** Software that allows the use of Fabric Mods on your server.
 - **Mods:** Fabric
 
