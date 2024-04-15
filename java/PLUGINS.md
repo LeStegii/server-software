@@ -17,7 +17,7 @@ This list contains Minecraft Java plugins server softwares.
 - **Description:** Bukkit with performance patches, more features and Bungeecord support.
 - **Plugins:** Bukkit, Spigot
 
-### [✉️ Paper](https://papermc.io/)
+### [📃 Paper](https://papermc.io/)
 - **Version:** 1.7.10 - 1.20.2 (Unsupported), 1.20.4
 - **Author:** PaperMC
 - **Fork:** CraftBukkit --> Spigot --> Paper
