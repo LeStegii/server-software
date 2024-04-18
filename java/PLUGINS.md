@@ -199,6 +199,13 @@ This list contains Minecraft Java plugins server softwares.
 - **Description:** A CraftBukkit CB1060 fork for Beta 1.7.3 fixing bugs and adding basic features.
 - **Plugins:** Bukkit
 
+### [🔻 Valence](https://github.com/valence-rs/valence)
+- **Version:** ?
+- **Author:** valence-rs
+- **Fork:** ?
+- **Description:** A Rust framework for building Minecraft servers.
+- **Plugins:** Rust (Valence)
+
 # ❌ Inactive Development
 ### [⬛ Reflx](https://github.com/Jckf/Reflx)
 - **Version:** 1.3.2
