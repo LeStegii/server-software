@@ -29,5 +29,5 @@ Find below our recommended software solutions tailored to your needs. Please not
 - Create a Minecraft Bedrock Server with plugins using Spigot or Paper along with [Geyser](OTHERS.md#-geysermc).
 
 ### 🌐 Minecraft Networks
-- Connect Java Edition servers using [Velocity](java/PROXIES.md#-velocity).
-- Connect Bedrock Edition servers using [WaterdogPE](bedrock/PROXIES.md#-waterdogpe).
+- Connect multiple Java Edition servers using [Velocity](java/PROXIES.md#-velocity).
+- Connect multiple Bedrock Edition servers using [WaterdogPE](bedrock/PROXIES.md#-waterdogpe).
