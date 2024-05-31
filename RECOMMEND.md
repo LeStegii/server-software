@@ -1,7 +1,7 @@
 # Recommended
 Find below our recommended software solutions tailored to your needs. Please note that while we strive to offer the best suggestions, individual preferences may vary.
 
-**Note:** Some versions may be outdated and are not recommended for optimal performance. Versions such as 1.13 or 1.17 are examples of outdated versions; it's advisable to use newer, more efficient versions.
+**Note:** Some softwares are outdated and are no longer being actively developed. They may still be useful, but they aren't supported and most likely contain security vulnerabilities, like Log4Shell, besides worse performance and compatibility. It's advisable to use newer, more efficient versions.
 
 ### 🍦 Minecraft Vanilla
 - For a pure Minecraft experience without modifications, opt for the [Vanilla](java/VANILLA.md#-vanilla-minecraft) server.
