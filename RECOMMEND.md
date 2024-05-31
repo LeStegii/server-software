@@ -1,33 +1,33 @@
 # Recommended
-Here you can find the recommended softwares for your use case. This list is based on our opinions and might not be the golden standard.
+Find below our recommended software solutions tailored to your needs. Please note that while we strive to offer the best suggestions, individual preferences may vary.
 
-**Note!** Some versions are outdated and shouldn't be used. There is, for example, no reason to use versions like 1.13 or 1.17, as newer versions are running far better.
+**Note:** Some softwares are outdated and are no longer being actively developed. They may still be useful, but they aren't supported and most likely contain security vulnerabilities, like Log4Shell, besides worse performance and compatibility. It's advisable to use newer, more efficient versions.
 
-### 🌍 Minecraft Vanilla
-- If you just want to play Minecraft without any modifications, you can use the [Vanilla](java/VANILLA.md#-vanilla-minecraft) server. 
-- If you want to have some bug fixes, settings and better performance, you can use [Fabric](java/MODS.md#-fabric) with the [Carpet](https://www.curseforge.com/minecraft/mc-mods/carpet) or [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) mod.
+### 🍦 Minecraft Vanilla
+- For a pure Minecraft experience without modifications, opt for the [Vanilla](java/VANILLA.md#-vanilla-minecraft) server.
+- Enhance your Vanilla experience with bug fixes, settings, and better performance by using [Fabric](java/MODS.md#-fabric) along with either the [Carpet](https://www.curseforge.com/minecraft/mc-mods/carpet) or [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) mod.
 
-### 🚰 Minecraft Vanilla with plugins¡
-- If you want to use plugins on your **1.19+** server, use [Paper](java/PLUGINS.md#-paper) or [Pufferfish](java/PLUGINS.md#-pufferfish) or [Purpur](java/PLUGINS.md#-purpur).
-- If you want to use plugins on your **1.8-1.18** server, use [Paper Legacy](java/PLUGINS.md#-paper).
-- If you want to use plugins on your **1.7.10** server, use [PaperSpigot](java/PLUGINS.md#-paper).
-- If you want to use plugins on **Beta 1.7.3** use [Canyon](java/PLUGINS.md#-canyon).
+### 🚰 Minecraft Vanilla with Plugins
+- For servers running version **1.19+**, consider using [Paper](java/PLUGINS.md#%EF%B8%8F-paper), [Pufferfish](java/PLUGINS.md#-pufferfish), or [Purpur](java/PLUGINS.md#-purpur).
+- For servers operating on versions **1.8-1.18**, utilize [Paper Legacy](java/PLUGINS.md#%EF%B8%8F-paper).
+- For servers running version **1.7.10**, opt for [PaperSpigot](java/PLUGINS.md#%EF%B8%8F-paper).
+- For **Beta 1.7.3**, use [Canyon](java/PLUGINS.md#-canyon).
 
-### 🔨 Minecraft with mods
-- If you want to use mods on your server, you can use [Forge](java/MODS.md#-forge) or [Fabric](java/MODS.md#-fabric), depending on which mods you want to use.  
+### 🔨 Minecraft with Mods
+- Incorporate mods into your server using either [Forge](java/MODS.md#-forge) or [Fabric](java/MODS.md#-fabric), depending on your mod preferences.
 
-### 🔶 Minecraft with mods and plugins
-- If you want to use Forge mods and plugins on **1.20.2-1.20.4** you can use [Ketting](java/MODS+PLUGINS.md#-ketting) (This is a development version).
-- If you want to use Forge mods and plugins on **1.19.2/1.19.4** you can use [Arclight](java/MODS+PLUGINS.md#-arclight).
-- If you want to use Forge mods and plugins on **1.18.2** you can use [Magma Maintained](java/MODS+PLUGINS.md#-magma-maintained)
-- If you want to use Forge mods and plugins on **1.16.5** you can use [Mohist](java/MODS+PLUGINS.md#-mohist) or [Arclight](java/MODS+PLUGINS.md#-arclight).
-- If you want to use Forge mods and plugins on **1.12.2** you can use [CatServer](java/MODS+PLUGINS.md#-catserver).
-- If you want to use Forge mods and plugins on **1.7.10** you can use [Crucible](java/MODS+PLUGINS.md#-crucible).
-- If you want to use Fabric mods and plugins, you can use [Mohist Banner](java/MODS+PLUGINS.md#-banner) or [Cardboard](java/MODS+PLUGINS.md#-cardboard-bukkit-for-fabric).
+### 🔮 Minecraft with Mods and Plugins
+- For servers running **1.20.2-1.20.4**, explore [Ketting](java/MODS+PLUGINS.md#-ketting) (Development version).
+- Servers on **1.19.2/1.19.4** can utilize [Arclight](java/MODS+PLUGINS.md#-arclight).
+- For **1.18.2**, consider [Magma Maintained](java/MODS+PLUGINS.md#-magma-maintained).
+- Servers running **1.16.5** can use either [Mohist](java/MODS+PLUGINS.md#-mohist) or [Arclight](java/MODS+PLUGINS.md#-arclight).
+- Utilize [CatServer](java/MODS+PLUGINS.md#-catserver) for **1.12.2** servers.
+- For **1.7.10**, consider [Crucible](java/MODS+PLUGINS.md#-crucible).
+- Fabric mod and plugin integration can be achieved with [Mohist Banner](java/MODS+PLUGINS.md#-banner) or [Cardboard](java/MODS+PLUGINS.md#-cardboard-bukkit-for-fabric).
 
-### 📙 Minecraft Bedrock
-- If you want to make a Minecraft Bedrock Server with plugins, use Spigot or Paper in combination with [Geyser](OTHERS.md#-geysermc).
+### 🪨 Minecraft Bedrock
+- Create a Minecraft Bedrock Server with plugins using Spigot or Paper along with [Geyser](OTHERS.md#-geysermc).
 
 ### 🌐 Minecraft Networks
-- If you want to connect Java Edition servers with each other, use [Velocity](java/PROXIES.md#-velocity).
-- If you want to connect Bedrock Edition servers with each other, use [WaterdogPE](bedrock/PROXIES.md#-waterdogpe).
+- Connect multiple Java Edition servers using [Velocity](java/PROXIES.md#-velocity).
+- Connect multiple Bedrock Edition servers using [WaterdogPE](bedrock/PROXIES.md#-waterdogpe).
