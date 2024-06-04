@@ -7,27 +7,27 @@ About it: Proxies manage different single minecraft servers and manage player co
 
 # ✔️ Active Development
 ### [🌐 Bungeecord](https://github.com/SpigotMC/BungeeCord)
-- **Version:** 1.8 - 1.20.4
+- **Version:** 1.8 - 1.20.6
 - **Author:** md_5/SpigotMC
-- **Fork:**
+- **Fork:** -
 - **Description:** Proxy that manages spigot servers and connects players to it.
 
 ### [🌠 Velocity](https://www.velocitypowered.com/)
-- **Version:** 1.7.2 - 1.20.4
+- **Version:** 1.7.2 - 1.20.6
 - **Author:** VelocityPowered
-- **Fork:** ?
+- **Fork:** -
 - **Description:** Proxy with unparalleled server support, scalability, and flexibility.
 
 ### [💨 lightfall](https://github.com/ArclightPowered/lightfall)
-- **Version:** 1.8 - 1.20.4
+- **Version:** 1.8 - 1.20.6
 - **Author:** ArclightPowered
 - **Fork:** Bungeecord --> Waterfall --> lightfall
 - **Description:** A fork of Waterfall with modern forge support (requires a client side mod).
 
 ### [🚪 gate](https://github.com/minekube/gate)
-- **Version:** 1.8 - 1.20.4
+- **Version:** 1.8 - 1.20.6
 - **Author:** minekube
-- **Fork:** ?
+- **Fork:** -
 - **Description:** A high performance & paralleled Minecraft proxy server with scalability, flexibility & excellent server version support.
 
 ### [✅ VanillaCord](https://github.com/ME1312/VanillaCord)
@@ -53,7 +53,7 @@ About it: Proxies manage different single minecraft servers and manage player co
 
 ### [⬛ HQBungeeCord](https://github.com/moyugame/HQBungeeCord)
 - **Alternative:** Velocity/Bungeecord
-- **Version:** -
+- **Version:** ?
 - **Author:** moyugame
 - **Fork:** Bungeecord --> Waterfall --> HQBungeeCord
 - **Description:** HQBungeeCord is a Waterfall fork aimed at improving stability and performance.
@@ -62,21 +62,21 @@ About it: Proxies manage different single minecraft servers and manage player co
 - **Alternative:** Velocity/Bungeecord
 - **Version:** 1.8 - 1.16
 - **Author:** Mindgamesnl
-- **Fork:** ?
+- **Fork:** BungeeCord -> BarelyAuthenticated
 - **Description:** A fork of BungeeCord which caches players IPs and usernames to verify them while Mojang services are unstable. It is created and maintained for the server BlockParty.
 
 ### [⬛ Dripleaf](https://github.com/NoahvdAa/Dripleaf)
 - **Alternative:** -
 - **Version:** 1.17.1
 - **Author:** NoahvdAa
-- **Fork:** ?
+- **Fork:** -
 - **Description:** Dripleaf is a lightweight Minecraft "limbo" server, designed to be used as a queue server or as a fallback server in case of a crash.
 
 ### [⬛ infrated](https://github.com/haveachin/infrared)
 - **Alternative:** Velocity
 - **Version:** 1.18
 - **Author:** haveachin
-- **Fork:** ?
+- **Fork:** -
 - **Description:** An ultra lightweight minecraft reverse proxy and idle placeholder.
 
 ### [🛑 Hexacord](https://github.com/HexagonMC/BungeeCord)
@@ -101,8 +101,8 @@ About it: Proxies manage different single minecraft servers and manage player co
 - **Description:** Waterfall with 1.7 support.
 
 ### [🔑 BarelyAuthenticated](https://github.com/Mindgamesnl/BarelyAuthenticated)
-- **Alternative:** Velocity/Bungeecord
-- **Version:** -
+- **Alternative:** -
+- **Version:** ?
 - **Author:** Mindgamesnl
 - **Fork:** Bungeecord --> BarelyAuthenticated
 - **Description:** A simple bungeecord-proxy fork that prefers in-house authentication systems based on Redis instead of Mojang to prevent outages and flooding rate limits.
@@ -130,9 +130,9 @@ About it: Proxies manage different single minecraft servers and manage player co
 
 ### [🎈 MetaProxy](https://github.com/meta1203/MetaProxy)
 - **Alternative:** Velocity
-- **Version:** -
+- **Version:** ?
 - **Author:** meta1203
-- **Fork:** ?
+- **Fork:** -
 - **Description:** A Minecraft Proxy Server designed for cross server teleportation written in python.
 
 ### [🎉 wCord](https://github.com/wtfaremyinitials/wCord)
@@ -153,19 +153,19 @@ About it: Proxies manage different single minecraft servers and manage player co
 - **Alternative:** Velocity
 - **Version:** 1.12
 - **Author:** LilyPad
-- **Fork:** ?
+- **Fork:** -
 - **Description:** An implementation of the LilyPad proxy in Java.
 
 ### [🍃 GoLilyPad](https://github.com/LilyPad/GoLilyPad)
 - **Alternative:** Velocity
 - **Version:** 1.11 - 1.19.1
 - **Author:** LilyPad
-- **Fork:** ?
+- **Fork:** -
 - **Description:** An implementation of the LilyPad proxy in Go.
 
 ### [🌊 Waterfall](https://github.com/PaperMC/Waterfall)
 - **Alternative:** Velocity/Bungeecord
-- **Version:** 1.8 - 1.20.4
+- **Version:** 1.8 - 1.20.6
 - **Author:** PaperMC
 - **Fork:** Bungeecord --> Waterfall
 - **Description:** Bungeecord focused on stability, new features and scalability.
