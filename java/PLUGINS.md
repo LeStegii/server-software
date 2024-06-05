@@ -4,49 +4,42 @@ This list contains Minecraft Java plugins server softwares.
 ⚠️ **Warning!** If a project is not in active development exploits such as Log4J could still work!
 # ✔️ Active Development
 ### [🪣 Bukkit/CraftBukkit](https://www.spigotmc.org/wiki/buildtools/)
-- **Version:** Beta 1.2 - 1.20.4 (only 1.8+ official)
+- **Version:** Beta 1.2 - 1.20.6 (only 1.8+ official)
 - **Author:** various authors, maintained by md_5/SpigotMC
 - **Fork:** ?
 - **Description:** Software that allows using plugins on servers.
 - **Plugins:** Bukkit
 
 ### [🚰 Spigot](https://www.spigotmc.org/wiki/buildtools/)
-- **Version:** 1.4.6 - 1.20.4 (only 1.8+ official)
+- **Version:** 1.4.6 - 1.20.6 (only 1.8+ official)
 - **Author:** md_5/SpigotMC
 - **Fork:** CraftBukkit --> Spigot
 - **Description:** Bukkit with performance patches, more features and Bungeecord support.
 - **Plugins:** Bukkit, Spigot
 
 ### [📃 Paper](https://papermc.io/)
-- **Version:** 1.7.10 - 1.20.2 (Unsupported), 1.20.4
+- **Version:** 1.7.10 - 1.20.5 (Unsupported), 1.20.6
 - **Author:** PaperMC
 - **Fork:** CraftBukkit --> Spigot --> Paper
 - **Description:** Spigot with performance patches and more features.
 - **Plugins:** Bukkit, Spigot, Paper
 
 ### [🎋 Leaves](https://github.com/LeavesMC/Leaves)
-- **Version:** 1.18.2 - 1.20.2
+- **Version:** 1.18.2 - 1.20.6
 - **Author:** LeavesMC
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Leaves
 - **Description:** A fork of Paper aimed at repairing broken vanilla properties and adding new api/features.
 - **Plugins:** Bukkit, Spigot, Paper
 
 ### [🐆 Cheetah](https://github.com/gommehdnet/cheetah)
-- **Version:** 1.19.2 - 1.20.2
+- **Version:** 1.19.2 - 1.20.6
 - **Author:** GommeHD Network
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Cheetah
 - **Description:** A fork of Paper used by the big german minecraft network gommehd.net, adding some new api and small features.
 - **Plugins:** Bukkit, Spigot, Paper
 
-### [↔ LinearPaper](https://github.com/xymb-endcrystalme/LinearPaper)
-- **Version:** 1.19.4
-- **Author:** xymb-endcrystalme
-- **Fork:** CraftBukkit --> Spigot --> Paper --> LinearPaper
-- **Description:** A fork of Paper changing the world format making the world files much smaller for big worlds.
-- **Plugins:** Bukkit, Spigot, Paper
-
 ### [🏰 EmpireCraft](https://github.com/starlis/empirecraft)
-- **Version** 1.9 - 1.20.2
+- **Version** 1.9 - 1.20.4
 - **Author** starlis
 - **Fork** CraftBukkit --> Spigot --> Paper --> EmpireCraft
 - **Description** A fork of Paper used by the Empire Minecraft Server with more features and extended API.
@@ -74,7 +67,7 @@ This list contains Minecraft Java plugins server softwares.
 - **Plugins:** Bukkit, Spigot, Paper
 
 ### [🟣 Purpur](https://github.com/pl3xgaming/Purpur)
-- **Version:** 1.14.1 - 1.20.2, 1.20.4
+- **Version:** 1.14.1 - 1.20.6
 - **Author:** pl3xgaming
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Pufferfish --> Purpur
 - **Description:** Fork of Tuinity/Pufferfish with the goal of providing new and interesting configuration options.
@@ -83,12 +76,12 @@ This list contains Minecraft Java plugins server softwares.
 ### [⬛ Obsidian](https://github.com/ObsidianMC/Obsidian)
 - **Version:** 1.19.4 - 1.20.3
 - **Author:** ObsidianMC
-- **Fork:** ?
+- **Fork:** -
 - **Description:** A C# implementation of the Minecraft server protocol.
 - **Plugins:** Obsidian
 
 ### [🧼 Patina](https://github.com/PatinaMC/Patina)
-- **Version:** 1.16.5-1.20.2
+- **Version:** 1.16.5-1.20.4
 - **Author:** PatinaMC
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Pufferfish/Purpur/Jettpack/EmpireCraft --> Patina
 - **Description:** A performance-oriented Minecraft Server fork based on PaperMC (Note: nearly no information available, not recommended).
@@ -104,28 +97,28 @@ This list contains Minecraft Java plugins server softwares.
 ### [🔆 Glowstone](https://glowstone.net/)
 - **Version:** 1.12.2, 1.16.5 (Unsupported), 1.19 (Experimental)
 - **Author:** GlowstoneMC
-- **Fork:** ?
+- **Fork:** -
 - **Description:** Completely open source Minecraft server that doesn't rely on any of Mojang's code and supports Bukkit/Spigot/Paper plugins.
 - **Plugins:** Bukkit, Spigot, Paper
 
 ### [🧽 SpongeVanilla](https://www.spongepowered.org/downloads/spongevanilla/)
-- **Version:** 1.8 - 1.12.2, 1.15 - 1.20.2
+- **Version:** 1.8 - 1.12.2, 1.15 - 1.20.6
 - **Author:** SpongePowered
-- **Fork:** ?
+- **Fork:** -
 - **Description:** Software that allows the use of Sponge plugins without mods.
 - **Plugins:** Sponge
 
 ### [🎲 Cuberite](https://cuberite.org/)
 - **Version:** 1.8 - 1.12.2
 - **Author:** cuberite
-- **Fork:** ?
+- **Fork:** -
 - **Description:** A lightweight, fast and extensible game server for Minecraft written in C++.
 - **Plugins:** Cuberite Lua
 
 ### [✴️ Minestom](https://minestom.net/)
-- **Version:** 1.18 - 1.19.3
+- **Version:** 1.18 - 1.20.4
 - **Author:** Minestom
-- **Fork:** ?
+- **Fork:** -
 - **Description:** Minestom is an open-source library that enables developers to create their own Minecraft server software, without any code from Mojang.
 - **Plugins:** Minestom implementations
 
@@ -137,28 +130,21 @@ This list contains Minecraft Java plugins server softwares.
 - **Plugins:** Bukkit, Spigot, Paper
 
 ### [✨ SparklyPaper](https://github.com/SparklyPower/SparklyPaper)
-- **Version:** 1.20.2, 1.20.4
+- **Version:** 1.20.2 - 1.20.6
 - **Author:** SparklyPower
 - **Fork:** CraftBukkit --> Spigot --> Paper --> SparklyPaper
 - **Description:** SparklyPower's Paper fork, making large servers snappier with high-performance optimizations and improvements! (Note: only recommended for advanced users due to features that may break plugins and cause server instability)
 - **Plugins:** Bukkit, Spigot, Paper
 
 ### [🐙 Flying Squid](https://github.com/PrismarineJS/flying-squid)
-- **Version:** 1.8 - 1.16.1
+- **Version:** 1.8 - 1.16.5
 - **Author:** PrismarineJS
-- **Fork:** ?
+- **Fork:** -
 - **Description:** Create Minecraft servers with a powerful, stable, and high level JavaScript API.
 - **Plugins:** Flying Squid
 
-### [🔥 FlamePaper](https://github.com/galgotuberz/FlamePaper)
-- **Version:** 1.8.8
-- **Author:** LinsaFTW
-- **Fork:** CraftBukkit --> Spigot --> Paper --> FlamePaper
-- **Description:** A 1.8.8 fork of PaperSpigot aiming to improve security and performance for stability.
-- **Plugins:** Bukkit, Spigot, Paper
-
 ### [⚡ Plazma](https://github.com/PlazmaMC/Plazma)
-- **Version:** 1.19.4-1.20.2
+- **Version:** 1.19.4-1.20.6
 - **Author:** PlazmaMC
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Pufferfish --> Mirai --> Suki --> Fusion --> Andromeda --> Plazma
 - **Description:** Successor to Fusion and Andromeda.
@@ -179,14 +165,14 @@ This list contains Minecraft Java plugins server softwares.
 - **Plugins:** MultiPaper
 
 ### [⬛ Canvas](https://github.com/CraftCanvasMC/Canvas)
-- **Version:** 1.20.2, 1.20.4
+- **Version:** 1.20.2 - 1.20.5
 - **Author:** CraftCanvasMC
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Pufferfish --> Purpur --> Canvas
 - **Description:** Purpur fork that tries to give plugin developers unlimted freedom when making plugins.
 - **Plugins:** Bukkit, Spigot, Paper
 
 ### [⬛ DivineMC](https://github.com/DivineMC/DivineMC)
-- **Version:** 1.19.2-1.20.4
+- **Version:** 1.19.2-1.20.6
 - **Author:** CraftCanvasMC
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Pufferfish --> Purpur --> DivineMC
 - **Description:** Slightly optimized fork of Purpur.
@@ -202,11 +188,18 @@ This list contains Minecraft Java plugins server softwares.
 ### [🔻 Valence](https://github.com/valence-rs/valence)
 - **Version:** ?
 - **Author:** valence-rs
-- **Fork:** ?
+- **Fork:** -
 - **Description:** A Rust framework for building Minecraft servers.
 - **Plugins:** Rust (Valence)
 
 # ❌ Inactive Development
+### [↔ LinearPaper](https://github.com/xymb-endcrystalme/LinearPaper)
+- **Version:** 1.19.4
+- **Author:** xymb-endcrystalme
+- **Fork:** CraftBukkit --> Spigot --> Paper --> LinearPaper
+- **Description:** A fork of Paper changing the world format making the world files much smaller for big worlds.
+- **Plugins:** Bukkit, Spigot, Paper
+
 ### [⬛ Reflx](https://github.com/Jckf/Reflx)
 - **Version:** 1.3.2
 - **Author:** Jckf

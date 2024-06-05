@@ -47,7 +47,7 @@ This list contains Minecraft Java mods/plugins server softwares.
 ### [🧽 SpongeForge](https://www.spongepowered.org/downloads/spongeforge/)
 - **Version:** 1.8-1.12.2, 1.16.5
 - **Author:** SpongePowered
-- **Fork:** ?
+- **Fork:** -
 - **Description:** Forge Mod that allows the use of Sponge Plugins.
 - **Plugins:** Sponge
 - **Mods:** Forge
@@ -61,7 +61,7 @@ This list contains Minecraft Java mods/plugins server softwares.
 - **Mods:** Fabric
 
 ### [🧻 Cardboard (Bukkit for Fabric)](https://www.curseforge.com/minecraft/mc-mods/cardboard)
-- **Version:** 1.16.4-1.18.2, 1.19.2 (BETA)
+- **Version:** 1.16.4-1.18.2, 1.19.2, 1.20.4
 - **Author:** IsaiahPatton (CardboardPowered)
 - **Fork:** Fabric/CraftBukkit/Spigot/Paper --> Cardboard
 - **Description:** Fabric Mod that allows the use of Bukkit/Spigot/Paper Plugins.

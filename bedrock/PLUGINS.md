@@ -13,21 +13,21 @@ Since most of the softwares do not support all vanilla features, it's recommende
 
 ### [💨 LiteLoader BDS](https://github.com/LiteLDev/LiteLoaderBDS)
 - **Author:** LiteLDev
-- **Fork:** ?
+- **Fork:** -
 - **Description:** An unofficial plugin loader that provides basic API support for Bedrock Dedicated Server.
 - **Plugins:** LiteLoaderAPI (C++, JS, Lua, C#)
 - **Addons:** ❌
 
 ### [💠 PocketMine-MP](https://github.com/pmmp/PocketMine-MP)
 - **Author:** pmmp
-- **Fork:** ?
+- **Fork:** -
 - **Description:** Server software for Minecraft: Bedrock Edition written in PHP.
 - **Plugins:** PocketMine
 - **Addons:** ❌
 
 ### [🦋 Dragonfly](https://github.com/df-mc/dragonfly)
 - **Author:** df-mc
-- **Fork:** ?
+- **Fork:** -
 - **Description:** A heavily asynchronous server software for Minecraft Bedrock Edition written in Go.
 - **Plugins:** Dragonfly API
 - **Addons:** ❌
@@ -36,21 +36,21 @@ Since most of the softwares do not support all vanilla features, it's recommende
 ### [⚛️ Nukkit](https://github.com/Nukkit/Nukkit)
 - **Alternative:** NukkitX/Cloudburst
 - **Author:** Nukkit
-- **Fork:** ?
+- **Fork:** -
 - **Description:** Server software for Minecraft: Pocket Edition written in Java.
 - **Plugins:** Nukkit
 - **Addons:** ❌
 
 ### [🍃 GoMint](https://github.com/gomint/gomint)
 - **Author:** gomint
-- **Fork:** ?
+- **Fork:** -
 - **Description:** GoMint is a modern Minecraft Bedrock Edition server written in Java.
 - **Plugins:** GoMint 
 - **Addons:** ❌
 
 ### [✳ MiNET](https://github.com/NiclasOlofsson/MiNET)
 - **Author:** NiclasOlofsson
-- **Fork:** ?
+- **Fork:** -
 - **Description:** A (not so) basic Minecraft Pocket Edition server written in C#.
 - **Plugins:** .NET
 - **Addons:** ❌
