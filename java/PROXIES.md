@@ -31,7 +31,7 @@ About it: Proxies manage different single minecraft servers and manage player co
 - **Description:** A high performance & paralleled Minecraft proxy server with scalability, flexibility & excellent server version support.
 
 ### [✅ VanillaCord](https://github.com/ME1312/VanillaCord)
-- **Version:** 1.12 - 1.20.4
+- **Version:** 1.12 - Snapshots
 - **Author:** Thinkofname, maximvarentsov, ME1312
 - **Fork:** Bungeecord --> VanillaCord
 - **Description:** Bungeecord fork adding IP Forwarding support for Vanilla Minecraft Servers.
