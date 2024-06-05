@@ -9,12 +9,6 @@ This list contains Minecraft Java vanilla server softwares.
 - **Fork:** -
 - **Description:** Official Minecraft Vanilla Multiplayer server by Mojang Studio (Microsoft).
 
-### [💡 Krypton](https://github.com/KryptonMC/Krypton)
-- **Version:** 1.18-1.19
-- **Author:** KryptonMC
-- **Fork:** -
-- **Description:** Krypton is free and open-source Minecraft server software, written from scratch in Kotlin, without Mojang code.
-
 ### [⚓ Anchor](https://github.com/AnchorMC/Anchor)
 - **Version:** ?
 - **Author:** AnchorMC
@@ -37,7 +31,7 @@ This list contains Minecraft Java vanilla server softwares.
 ### [⬛ Spacecraft-GT](https://github.com/SpaceManiac/Spacecraft-GT)
 - **Version:** 14w04b
 - **Author:** SpaceManiac
-- **Fork:** ?
+- **Fork:** -
 - **Description:** Spacecraft is a survival multiplayer rendition of Spacecraft, the SpaceManiac Minecraft Server. It was written in C#.
 
 ### [⬛ Snowstorm](https://github.com/SnowstormTeam/Snowstorm)
@@ -305,7 +299,13 @@ This list contains Minecraft Java vanilla server softwares.
 - **Description:** A custom implementation of a Minecraft server striving to be fast, customizable and easy to use.
 
 ### [🌟 Cleanstone](https://github.com/CleanstoneMC/Cleanstone)
-- **Version:** 1.12.2 - 1.14
+- **Version:** 1.12.2-1.14
 - **Author:** LeonMangler
 - **Fork:** -
 - **Description:** A multi-core design server jar coded from the ground up.
+
+### [💡 Krypton](https://github.com/KryptonMC/Krypton)
+- **Version:** 1.18-1.19
+- **Author:** KryptonMC
+- **Fork:** -
+- **Description:** Krypton is free and open-source Minecraft server software, written from scratch in Kotlin, without Mojang code.
