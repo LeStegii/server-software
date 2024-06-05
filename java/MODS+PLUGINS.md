@@ -78,7 +78,7 @@ This list contains Minecraft Java mods/plugins server softwares.
 
 # ❌ Inactive Development
 ### [🔶 Magma](https://magmafoundation.org)
-- **Version:** 1.12.2, 1.15.2 (Deprecated), 1.16.5 (Unsupported), 1.18.2, 1.19.3
+- **Version:** 1.12.2, 1.15.2, 1.16.5, 1.18.2, 1.19.3
 - **Author:** MagmaFoundation/Hexeption
 - **Fork:** Forge/Spigot/Paper/Thermos --> Magma
 - **Description:** Software that allows the use of Forge Mods and Bukkit/Spigot plugins on your server.
@@ -122,7 +122,7 @@ This list contains Minecraft Java mods/plugins server softwares.
 - **Mods:** Forge
 
 ### [♓ NeptuneForge](https://github.com/NeptunePowered/NeptuneForge)
-- **Alternative:** N/A
+- **Alternative:** -
 - **Version:** -
 - **Author:** NeptunePowered
 - **Fork:** hMod --> CanaryMod + Forge --> NeptuneForge
@@ -149,7 +149,7 @@ This list contains Minecraft Java mods/plugins server softwares.
 - **Mods:** Forge
 
 ### [🔆 AtomMC](https://github.com/josephworks/AtomMC)
-- **Alternative:** Magma
+- **Alternative:** CatServer
 - **Version:** 1.12.2
 - **Author:** josephworks
 - **Fork:** Forge/Spigot/Craftbukkit -->  AtomMC
@@ -158,7 +158,7 @@ This list contains Minecraft Java mods/plugins server softwares.
 - **Mods:** Forge
 
 ### [🔥 Hotpur](https://github.com/KettleFoundation/Kettle)
-- **Alternative:** N/A
+- **Alternative:** Arclight
 - **Version:** 1.16.4
 - **Author:** KettleFoundation
 - **Fork:** Purpur/Fabric --> Hotpur
@@ -167,7 +167,7 @@ This list contains Minecraft Java mods/plugins server softwares.
 - **Mods:** Fabric
 
 ### [🛑 Kettle](https://github.com/KettleFoundation/Kettle)
-- **Alternative:** Magma
+- **Alternative:** CatServer
 - **Version:** 1.12.2, 1.14.4
 - **Author:** KettleFoundation
 - **Fork:** Forge/Bukkit --> MCPC+ --> Cauldron --> kCauldron --> Thermos --> Contigo --> Kettle
@@ -176,7 +176,7 @@ This list contains Minecraft Java mods/plugins server softwares.
 - **Mods:** Forge
 
 ### [⚒️ BukkitForge](https://github.com/keepcalm/BukkitForge)
-- **Alternative:** N/A
+- **Alternative:** -
 - **Version:** 1.5.2
 - **Author:** keepcalm
 - **Fork:** CraftBukkit --> BukkitForge
