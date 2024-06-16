@@ -4,21 +4,21 @@ This list contains Minecraft Java plugins server softwares.
 ⚠️ **Warning!** If a project is not in active development exploits such as Log4J could still work!
 # ✔️ Active Development
 ### [🪣 Bukkit/CraftBukkit](https://www.spigotmc.org/wiki/buildtools/)
-- **Version:** Beta 1.2 - 1.20.6 (only 1.8+ official)
+- **Version:** Beta 1.2 - 1.21 (only 1.8+ official)
 - **Author:** various authors, maintained by md_5/SpigotMC
 - **Fork:** ?
 - **Description:** Software that allows using plugins on servers.
 - **Plugins:** Bukkit
 
 ### [🚰 Spigot](https://www.spigotmc.org/wiki/buildtools/)
-- **Version:** 1.4.6 - 1.20.6 (only 1.8+ official)
+- **Version:** 1.4.6 - 1.21 (only 1.8+ official)
 - **Author:** md_5/SpigotMC
 - **Fork:** CraftBukkit --> Spigot
 - **Description:** Bukkit with performance patches, more features and Bungeecord support.
 - **Plugins:** Bukkit, Spigot
 
 ### [📃 Paper](https://papermc.io/)
-- **Version:** 1.7.10 - 1.20.5 (Unsupported), 1.20.6
+- **Version:** 1.7.10 - 1.20.6 (Unsupported), 1.21
 - **Author:** PaperMC
 - **Fork:** CraftBukkit --> Spigot --> Paper
 - **Description:** Spigot with performance patches and more features.
@@ -67,14 +67,14 @@ This list contains Minecraft Java plugins server softwares.
 - **Plugins:** Bukkit, Spigot, Paper
 
 ### [🟣 Purpur](https://github.com/pl3xgaming/Purpur)
-- **Version:** 1.14.1 - 1.20.6
+- **Version:** 1.14.1 - 1.21
 - **Author:** pl3xgaming
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Pufferfish --> Purpur
 - **Description:** Fork of Tuinity/Pufferfish with the goal of providing new and interesting configuration options.
 - **Plugins:** Bukkit, Spigot, Paper
 
 ### [⬛ Obsidian](https://github.com/ObsidianMC/Obsidian)
-- **Version:** 1.19.4 - 1.20.3
+- **Version:** 1.19.4 - 1.20.6
 - **Author:** ObsidianMC
 - **Fork:** -
 - **Description:** A C# implementation of the Minecraft server protocol.
@@ -94,15 +94,8 @@ This list contains Minecraft Java plugins server softwares.
 - **Description:** Canyon is a fork of CraftBukkit for Minecraft Beta 1.7.3 including enhancements from Spigot/Paper while maintaining compatibility.
 - **Plugins:** Bukkit, Spigot
 
-### [🔆 Glowstone](https://glowstone.net/)
-- **Version:** 1.12.2, 1.16.5 (Unsupported), 1.19 (Experimental)
-- **Author:** GlowstoneMC
-- **Fork:** -
-- **Description:** Completely open source Minecraft server that doesn't rely on any of Mojang's code and supports Bukkit/Spigot/Paper plugins.
-- **Plugins:** Bukkit, Spigot, Paper
-
 ### [🧽 SpongeVanilla](https://www.spongepowered.org/downloads/spongevanilla/)
-- **Version:** 1.8 - 1.12.2, 1.15 - 1.20.6
+- **Version:** 1.8 - 1.12.2, 1.15.2 - 1.21
 - **Author:** SpongePowered
 - **Fork:** -
 - **Description:** Software that allows the use of Sponge plugins without mods.
@@ -114,13 +107,6 @@ This list contains Minecraft Java plugins server softwares.
 - **Fork:** -
 - **Description:** A lightweight, fast and extensible game server for Minecraft written in C++.
 - **Plugins:** Cuberite Lua
-
-### [✴️ Minestom](https://minestom.net/)
-- **Version:** 1.18 - 1.20.4
-- **Author:** Minestom
-- **Fork:** -
-- **Description:** Minestom is an open-source library that enables developers to create their own Minecraft server software, without any code from Mojang.
-- **Plugins:** Minestom implementations
 
 ### [✂️ Slice](https://github.com/Cryptite/Slice)
 - **Version:** 1.17.1 - 1.20.2, 1.20.4
@@ -165,7 +151,7 @@ This list contains Minecraft Java plugins server softwares.
 - **Plugins:** MultiPaper
 
 ### [⬛ Canvas](https://github.com/CraftCanvasMC/Canvas)
-- **Version:** 1.20.2 - 1.20.5
+- **Version:** 1.20.2 - 1.20.5, 1.21
 - **Author:** CraftCanvasMC
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Pufferfish --> Purpur --> Canvas
 - **Description:** Purpur fork that tries to give plugin developers unlimted freedom when making plugins.
@@ -185,14 +171,15 @@ This list contains Minecraft Java plugins server softwares.
 - **Description:** A CraftBukkit CB1060 fork for Beta 1.7.3 fixing bugs and adding basic features.
 - **Plugins:** Bukkit
 
-### [🔻 Valence](https://github.com/valence-rs/valence)
-- **Version:** ?
-- **Author:** valence-rs
-- **Fork:** -
-- **Description:** A Rust framework for building Minecraft servers.
-- **Plugins:** Rust (Valence)
 
 # ❌ Inactive Development
+### [🔆 Glowstone](https://glowstone.net/)
+- **Version:** 1.12.2, 1.16.5 (Unsupported), 1.19 (Experimental)
+- **Author:** GlowstoneMC
+- **Fork:** -
+- **Description:** Completely open source Minecraft server that doesn't rely on any of Mojang's code and supports Bukkit/Spigot/Paper plugins.
+- **Plugins:** Bukkit, Spigot, Paper
+
 ### [↔ LinearPaper](https://github.com/xymb-endcrystalme/LinearPaper)
 - **Version:** 1.19.4
 - **Author:** xymb-endcrystalme

@@ -10,11 +10,18 @@ This list contains softwares that are related to minecraft servers but are no se
 - **Platforms:** Bukkit/Spigot/Paper, Bungeecord, Sponge, Velocity
 
 ### [✴️ Minestom](https://github.com/Minestom/Minestom)
-- **Version:** 1.18 - 1.20.4
+- **Version:** 1.18 - 1.21
 - **Author:** Minestom
 - **Fork:** ?
 - **Description:** Minestom is an open-source library that enables developers to create their own Minecraft server software, without any code from Mojang.
 
+### [🔻 Valence](https://github.com/valence-rs/valence)
+- **Version:** ?
+- **Author:** valence-rs
+- **Fork:** -
+- **Description:** A Rust framework for building Minecraft servers.
+- **Plugins:** Rust (Valence)
+- 
 # ❌ Inactive Development
 ### [🐟 Carbon](https://www.spigotmc.org/resources/1258/)
 - **Version:** 1.7.10

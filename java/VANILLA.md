@@ -16,7 +16,7 @@ This list contains Minecraft Java vanilla server softwares.
 - **Description:** A Minecraft server implementation written in Go.
 
 ### [⬛ MCHPR](https://github.com/MCHPR/MCHPRS)
-- **Version:** 1.18.2
+- **Version:** 1.18.2, 1.20.4
 - **Author:** MCHPR
 - **Fork:** -
 - **Description:** A multithreaded reimplementation of the Mincraft server in Rust, made for redstone plot servers.
