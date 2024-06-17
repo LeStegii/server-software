@@ -13,7 +13,7 @@ This list contains Minecraft Java plugins Limbo server softwares.
 - **Fork:** -
 - **Description:** Lightweight Solution for AFK or Waiting Rooms in your Server Network.
 
-### [⬛ NanoLimbo ](https://github.com/Nan1t/NanoLimbo)
+### [⬛ NanoLimbo](https://github.com/Nan1t/NanoLimbo)
 - **Version:** 1.7-1.21
 - **Author:** Nan1t
 - **Fork:** -
