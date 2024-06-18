@@ -104,7 +104,7 @@ section.hero article:hover {
     filter: brightness(1.3) saturate(1.3);
 }
 article.java-vanilla, article.bedrock-vanilla {
-    background: radial-gradient(at left top, #cacc9d22 0%, var(--pico-card-background-color) 70%);
+    background: radial-gradient(at left top, #cace8a22, var(--pico-card-background-color) 70%);
 }
 article.java-plugins, article.bedrock-plugins {
     background: radial-gradient(at left top, #1289D222, var(--pico-card-background-color) 70%);
@@ -121,6 +121,6 @@ article.java-proxies, article.bedrock-proxies {
 article.java-regionized {
     background: radial-gradient(at left top, #00ff1122, var(--pico-card-background-color) 70%);
 }
-article.miscellaneous {
+article.miscellaneous, article.java-limbo {
     background: radial-gradient(at left top, #00ff9522, var(--pico-card-background-color) 70%);
 }
