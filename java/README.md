@@ -10,6 +10,7 @@
 **Minecraft server software supporting mods and plugins at the same time.**
 ### 📗 [Regionized (Folia, ...)](/java/FOLIA.md)
 **Minecraft server software splitting the server into multiple regions.**
-
 ### 📚 [Proxies (BungeeCord, Velocity, ...)](/java/PROXIES.md)
 **Software for connecting multiple servers with each other.**
+### 📗️ [Limbo (NanoLimbo, ...)](/java/LIMBO.md)
+**Minecraft server software with minimum number of sent and processed packets.**
