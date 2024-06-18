@@ -74,7 +74,7 @@ This list contains Minecraft Java plugins server softwares.
 - **Plugins:** Bukkit, Spigot, Paper
 
 ### [⬛ Obsidian](https://github.com/ObsidianMC/Obsidian)
-- **Version:** 1.19.4 - 1.20.6
+- **Version:** 1.19.4 - 1.21
 - **Author:** ObsidianMC
 - **Fork:** -
 - **Description:** A C# implementation of the Minecraft server protocol.
@@ -116,7 +116,7 @@ This list contains Minecraft Java plugins server softwares.
 - **Plugins:** Bukkit, Spigot, Paper
 
 ### [✨ SparklyPaper](https://github.com/SparklyPower/SparklyPaper)
-- **Version:** 1.20.2 - 1.20.6
+- **Version:** 1.20.2 - 1.21
 - **Author:** SparklyPower
 - **Fork:** CraftBukkit --> Spigot --> Paper --> SparklyPaper
 - **Description:** SparklyPower's Paper fork, making large servers snappier with high-performance optimizations and improvements! (Note: only recommended for advanced users due to features that may break plugins and cause server instability)
@@ -158,7 +158,7 @@ This list contains Minecraft Java plugins server softwares.
 - **Plugins:** Bukkit, Spigot, Paper
 
 ### [⬛ DivineMC](https://github.com/DivineMC/DivineMC)
-- **Version:** 1.19.2-1.20.6
+- **Version:** 1.19.2-1.21
 - **Author:** CraftCanvasMC
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Pufferfish --> Purpur --> DivineMC
 - **Description:** Slightly optimized fork of Purpur.
@@ -170,7 +170,6 @@ This list contains Minecraft Java plugins server softwares.
 - **Fork:** CraftBukkit --> Project-Poseidon
 - **Description:** A CraftBukkit CB1060 fork for Beta 1.7.3 fixing bugs and adding basic features.
 - **Plugins:** Bukkit
-
 
 # ❌ Inactive Development
 ### [🔆 Glowstone](https://glowstone.net/)

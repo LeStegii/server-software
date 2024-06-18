@@ -25,7 +25,7 @@ About it: Proxies manage different single minecraft servers and manage player co
 - **Description:** A fork of Waterfall with modern forge support (requires a client side mod).
 
 ### [🚪 gate](https://github.com/minekube/gate)
-- **Version:** 1.8 - 1.20.6
+- **Version:** 1.8 - 1.21
 - **Author:** minekube
 - **Fork:** -
 - **Description:** A high performance & paralleled Minecraft proxy server with scalability, flexibility & excellent server version support.
