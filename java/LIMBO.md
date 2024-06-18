@@ -1,4 +1,4 @@
-# Minecraft Java Folia Plugins software.
+# Minecraft Java Limbo software.
 This list contains Minecraft Java plugins Limbo server softwares.
 
 ⚠️ **Warning!** If a project is not in active development exploits such as Log4J could still work!
