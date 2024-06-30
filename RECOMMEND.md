@@ -26,7 +26,7 @@ Find below our recommended software solutions tailored to your needs. Please not
 - Fabric mod and plugin integration can be achieved with [Banner](java/MODS+PLUGINS.md#-banner) or [Cardboard](java/MODS+PLUGINS.md#-cardboard).
 
 ### 🪨 Minecraft Bedrock
-- Create a pure Minecraft experiencie without modifications, opt for the [Vanilla](bedrock/VANILLA.md#-vanilla) server.
+- Create a pure Minecraft experience without modifications, opt for the [Vanilla](bedrock/VANILLA.md#-vanilla) server.
 - Create a Minecraft Bedrock Server with plugins using Spigot or Paper along with [Geyser](OTHERS.md#-geysermc).
 
 ### 🌐 Minecraft Networks
