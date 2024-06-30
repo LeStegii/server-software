@@ -157,6 +157,13 @@ This list contains Minecraft Java plugins server software.
 - **Description:** Purpur fork that tries to give plugin developers unlimted freedom when making plugins.
 - **Plugins:** Bukkit, Spigot, Paper
 
+### [⬛ Canvas](https://github.com/CraftCanvasMC/Canvas)
+- **Version:** 1.13.2
+- **Author:** codecrafter47
+- **Fork:** -
+- **Description:** Project-Rainbow was an attempt at overthrowing Bukkit with a new platform.
+- **Plugins:** -
+
 ### [⬛ DivineMC](https://github.com/DivineMC/DivineMC)
 - **Version:** 1.19.2-1.21
 - **Author:** CraftCanvasMC
@@ -192,6 +199,27 @@ This list contains Minecraft Java plugins server software.
 - **Fork:** ?
 - **Description:** Open source Minecraft server plugin API, and reflection based implementation.
 - **Plugins:** Reflx
+
+### [⬛ Wolf In a Bukkit](https://github.com/rowtn/wolf-in-a-bukkit)
+- **Version:** -
+- **Author:** rowtn
+- **Fork:** ?
+- **Description:** Wolf in a Bukkit was an attempt to rewrite Bukkit under a new licence.
+- **Plugins:** Bukkit
+
+### [⬛ Torch](https://github.com/TorchSpigot/Torch)
+- **Version:** -
+- **Author:** TorchSpigot
+- **Fork:** CraftBukkit --> Spigot --> Paper --> Torch
+- **Description:** The now abandoned predecessor to Akarin based on a goal of getting Paper to run on multiple threads.
+- **Plugins:** Bukkit, Spigot, Paper
+
+### [⬛ Bamboo](https://gitlab.com/macmv/bamboo)
+- **Version:** 1.8, 1.12, 1.14
+- **Author:** macmv
+- **Fork:** ?
+- **Description:** Bamboo is a server built in Go for minigame servers. It uses a system of a server and a proxy so that clients can easily be switched between servers.
+- **Plugins:** Bamboo
 
 ### [⬛ PyMine](https://github.com/py-mine/PyMine-Server)
 - **Version:** 1.16.5
