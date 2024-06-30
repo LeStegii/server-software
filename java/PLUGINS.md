@@ -6,7 +6,7 @@ This list contains Minecraft Java plugins server software.
 ### [🪣 Bukkit/CraftBukkit](https://www.spigotmc.org/wiki/buildtools/)
 - **Version:** Beta 1.2 - 1.21 (only 1.8+ official)
 - **Author:** various authors, maintained by md_5/SpigotMC
-- **Fork:** ?
+- **Fork:** -
 - **Description:** Software that allows using plugins on servers.
 - **Plugins:** Bukkit
 
@@ -196,14 +196,14 @@ This list contains Minecraft Java plugins server software.
 ### [⬛ Reflx](https://github.com/Jckf/Reflx)
 - **Version:** 1.3.2
 - **Author:** Jckf
-- **Fork:** ?
+- **Fork:** -
 - **Description:** Open source Minecraft server plugin API, and reflection based implementation.
 - **Plugins:** Reflx
 
 ### [⬛ Wolf In a Bukkit](https://github.com/rowtn/wolf-in-a-bukkit)
-- **Version:** -
+- **Version:** ?
 - **Author:** rowtn
-- **Fork:** ?
+- **Fork:** -
 - **Description:** Wolf in a Bukkit was an attempt to rewrite Bukkit under a new licence.
 - **Plugins:** Bukkit
 
@@ -217,14 +217,14 @@ This list contains Minecraft Java plugins server software.
 ### [⬛ Bamboo](https://gitlab.com/macmv/bamboo)
 - **Version:** 1.8, 1.12, 1.14
 - **Author:** macmv
-- **Fork:** ?
+- **Fork:** -
 - **Description:** Bamboo is a server built in Go for minigame servers. It uses a system of a server and a proxy so that clients can easily be switched between servers.
 - **Plugins:** Bamboo
 
 ### [⬛ PyMine](https://github.com/py-mine/PyMine-Server)
 - **Version:** 1.16.5
 - **Author:** py-mine
-- **Fork:** ?
+- **Fork:** -
 - **Description:** PyMine is a server built in Python. It has support for plugins.
 - **Plugins:** py-mine
 
@@ -273,7 +273,7 @@ This list contains Minecraft Java plugins server software.
 ### [⬛ Lantern](https://github.com/LanternPowered/Lantern)
 - **Version:** 1.12-1.14, 1.16
 - **Author:** LanternPowered
-- **Fork:** ?
+- **Fork:** -
 - **Description:** An open-source Minecraft server that implements the SpongeAPI.
 - **Plugins:** Sponge
 
@@ -461,21 +461,21 @@ This list contains Minecraft Java plugins server software.
 - **Alternative:** Paper
 - **Version:** 1.15.2
 - **Author:** MyCraftServerMC
-- **Fork:** ?
+- **Fork:** -
 - **Description:** High performance Paper fork that aims to add more gameplay and mechanics.
 - **Plugins:** Bukkit, Spigot, Paper
 
 ### [🧳 Basin](https://github.com/basinserver/Basin)
 - **Version:** 1.10-1.11
 - **Author:** basinserver
-- **Fork:** ?
+- **Fork:** -
 - **Description:** A high performance Minecraft server implementation written in C compatible with Spigot (drop-in replacement).
 - **Plugins:** Spigot, Basin C
 
 ### [🌎 hMod](https://github.com/traitor/Minecraft-Server-Mod)
 - **Version:** Beta
 - **Author:** traitor
-- **Fork:** ?
+- **Fork:** -
 - **Description:** Server administration mod and API for Minecraft beta multiplayer server (inspiration for Bukkit).
 - **Plugins:** hMod
 
@@ -489,6 +489,6 @@ This list contains Minecraft Java plugins server software.
 ### [🐠 NeptuneMod](https://github.com/NeptunePowered/NeptuneMod)
 - **Version:** 1.8.9 - 1.9
 - **Author:** NeptunePowered
-- **Fork:** ?
+- **Fork:** -
 - **Description:** A continuation of CanaryMod under a new repository and name.
 - **Plugins:** hMod
