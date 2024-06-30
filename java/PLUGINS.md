@@ -157,11 +157,11 @@ This list contains Minecraft Java plugins server software.
 - **Description:** Purpur fork that tries to give plugin developers unlimted freedom when making plugins.
 - **Plugins:** Bukkit, Spigot, Paper
 
-### [⬛ Canvas](https://github.com/CraftCanvasMC/Canvas)
+### [⬛ Rainbow](https://ci.codecrafter47.de/job/Rainbow/)
 - **Version:** 1.13.2
 - **Author:** codecrafter47
 - **Fork:** -
-- **Description:** Project-Rainbow was an attempt at overthrowing Bukkit with a new platform.
+- **Description:** Rainbow was an attempt at overthrowing Bukkit with a new platform.
 - **Plugins:** -
 
 ### [⬛ DivineMC](https://github.com/DivineMC/DivineMC)
