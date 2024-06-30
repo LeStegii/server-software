@@ -3,7 +3,7 @@ This list contains Minecraft Java vanilla server software.
 
 ⚠️ **Warning!** If a project is not in active development exploits such as Log4J could still work!
 # ✔️ Active Development
-### [🌍 Vanilla Minecraft](https://www.minecraft.net/download/server)
+### [🌍 Vanilla](https://www.minecraft.net/download/server)
 - **Version:** All
 - **Author:** Mojang Studio (Microsoft)
 - **Fork:** -
