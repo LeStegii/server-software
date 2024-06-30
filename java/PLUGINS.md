@@ -25,7 +25,7 @@ This list contains Minecraft Java plugins server software.
 - **Plugins:** Bukkit, Spigot, Paper
 
 ### [🎋 Leaves](https://github.com/LeavesMC/Leaves)
-- **Version:** 1.18.2 - 1.20.6
+- **Version:** 1.18.2 - 1.21
 - **Author:** LeavesMC
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Leaves
 - **Description:** A fork of Paper aimed at repairing broken vanilla properties and adding new api/features.
@@ -129,8 +129,8 @@ This list contains Minecraft Java plugins server software.
 - **Description:** Create Minecraft servers with a powerful, stable, and high level JavaScript API.
 - **Plugins:** Flying Squid
 
-### [⚡ Plazma](https://github.com/PlazmaMC/Plazma)
-- **Version:** 1.19.4-1.20.6
+### [⚡ PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
+- **Version:** 1.19.2-1.20.6
 - **Author:** PlazmaMC
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Pufferfish --> Mirai --> Suki --> Fusion --> Andromeda --> Plazma
 - **Description:** Successor to Fusion and Andromeda.
@@ -157,13 +157,6 @@ This list contains Minecraft Java plugins server software.
 - **Description:** Purpur fork that tries to give plugin developers unlimted freedom when making plugins.
 - **Plugins:** Bukkit, Spigot, Paper
 
-### [⬛ Rainbow](https://ci.codecrafter47.de/job/Rainbow/)
-- **Version:** 1.13.2
-- **Author:** codecrafter47
-- **Fork:** -
-- **Description:** Rainbow was an attempt at overthrowing Bukkit with a new platform.
-- **Plugins:** -
-
 ### [⬛ DivineMC](https://github.com/DivineMC/DivineMC)
 - **Version:** 1.19.2-1.21
 - **Author:** CraftCanvasMC
@@ -179,6 +172,13 @@ This list contains Minecraft Java plugins server software.
 - **Plugins:** Bukkit
 
 # ❌ Inactive Development
+### [⬛ Rainbow](https://ci.codecrafter47.de/job/Rainbow/)
+- **Version:** 1.13.2
+- **Author:** codecrafter47
+- **Fork:** -
+- **Description:** Rainbow was an attempt at overthrowing Bukkit with a new platform.
+- **Plugins:** -
+
 ### [🔆 Glowstone](https://glowstone.net/)
 - **Version:** 1.12.2, 1.16.5 (Unsupported), 1.19 (Experimental)
 - **Author:** GlowstoneMC
