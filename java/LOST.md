@@ -1,6 +1,12 @@
 # Minecraft Java Lost software.
 This list contains Minecraft Java Lost server software.
 
+### ⚓ Anchor
+- **Version:** ?
+- **Author:** AnchorMC
+- **Fork:** -
+- **Description:** A Minecraft server implementation written in Go.
+
 ### ⬛ Bravo
 - **Version:** 1.5
 - **Author:** -

@@ -9,12 +9,6 @@ This list contains Minecraft Java vanilla server software.
 - **Fork:** -
 - **Description:** Official Minecraft Vanilla Multiplayer server by Mojang Studio (Microsoft).
 
-### [⚓ Anchor](https://github.com/AnchorMC/Anchor)
-- **Version:** ?
-- **Author:** AnchorMC
-- **Fork:** -
-- **Description:** A Minecraft server implementation written in Go.
-
 ### [⬛ MCHPR](https://github.com/MCHPR/MCHPRS)
 - **Version:** 1.18.2, 1.20.4
 - **Author:** MCHPR
