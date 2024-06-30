@@ -1,5 +1,5 @@
 # Minecraft Java Mods+Plugins Software.
-This list contains Minecraft Java mods/plugins server softwares.
+This list contains Minecraft Java mods/plugins server software.
 
 ⚠️ **Warning!** If a project is not in active development exploits such as Log4J could still work!
 
@@ -60,7 +60,7 @@ This list contains Minecraft Java mods/plugins server softwares.
 - **Plugins:** Bukkit, Spigot, Paper
 - **Mods:** Fabric
 
-### [🧻 Cardboard (Bukkit for Fabric)](https://www.curseforge.com/minecraft/mc-mods/cardboard)
+### [🧻 Cardboard](https://www.curseforge.com/minecraft/mc-mods/cardboard)
 - **Version:** 1.16.4-1.18.2, 1.19.2, 1.20.4
 - **Author:** IsaiahPatton (CardboardPowered)
 - **Fork:** Fabric/CraftBukkit/Spigot/Paper --> Cardboard

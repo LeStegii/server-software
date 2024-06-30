@@ -1,7 +1,7 @@
 # Minecraft Java Mods software.
-This list contains Minecraft Java proxy server softwares.
+This list contains Minecraft Java proxy server software.
 
-If you're looking for a way to use both **plugins and mods**, checkout [this list](https://github.com/TonimatasDEV/server-softwares/blob/master/java/MODS+PLUGINS.md).
+If you're looking for a way to use both **plugins and mods**, checkout [this list](/java/MODS+PLUGINS.md).
 
 ⚠️ **Warning!** If a project is not in active development exploits such as Log4J could still work!
 

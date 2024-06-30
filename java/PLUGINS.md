@@ -1,5 +1,5 @@
 # Minecraft Java Plugins software.
-This list contains Minecraft Java plugins server softwares.
+This list contains Minecraft Java plugins server software.
 
 ⚠️ **Warning!** If a project is not in active development exploits such as Log4J could still work!
 # ✔️ Active Development
@@ -309,7 +309,7 @@ This list contains Minecraft Java plugins server softwares.
 - **Version:** 1.19.3
 - **Author:** bitbloxhub
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Pufferfish --> Purpur --> ChikaCraft
-- **Description:** A fork of Purpur adding even more features from softwares like Leaves and Carpet Mod.
+- **Description:** A fork of Purpur adding even more features from software like Leaves and Carpet Mod.
 - **Plugins:** Bukkit, Spigot, Paper
 
 ### [🍂 Petal](https://github.com/Bloom-host/Petal)
