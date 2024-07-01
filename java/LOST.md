@@ -1,6 +1,8 @@
 # Minecraft Java Lost software.
 This list contains Minecraft Java Lost server software.
 
+⚠️ **Warning!** The information may not be correct. They are very old software and it is difficult to find the information.
+
 ### ⚓ Anchor
 - **Version:** ?
 - **Author:** AnchorMC
@@ -111,7 +113,7 @@ This list contains Minecraft Java Lost server software.
 
 ### ⬛ Rubbercord
 - **Version:** ?
-- **Author:** ?
+- **Author:** md_5
 - **Fork:** -
 - **Description:** Rubbercord is an old proxy that originally inspired Bungeecord for Rubberband. 
 

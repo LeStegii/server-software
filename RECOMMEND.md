@@ -1,7 +1,7 @@
 # Recommended
 Find below our recommended software solutions tailored to your needs. Please note that while we strive to offer the best suggestions, individual preferences may vary.
 
-**Note:** Some software are outdated and are no longer being actively developed. They may still be useful, but they aren't supported and most likely contain security vulnerabilities, like Log4Shell, besides worse performance and compatibility. It's advisable to use newer, more efficient versions.
+**Note:** Some software is outdated and are no longer being actively developed. They may still be useful, but they aren't supported and most likely contain security vulnerabilities, like Log4Shell, besides worse performance and compatibility. It's advisable to use newer, more efficient versions.
 
 ### 🍦 Minecraft Vanilla
 - For a pure Minecraft experience without modifications, opt for the [Vanilla](java/VANILLA.md#-vanilla) server.
@@ -26,9 +26,9 @@ Find below our recommended software solutions tailored to your needs. Please not
 - Fabric mod and plugin integration can be achieved with [Banner](java/MODS+PLUGINS.md#-banner) or [Cardboard](java/MODS+PLUGINS.md#-cardboard).
 
 ### 🪨 Minecraft Bedrock
-- Create a pure Minecraft experience without modifications, opt for the [Vanilla](bedrock/VANILLA.md#-vanilla) server.
+- For a pure Minecraft experience without modifications, opt for the [Vanilla](bedrock/VANILLA.md#-vanilla--bedrock-dedicated-server-) server.
 - Create a Minecraft Bedrock Server with plugins using Spigot or Paper along with [Geyser](OTHERS.md#-geysermc).
 
 ### 🌐 Minecraft Networks
-- Connect multiple Java Edition servers using [Velocity](java/PROXIES.md#-velocity) or [Bungeecord](java/PROXIES.md#-bungeecord).
+- Connect multiple Java Edition servers using [Velocity](java/PROXIES.md#-velocity).
 - Connect multiple Bedrock Edition servers using [WaterdogPE](bedrock/PROXIES.md#-waterdogpe).

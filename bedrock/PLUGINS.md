@@ -1,7 +1,7 @@
 # Minecraft Bedrock Plugins Software.
 This list contains Minecraft Bedrock plugins server software.
 
-Since most of the software do not support all vanilla features, it's recommended to use [GeyserMC](/OTHERS.md#-geysermc) (Bedrock to Java Bridge) instead if you want to play vanilla.
+Since most of the software does not support all vanilla features, it's recommended to use [GeyserMC](/OTHERS.md#-geysermc) (Bedrock to Java Bridge) instead if you want to play vanilla.
 
 # ✔️ Active Development
 ### [☢️ Nukkit (NukkitX)](https://github.com/CloudburstMC/Nukkit)

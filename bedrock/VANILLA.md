@@ -2,7 +2,7 @@
 This list contains Minecraft Bedrock vanilla server software.
 
 # ✔️ Active Development
-### [🌍 Vanilla](https://www.minecraft.net/en-us/download/server/bedrock)
+### [🌍 Vanilla (Bedrock Dedicated Server)](https://www.minecraft.net/download/server/bedrock)
 - **Author:** Mojang Studios (Microsoft)
 - **Fork:** -
 - **Description:** Server software for Minecraft: Bedrock Edition written in C++.

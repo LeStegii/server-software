@@ -172,12 +172,12 @@ This list contains Minecraft Java plugins server software.
 - **Plugins:** Bukkit
 
 # ❌ Inactive Development
-### [⬛ Rainbow](https://ci.codecrafter47.de/job/Rainbow/)
+### [⬛ Rainbow](https://github.com/CodeCrafter47/Rainbow)
 - **Version:** 1.13.2
-- **Author:** codecrafter47
+- **Author:** CodeCrafter47
 - **Fork:** -
 - **Description:** Rainbow was an attempt at overthrowing Bukkit with a new platform.
-- **Plugins:** -
+- **Plugins:** Rainbow
 
 ### [🔆 Glowstone](https://glowstone.net/)
 - **Version:** 1.12.2, 1.16.5 (Unsupported), 1.19 (Experimental)
