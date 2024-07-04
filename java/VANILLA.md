@@ -16,6 +16,12 @@ This list contains Minecraft Java vanilla server software.
 - **Description:** A multithreaded reimplementation of the Mincraft server in Rust, made for redstone plot servers.
 
 # ❌ Inactive Development
+### [⚓ Anchor](https://github.com/PassTheMayo/AnchorMC)
+- **Version:** ?
+- **Author:** AnchorMC
+- **Fork:** -
+- **Description:** A Minecraft server implementation written in Go.
+
 ### [⬛ Sink-MC](https://github.com/infinitec0der/Sink-MC)
 - **Version:** Minecraft classic
 - **Author:** infinitec0der
