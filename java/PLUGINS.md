@@ -136,6 +136,13 @@ This list contains Minecraft Java plugins server software.
 - **Description:** Successor to Fusion and Andromeda.
 - **Plugins:** Bukkit, Spigot, Paper
 
+### [⚡ Thunderbolt](https://github.com/PlazmaMC/Thunderbolt)
+- **Version:** 1.20.6
+- **Author:** PlazmaMC
+- **Fork:** CraftBukkit --> Spigot --> Paper --> Pufferfish --> Mirai --> Suki --> Fusion --> Andromeda --> Plazma --> Thunderbolt
+- **Description:** Fork of PlazmaBukkit with too experimental features.
+- **Plugins:** Bukkit, Spigot, Paper
+
 ### [🧨 Dionysus](https://github.com/nopjmp/Dionysus)
 - **Version:** 1.12.2
 - **Author:** nopjmp
