@@ -1,7 +1,7 @@
 # Minecraft lost software.
-This list contains Minecraft lost server software.
+This list contains lost server software.
 
-⚠️ **Warning!** The information may not be correct. They are very old software and it is difficult to find the information.
+⚠️ **Warning!** The information may be incorrect. The software listed here is likely old and official sources have been lost. 
 
 ### ⬛ Bravo
 - **Version:** 1.5
