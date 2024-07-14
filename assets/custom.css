@@ -118,9 +118,9 @@ article.java-hybrid {
 article.java-proxies, article.bedrock-proxies {
     background: radial-gradient(at left top, #6200ff22, var(--pico-card-background-color) 70%);
 }
-article.java-regionized {
+article.java-regionized, article.miscellaneous {
     background: radial-gradient(at left top, #00ff1122, var(--pico-card-background-color) 70%);
 }
-article.miscellaneous, article.java-limbo {
+article.lost, article.java-limbo {
     background: radial-gradient(at left top, #00ff9522, var(--pico-card-background-color) 70%);
 }
