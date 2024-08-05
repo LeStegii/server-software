@@ -8,7 +8,7 @@ This list contains software which is designed for Minecraft Classic/ClassiCube.
 - **Description:** A Minecraft Classic / ClassiCube server software
 - **Language:** C#
 - **Scripting:** Yes (Plugins)
-- **Platforms:** c0.30c, CPE
+- **Versions:** c0.30c, CPE
 
 # ❌ Inactive Development
 ### [🇫 fCraft](https://web.archive.org/web/20210116033515/https://www.fcraft.net/)
@@ -17,4 +17,4 @@ This list contains software which is designed for Minecraft Classic/ClassiCube.
 - **Description:** A custom Minecraft Classic game server written in C#
 - **Language:** C#
 - **Scripting**: No
-- **Platforms:** c0.30c
+- **Versions:** c0.30c
