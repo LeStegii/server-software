@@ -5,16 +5,16 @@ This list contains software which is designed for Minecraft Classic/ClassiCube.
 ### [🌌 MCGalaxy](https://github.com/ClassiCube/MCGalaxy)
 - **Author:** UnknownShadow200
 - **Fork:** MCSharp --> MCZall --> MCLawl --> MCForge --> MCGalaxy
-- **Description:** A Minecraft Classic / ClassiCube server software
-- **Language:** C#
-- **Scripting:** Yes (Plugins)
-- **Versions:** c0.30c, CPE
+- **Description:** A fully featured and customisable ClassiCube Server Software
+- **Plugins:** MCGalaxy
+- **Mods:** ?
+- **Version:** c0.30c, CPE
 
 # ❌ Inactive Development
-### [🇫 fCraft](https://web.archive.org/web/20210116033515/https://www.fcraft.net/)
-- **Author:** fragmer
+### [🇫 fCraft](https://github.com/mstefarov/fCraft)
+- **Author:** mstefarov
 - **Fork:** -
 - **Description:** A custom Minecraft Classic game server written in C#
-- **Language:** C#
-- **Scripting**: No
+- **Plugins**: -
+- **Mods:** -
 - **Versions:** c0.30c
