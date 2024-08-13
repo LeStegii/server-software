@@ -43,7 +43,7 @@ This list contains software which is designed for Minecraft Classic/ClassiCube.
 - **Description:** A classic Minecraft server written in Lua
 - **Plugins:** No
 - **CPE:** No
-- **Versions:** c0.30c
+- **Versions:** 0.0.15a, c0.30c
 
 # ❌ Inactive Development
 ### [🇫 fCraft](https://github.com/mstefarov/fCraft)
