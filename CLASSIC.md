@@ -43,7 +43,15 @@ This list contains software which is designed for Minecraft Classic/ClassiCube.
 - **Description:** A classic Minecraft server written in Lua
 - **Plugins:** No
 - **CPE:** No
-- **Versions:** 0.0.15a, c0.30c
+- **Versions:** c0.30c
+  
+### [3️⃣ Thirty](https://dev.firestick.games/sean/thirty)
+- **Author:** Sean Baggaley
+- **Fork:** -
+- **Description:** A ClassiCube (Minecraft Classic) server written in C.
+- **Plugins:** No
+- **CPE:** Yes
+- **Versions:** c0.0.15a-c0.30c, a1.2.6
 
 # ❌ Inactive Development
 ### [🇫 fCraft](https://github.com/mstefarov/fCraft)
@@ -61,3 +69,27 @@ This list contains software which is designed for Minecraft Classic/ClassiCube.
 - **Plugins:** No
 - **CPE:** No
 - **Versions:** c0.30c
+  
+### [🗄️ MCCHost](https://github.com/rdebath/mcchost)
+- **Author:** rdebath
+- **Fork:** -
+- **Description:** A ClassiCube Server Software
+- **Plugins:** No
+- **CPE:** Yes
+- **Versions:** c0.30c
+
+### [⚫ ProjectObsidian](https://github.com/EdwardJXLi/ProjectObsidian)
+- **Author:** EdwardJXLi
+- **Fork:** -
+- **Description:** A fully featured and powerful Minecraft Classic / Classicube Server that is completely built from scratch.
+- **Plugins:** Yes
+- **CPE:** Yes
+- **Versions:** c0.30c
+
+### [🦔 JTE/Echidna](https://github.com/Minecraft-Classic-Server-Archive/JTE)
+- **Author:** JTE
+- **Fork:** -
+- **Description:** The oldest custom minecraft server. 
+- **Plugins:** No
+- **CPE:** No
+- **Versions:** c0.0.20a_01-c0.0.23a (old versions), 0.30c
