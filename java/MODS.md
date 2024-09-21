@@ -7,38 +7,38 @@ If you're looking for a way to use both **plugins and mods**, checkout [this lis
 
 # ✔️ Active Development
 ### [🔨 Forge](http://files.minecraftforge.net/)
-- **Version:** 1.1-1.21
+- **Version:** 1.1-1.21.1
 - **Author:** MinecraftForge
 - **Fork:** -
 - **Description:** Software that allows the use of Forge Mods on your server.
 - **Mods:** Forge
 
 ### [🦊 Neoforge](https://neoforged.net/)
-- **Version:** 1.20.1-1.21
+- **Version:** 1.20.1-1.21.1
 - **Author:** NeoForged
 - **Fork:** Forge --> NeoForge
 - **Description:** A fork of NeoForge trying to fix issues with Forge's team/development.
 - **Mods:** Forge, NeoForge
 
 ### [🧻 Fabric](https://fabricmc.net/)
-- **Version:** 1.14.4-1.21, Snapshots
+- **Version:** 1.14.4-1.21.1, Snapshots
 - **Author:** FabricMC
 - **Fork:** -
 - **Description:** Software that allows the use of Fabric Mods on your server.
 - **Mods:** Fabric
 
 ### [🟪 QuiltMC](https://quiltmc.org/)
-- **Version:** 1.14-1.21
+- **Version:** 1.14-1.21.1
 - **Author:** QuiltMC
 - **Fork:** FabricMC --> QuiltMC
 - **Description:** Software that allows the use of Quilt/Fabric Mods on your server.
 - **Mods:** Quilt, Fabric
 
 ### [⭐ GoldenForge](https://github.com/GoldenForge/GoldenForge)
-- **Version:** 1.19.2, 1.20.1
+- **Version:** 1.19.2, 1.20.1, 1.21
 - **Author:** manugame
 - **Fork:** Forge --> GoldenForge
-- **Description:** Fork of Forge 1.19.2 which implement some Paper patches.
+- **Description:** Fork of Forge which implement some Paper patches.
 - **Mods:** Forge
 
 # ❌ Inactive Development
