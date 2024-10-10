@@ -54,6 +54,14 @@ This list contains software which is designed for Minecraft Classic/ClassiCube.
 - **Versions:** c0.0.15a-c0.30c, a1.2.6
 
 # ❌ Inactive Development
+### [🌍 Vanilla](https://github.com/Minecraft-Classic-Server-Archive/Vanilla)
+- **Author:** Notch
+- **Fork:** -
+- **Description:** Original Minecraft server
+- **Plugins:** No
+- **CPE:** No
+- **Versions:** c0.0.15a-c0.30c
+
 ### [🇫 fCraft](https://github.com/mstefarov/fCraft)
 - **Author:** fragmer
 - **Fork:** -
@@ -92,4 +100,52 @@ This list contains software which is designed for Minecraft Classic/ClassiCube.
 - **Description:** The oldest custom minecraft server. 
 - **Plugins:** No
 - **CPE:** No
-- **Versions:** c0.0.20a_01-c0.0.23a (old versions), 0.30c
+- **Versions:** c0.0.20a_01-c0.0.23a (old versions), c0.30c
+
+### [📦 D3PP](https://github.com/umby24/D3PP)
+- **Author:** umby24
+- **Fork:** -
+- **Description:** Port of D3Classic to C++
+- **Plugins:** Yes
+- **CPE:** Partial
+- **Versions:** c0.30c
+
+### [🇽 ClassicX](https://github.com/Cheesse/ClassicX)
+- **Author:** Cheesse
+- **Fork:** -
+- **Description:** Stuff for running an MC classic server.
+- **Plugins:** No
+- **CPE:** No
+- **Versions:** c0.30c
+
+### [🔄 ArcRebooted](https://github.com/Minecraft-Classic-Server-Archive/ArcRebooted)
+- **Author:** Unknown
+- **Fork:** Myne --> iCraft --> Arc --> ArcRebooted
+- **Description:** Arc with ClassiCube modifications
+- **Plugins:** Yes
+- **CPE:** Yes
+- **Versions:** c0.30c
+
+### [🌈 Arc](https://github.com/Minecraft-Classic-Server-Archive/Arc)
+- **Author:** The Arc Team
+- **Fork:** Myne --> iCraft --> Arc
+- **Description:** A fork of Myne, a Minecraft server written in python.
+- **Plugins:** Yes
+- **CPE:** No
+- **Versions:** c0.30c
+
+### [📱 iCraft](https://github.com/Minecraft-Classic-Server-Archive/iCraft)
+- **Author:** The iCraft team, The Archives team
+- **Fork:** Myne --> iCraft
+- **Description:** Creative Multiplayer software for Minecraft Classic
+- **Plugins:** Yes
+- **CPE:** No
+- **Versions:** c0.30c
+
+### [⛏️ Myne](https://github.com/Minecraft-Classic-Server-Archive/Myne)
+- **Author:** The Archives team
+- **Fork:** -
+- **Description:** Experimental Multi-World Server
+- **Plugins:** Yes
+- **CPE:** No
+- **Versions:** c0.30c
