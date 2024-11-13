@@ -473,6 +473,7 @@ This list contains Minecraft Java plugins server software.
 - **Plugins:** Spigot, Basin C
 
 ### [🧨 Dionysus](https://github.com/nopjmp/Dionysus)
+- **Alternative:** Paper
 - **Version:** 1.12.2
 - **Author:** nopjmp
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Dionysus
