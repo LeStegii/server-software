@@ -29,7 +29,7 @@ This list contains Minecraft Java mods/plugins server software.
 - **Mods:** Forge
 
 ### [🏔 Arclight](https://github.com/IzzelAliz/Arclight)
-- **Version:** 1.14-1.20.2 (Legacy), 1.20.4, 1.21 (Experimental)
+- **Version:** 1.14-1.20.4 (Legacy), 1.21.1 - 1.21.3 (Experimental)
 - **Author:** IzzelAliz
 - **Fork:** Forge/CraftBukkit/Spigot --> Arclight
 - **Description:** A Bukkit(1.16/1.18) server implementation on Forge using Mixin.
