@@ -4,35 +4,35 @@ This list contains Minecraft Java plugins server software.
 ⚠️ **Warning!** If a project is not in active development exploits such as Log4J could still work!
 # ✔️ Active Development
 ### [🪣 Bukkit/CraftBukkit](https://www.spigotmc.org/wiki/buildtools/)
-- **Version:** Beta 1.2-1.21.1 (only 1.8+ official)
+- **Version:** Beta 1.2-1.21.4 (only 1.8+ official)
 - **Author:** various authors, maintained by md_5/SpigotMC
 - **Fork:** -
 - **Description:** Software that allows using plugins on servers.
 - **Plugins:** Bukkit
 
 ### [🚰 Spigot](https://www.spigotmc.org/wiki/buildtools/)
-- **Version:** 1.4.6-1.21.1 (only 1.8+ official)
+- **Version:** 1.4.6-1.21.4 (only 1.8+ official)
 - **Author:** md_5/SpigotMC
 - **Fork:** CraftBukkit --> Spigot
 - **Description:** Bukkit with performance patches, more features and Bungeecord support.
 - **Plugins:** Bukkit, Spigot
 
 ### [📃 Paper](https://papermc.io/)
-- **Version:** 1.7.10-1.21 (Unsupported), 1.21.1
+- **Version:** 1.7.10-1.21.2 (Unsupported), 1.21.3
 - **Author:** PaperMC
 - **Fork:** CraftBukkit --> Spigot --> Paper
 - **Description:** Spigot with performance patches and more features.
 - **Plugins:** Bukkit, Spigot, Paper
 
 ### [🎋 Leaves](https://github.com/LeavesMC/Leaves)
-- **Version:** 1.18.2 - 1.21.1
+- **Version:** 1.18.2 - 1.21.3
 - **Author:** LeavesMC
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Leaves
 - **Description:** A fork of Paper aimed at repairing broken vanilla properties and adding new api/features.
 - **Plugins:** Bukkit, Spigot, Paper
 
 ### [🐆 Cheetah](https://github.com/gommehdnet/cheetah)
-- **Version:** 1.19.2 - 1.21.1
+- **Version:** 1.19.2 - 1.21.3
 - **Author:** GommeHD Network
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Cheetah
 - **Description:** A fork of Paper used by the big german minecraft network gommehd.net, adding some new api and small features.
