@@ -143,13 +143,6 @@ This list contains Minecraft Java plugins server software.
 - **Description:** Fork of PlazmaBukkit with too experimental features.
 - **Plugins:** Bukkit, Spigot, Paper
 
-### [🧨 Dionysus](https://github.com/nopjmp/Dionysus)
-- **Version:** 1.12.2
-- **Author:** nopjmp
-- **Fork:** CraftBukkit --> Spigot --> Paper --> Dionysus
-- **Description:** Minecraft 1.12.2 Paper Fork designed for high player counts and anarchy.
-- **Plugins:** Bukkit, Spigot, Paper
-
 ### [💌 MultiPaper](https://github.com/MultiPaper/MultiPaper)
 - **Version:** 1.16-1.18.2, 1.19.2, 1.20.1
 - **Author:** softpak
@@ -478,6 +471,14 @@ This list contains Minecraft Java plugins server software.
 - **Fork:** -
 - **Description:** A high performance Minecraft server implementation written in C compatible with Spigot (drop-in replacement).
 - **Plugins:** Spigot, Basin C
+
+### [🧨 Dionysus](https://github.com/nopjmp/Dionysus)
+- **Alternative:** Paper
+- **Version:** 1.12.2
+- **Author:** nopjmp
+- **Fork:** CraftBukkit --> Spigot --> Paper --> Dionysus
+- **Description:** Minecraft 1.12.2 Paper Fork designed for high player counts and anarchy.
+- **Plugins:** Bukkit, Spigot, Paper
 
 ### [🌎 hMod](https://github.com/traitor/Minecraft-Server-Mod)
 - **Version:** Beta
