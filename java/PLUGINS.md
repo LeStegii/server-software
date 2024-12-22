@@ -347,6 +347,13 @@ This list contains Minecraft Java plugins server software.
 - **Description:** Performance-oriented fork of Purpur implementing multithreaded and asynchronous improvements.
 - **Plugins:** Bukkit, Spigot, Paper
 
+### [🧋 Pearl](https://github.com/Pearl-Project/Pearl)
+- **Version:** 1.19
+- **Author:** PearlMC
+- **Fork:** CraftBukkit --> Spigot --> Paper --> Pufferfish --> Pearl
+- **Description:** A fork of Pufferfish including some optimization and gameplay features
+- **Plugins:** Spigot, Paper
+
 ### [☣️ Fusion](https://github.com/IPECTER/Fusion)
 - **Version:** 1.19.2 - 1.19.3
 - **Author:** IPECTER
