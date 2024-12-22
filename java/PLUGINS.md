@@ -171,6 +171,14 @@ This list contains Minecraft Java plugins server software.
 - **Description:** A CraftBukkit CB1060 fork for Beta 1.7.3 fixing bugs and adding basic features.
 - **Plugins:** Bukkit
 
+
+### [🍃 Leaf](https://github.com/Winds-Studio/Leaf)
+- **Version:** 1.21.1
+- **Author:** Winds Studio
+- **Fork:** CraftBukkit --> Spigot --> Paper --> Gale --> Leaf
+- **Description:** A fork of Gale combined with optimizations and fixes from other forks (Note: experimental and may have issues).
+- **Plugins:** Bukkit, Spigot, Paper
+
 # ❌ Inactive Development
 ### [⬛ Rainbow](https://github.com/CodeCrafter47/Rainbow)
 - **Version:** 1.13.2
@@ -376,7 +384,7 @@ This list contains Minecraft Java plugins server software.
 - **Description:** Paper with even higher performance.
 - **Plugins:** Bukkit, Spigot, Paper
 
-- ### [💨 Gale](https://github.com/GaleMC/Gale)
+### [💨 Gale](https://github.com/GaleMC/Gale)
 - **Version:** 1.19
 - **Author:** MartijnMuijsers
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Gale
