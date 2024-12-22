@@ -15,6 +15,12 @@ This list contains Minecraft Java vanilla server software.
 - **Fork:** -
 - **Description:** A multithreaded reimplementation of the Mincraft server in Rust, made for redstone plot servers.
 
+### [🎃 Pumpkin](https://github.com/Snowiiii/Pumpkin)
+- **Version:** 1.21.4
+- **Author:** Snowiiii
+- **Fork:** -
+- **Description:** A Rust implementation of Minecraft prioritising performance and attempting to replicate Minecraft logic as closely as possible including redstone mechanics. (Note: under heavy development).
+
 # ❌ Inactive Development
 ### [⚓ Anchor](https://github.com/PassTheMayo/AnchorMC)
 - **Version:** ?
