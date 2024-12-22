@@ -24,7 +24,7 @@ This list contains Minecraft Java plugins server software.
 - **Description:** Spigot with performance patches and more features.
 - **Plugins:** Bukkit, Spigot, Paper
 
-### [🎋 Leaves](https://github.com/LeavesMC/Leaves)
+### [🍃 Leaves](https://github.com/LeavesMC/Leaves)
 - **Version:** 1.18.2 - 1.21.1
 - **Author:** LeavesMC
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Leaves
@@ -367,6 +367,13 @@ This list contains Minecraft Java plugins server software.
 - **Author:** Techcable
 - **Fork:** CraftBukkit --> Spigot --> Paper --> TacoSpigot
 - **Description:** Paper with even higher performance.
+- **Plugins:** Bukkit, Spigot, Paper
+
+- ### [💨 Gale](https://github.com/GaleMC/Gale)
+- **Version:** 1.19
+- **Author:** MartijnMuijsers
+- **Fork:** CraftBukkit --> Spigot --> Paper --> Gale
+- **Description:** A performant Minecraft server fork of Paper with patches from Purpur and small optomisatons from other projects.
 - **Plugins:** Bukkit, Spigot, Paper
 
 ### [🥟 NachoSpigot](https://github.com/CobbleSword/NachoSpigot)
