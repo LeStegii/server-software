@@ -45,11 +45,11 @@ This list contains lost server software.
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Pufferfish --> Purpur --> Fish
 - **Description:** -
 
-### ⬛ hCraft 2
+### [🎂 hCraft-2](https://github.com/cmarshall108/hCraft-2)
 - **Version:** 1.8
-- **Author:** ?
-- **Fork:** -
-- **Description:** hCraft 2 was a recode of hCraft in C++.
+- **Author:** BizzareCake
+- **Fork:** hCraft --> hCraft-2
+- **Description:** A Minecraft server implemented in C++ superseding hCraft with limited functionality.
 
 ### ⬛ Myne2
 - **Version:** ?
