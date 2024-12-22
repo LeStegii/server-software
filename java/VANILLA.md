@@ -9,7 +9,7 @@ This list contains Minecraft Java vanilla server software.
 - **Fork:** -
 - **Description:** Official Minecraft Vanilla Multiplayer server by Mojang Studio (Microsoft).
 
-### [⬛ MCHPR](https://github.com/MCHPR/MCHPRS)
+### [⬛ MCHPRS](https://github.com/MCHPR/MCHPRS)
 - **Version:** 1.18.2, 1.20.4
 - **Author:** MCHPR
 - **Fork:** -
@@ -165,12 +165,6 @@ This list contains Minecraft Java vanilla server software.
 - **Author:** stonar96
 - **Fork:** -
 - **Description:** Minecraft-Alpha-Server is an Alpha 1.2.6 server that aims to fix bugs, make the server more usable, and more secure for the public.
-
-### [🍎 MCHPRS](https://github.com/MCHPR/MCHPRS)
-- **Version:** 1.15-1.17
-- **Author:** MCHPR
-- **Fork:** -
-- **Description:** Minecraft High-Performance Redstone Server (MCHPRS) is a server built from the ground up in rust designed to provide a high-performance creative plot server for redstone.
 
 ### [Ⓜ minenode](https://github.com/minenode/minenode)
 - **Version:** 1.18.1
