@@ -521,3 +521,10 @@ This list contains Minecraft Java plugins server software.
 - **Fork:** -
 - **Description:** A continuation of CanaryMod under a new repository and name.
 - **Plugins:** hMod
+
+### [👏 Bravo](https://github.com/bravoserver/bravo)
+- **Version:** 1.5
+- **Author:** MostAwesomeDude
+- **Fork:** -
+- **Description:** Bravo is a reimplementation of the Minecraft server in python. Previously known as beta.
+- **Plugins:** Built in plugin-ins

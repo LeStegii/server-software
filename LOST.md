@@ -1,17 +1,11 @@
 # Minecraft lost software.
 This list contains lost server software.
 
-⚠️ **Warning!** The information may be incorrect. The software listed here is likely old and official sources have been lost. 
-
-### ⬛ Bravo
-- **Version:** 1.5
-- **Author:** ?
-- **Fork:** -
-- **Description:** Bravo is a 1.5 server made in python. Previously known as beta.
+⚠️ **Warning!** The information may be incorrect. The software listed here is likely old and official sources have been lost.
 
 ### ⬛ CraftBukkit++
 - **Version:** ?
-- **Author:** ?
+- **Author:** Afforess
 - **Fork:** CraftBukkit --> CraftBukkit++
 - **Description:** CraftBukkit++ was the original performance fork. It was made to improve performance for the CraftBukkit server.
 
@@ -44,12 +38,6 @@ This list contains lost server software.
 - **Author:** Encode42
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Pufferfish --> Purpur --> Fish
 - **Description:** -
-
-### [🎂 hCraft-2](https://github.com/cmarshall108/hCraft-2)
-- **Version:** 1.8
-- **Author:** BizzareCake
-- **Fork:** hCraft --> hCraft-2
-- **Description:** A Minecraft server implemented in C++ superseding hCraft with limited functionality.
 
 ### ⬛ Myne2
 - **Version:** ?

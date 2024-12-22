@@ -13,7 +13,7 @@ This list contains Minecraft Java vanilla server software.
 - **Version:** 1.18.2, 1.20.4
 - **Author:** MCHPR
 - **Fork:** -
-- **Description:** A multithreaded reimplementation of the Mincraft server in Rust, made for redstone plot servers.
+- **Description:** A multithreaded reimplementation of the Minecraft server in Rust, made for redstone plot servers.
 
 ### [🎃 Pumpkin](https://github.com/Snowiiii/Pumpkin)
 - **Version:** 1.21.4
@@ -309,6 +309,12 @@ This list contains Minecraft Java vanilla server software.
 - **Author:** BizzareCake
 - **Fork:** -
 - **Description:** A custom implementation of a Minecraft server striving to be fast, customizable and easy to use written in C++.
+
+### [🎂 hCraft-2](https://github.com/cmarshall108/hCraft-2)
+- **Version:** 1.8
+- **Author:** BizzareCake
+- **Fork:** hCraft --> hCraft-2
+- **Description:** A Minecraft server implemented in C++ superseding hCraft with limited functionality.
 
 ### [🌟 Cleanstone](https://github.com/CleanstoneMC/Cleanstone)
 - **Version:** 1.12.2-1.14
