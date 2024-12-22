@@ -304,11 +304,17 @@ This list contains Minecraft Java vanilla server software.
 - **Fork:** -
 - **Description:** Bedrock is a Minecraft Server whose goal is to fully emulate vanilla Minecraft.
 
-### [🎂 hCraft](https://github.com/BizarreCake/hCraft)
+### [🎂 hCraft](https://github.com/calzoneman/hCraft)
 - **Version:** 1.7.2
 - **Author:** BizzareCake
 - **Fork:** -
-- **Description:** A custom implementation of a Minecraft server striving to be fast, customizable and easy to use.
+- **Description:** A custom implementation of a Minecraft server striving to be fast, customizable and easy to use written in C++.
+
+### [🎂 hCraft-2](https://github.com/cmarshall108/hCraft-2)
+- **Version:** ?
+- **Author:** BizzareCake
+- **Fork:** hCraft --> hCraft-2
+- **Description:** A Minecraft server implemented in C++ superseding hCraft with limited functionality.
 
 ### [🌟 Cleanstone](https://github.com/CleanstoneMC/Cleanstone)
 - **Version:** 1.12.2-1.14
