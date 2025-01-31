@@ -386,7 +386,7 @@ This list contains Minecraft Java plugins server software.
 - ### [💨 Gale](https://github.com/GaleMC/Gale)
 - **Version:** 1.19
 - **Author:** MartijnMuijsers
-- **Fork:** CraftBukkit --> Spigot --> Paper --> Gale
+- **Fork:** CraftBukkit --> Spigot --> Paper/Purpur --> Gale
 - **Description:** A performant Minecraft server fork of Paper with patches from Purpur and small optomisatons from other projects.
 - **Plugins:** Bukkit, Spigot, Paper
 
