@@ -12,7 +12,7 @@ This list contains Minecraft Java mods/plugins server software.
 - **Plugins:** Bukkit, Spigot
 - **Mods:** Forge
 
-### [🔗 Ketting](https://github.com/kettingpowered)
+### [🔗 Ketting](https://github.com/kettingpowered/Ketting-1-20-x) ![Last Commit](https://img.shields.io/github/last-commit/kettingpowered/Ketting-1-20-x?style=flat-square)
 - **Version:** 1.20.1, 1.20.2, 1.20.3 (Unsupported), 1.20.4
 - **Author:** KettingPowered
 - **Fork:** Forge/CraftBukkit/Spigot --> Ketting
@@ -20,7 +20,7 @@ This list contains Minecraft Java mods/plugins server software.
 - **Plugins:** Bukkit, Spigot
 - **Mods:** Forge
 
-### [🪐 Mohist](https://mohistmc.com)
+### [🪐 Mohist](https://github.com/MohistMC/Mohist) ![Last Commit](https://img.shields.io/github/last-commit/MohistMC/Mohist?style=flat-square)
 - **Version:** 1.7.10 (Deprecated), 1.12.2, 1.16.5, 1.19.2-1.21
 - **Author:** Mgazul
 - **Fork:** Forge/Spigot/Paper/Atom/Thermos/um_bukkit --> Mohist
@@ -28,7 +28,7 @@ This list contains Minecraft Java mods/plugins server software.
 - **Plugins:** Bukkit, Spigot
 - **Mods:** Forge
 
-### [🏔 Arclight](https://github.com/IzzelAliz/Arclight)
+### [🏔 Arclight](https://github.com/IzzelAliz/Arclight) ![Last Commit](https://img.shields.io/github/last-commit/IzzelAliz/Arclight?style=flat-square)
 - **Version:** 1.14-1.20.2 (Legacy), 1.20.4, 1.21 (Experimental)
 - **Author:** IzzelAliz
 - **Fork:** Forge/CraftBukkit/Spigot --> Arclight
@@ -36,7 +36,7 @@ This list contains Minecraft Java mods/plugins server software.
 - **Plugins:** Bukkit, Spigot
 - **Mods:** Forge
 
-### [😺 CatServer](https://github.com/Luohuayu/CatServer)
+### [😺 CatServer](https://github.com/Luohuayu/CatServer) ![Last Commit](https://img.shields.io/github/last-commit/Luohuayu/CatServer?style=flat-square)
 - **Version:** 1.12.2, 1.16.5, 1.18.2
 - **Author:** Luohuayu
 - **Fork:** Forge/Spigot/Paper --> CatServer
@@ -44,7 +44,7 @@ This list contains Minecraft Java mods/plugins server software.
 - **Plugins:** Bukkit, Spigot
 - **Mods:** Forge
 
-### [🧽 SpongeForge](https://www.spongepowered.org/downloads/spongeforge/)
+### [🧽 SpongeForge](https://github.com/SpongePowered/Sponge) ![Last Commit](https://img.shields.io/github/last-commit/SpongePowered/Sponge?style=flat-square)
 - **Version:** 1.8-1.12.2, 1.16.5, 1.19.4-1.21.1
 - **Author:** SpongePowered
 - **Fork:** -
@@ -52,7 +52,7 @@ This list contains Minecraft Java mods/plugins server software.
 - **Plugins:** Sponge
 - **Mods:** Forge
 
-### [🚩 Banner](https://github.com/MohistMC/Banner)
+### [🚩 Banner](https://github.com/MohistMC/Banner) ![Last Commit](https://img.shields.io/github/last-commit/MohistMC/Banner?style=flat-square)
 - **Version:** 1.19.4, 1.20.1, 1.20.2 (Experimental), 1.20.4-1.21 (Experimental)
 - **Author:** MohistMC
 - **Fork:** Fabric/CraftBukkit/Spigot/Paper/Mohist/Arclight --> Banner
@@ -60,7 +60,7 @@ This list contains Minecraft Java mods/plugins server software.
 - **Plugins:** Bukkit, Spigot, Paper
 - **Mods:** Fabric
 
-### [🧻 Cardboard](https://www.curseforge.com/minecraft/mc-mods/cardboard)
+### [🧻 Cardboard](https://github.com/CardboardPowered/cardboard) ![Last Commit](https://img.shields.io/github/last-commit/CardboardPowered/cardboard?style=flat-square)
 - **Version:** 1.16.4-1.18.2, 1.19.2, 1.20.4
 - **Author:** IsaiahPatton (CardboardPowered)
 - **Fork:** Fabric/CraftBukkit/Spigot/Paper --> Cardboard
@@ -68,7 +68,7 @@ This list contains Minecraft Java mods/plugins server software.
 - **Plugins:** Bukkit, Spigot, Paper
 - **Mods:** Fabric
 
-### [🧺 Crucible](https://github.com/CrucibleMC/Crucible)
+### [🧺 Crucible](https://github.com/CrucibleMC/Crucible) ![Last Commit](https://img.shields.io/github/last-commit/CrucibleMC/Crucible?style=flat-square)
 - **Version:** 1.7.10
 - **Author:** CrucibleMC
 - **Fork:** Forge/CraftBukkit --> MCPC+ --> Cauldron --> kCauldron --> Thermos --> Crucible
@@ -77,7 +77,7 @@ This list contains Minecraft Java mods/plugins server software.
 - **Mods:** Forge
 
 # ❌ Inactive Development
-### [🔶 Magma](https://magmafoundation.org)
+### [🔶 Magma](https://github.com/magmafoundation/Magma)
 - **Version:** 1.12.2, 1.15.2, 1.16.5, 1.18.2, 1.19.3
 - **Author:** MagmaFoundation/Hexeption
 - **Fork:** Forge/Spigot/Paper/Thermos --> Magma
@@ -85,7 +85,7 @@ This list contains Minecraft Java mods/plugins server software.
 - **Plugins:** Bukkit, Spigot, Paper
 - **Mods:** Forge
 
-### [🌫️ Mist](https://github.com/MinecraftMist/Mist)
+### [🌫️ Mist](https://github.com/MinecraftMist/Mist) ![Last Commit](https://img.shields.io/github/last-commit/MinecraftMist/Mist?style=flat-square)
 - **Alternative:** Mohist
 - **Version:** 1.16.5
 - **Author:** KR33PY
@@ -103,7 +103,7 @@ This list contains Minecraft Java mods/plugins server software.
 - **Plugins:** Bukkit, Spigot
 - **Mods:** ️ Forge
 
-### [☕️ Thermos](https://github.com/CyberdyneCC/Thermos)
+### [☕️ Thermos](https://github.com/CyberdyneCC/Thermos) ![Last Commit](https://img.shields.io/github/last-commit/CyberdyneCC/Thermos?style=flat-square)
 - **Alternative:** Crucible
 - **Version:** 1.7.10
 - **Author:** CyberdyneCC
@@ -112,7 +112,7 @@ This list contains Minecraft Java mods/plugins server software.
 - **Plugins:** Bukkit, Spigot
 - **Mods:** Forge
 
-### [♓ Contigo](https://github.com/gcallant/Contigo)
+### [♓ Contigo](https://github.com/gcallant/Contigo) ![Last Commit](https://img.shields.io/github/last-commit/gcallant/Contigo?style=flat-square)
 - **Alternative:** Crucible
 - **Version:** 1.7.10
 - **Author:** gcallant
@@ -121,7 +121,7 @@ This list contains Minecraft Java mods/plugins server software.
 - **Plugins:** Bukkit, Spigot
 - **Mods:** Forge
 
-### [♓ NeptuneForge](https://github.com/NeptunePowered/NeptuneForge)
+### [♓ NeptuneForge](https://github.com/NeptunePowered/NeptuneForge) ![Last Commit](https://img.shields.io/github/last-commit/NeptunePowered/NeptuneForge?style=flat-square)
 - **Alternative:** -
 - **Version:** -
 - **Author:** NeptunePowered
@@ -130,7 +130,7 @@ This list contains Minecraft Java mods/plugins server software.
 - **Plugins:** Bukkit, Spigot
 - **Mods:** Forge
 
-### [⬛ PFServer](https://github.com/l89669/PFServer)
+### [⬛ PFServer](https://github.com/l89669/PFServer) ![Last Commit](https://img.shields.io/github/last-commit/l89669/PFServer?style=flat-square)
 - **Alternative:** CatServer
 - **Version:** 1.12.2
 - **Author:** l89669
@@ -139,7 +139,7 @@ This list contains Minecraft Java mods/plugins server software.
 - **Plugins:** Bukkit, Spigot
 - **Mods:** Forge
 
-### [💥 Lava](https://github.com/Timardo/Lava)
+### [💥 Lava](https://github.com/Timardo/Lava) ![Last Commit](https://img.shields.io/github/last-commit/Timardo/Lava?style=flat-square)
 - **Alternative:** CatServer
 - **Version:** 1.12.2
 - **Author:** Timardo
@@ -148,7 +148,7 @@ This list contains Minecraft Java mods/plugins server software.
 - **Plugins:** Bukkit, Spigot
 - **Mods:** Forge
 
-### [🔆 AtomMC](https://github.com/josephworks/AtomMC)
+### [🔆 AtomMC](https://github.com/josephworks/AtomMC) ![Last Commit](https://img.shields.io/github/last-commit/josephworks/AtomMC?style=flat-square)
 - **Alternative:** CatServer
 - **Version:** 1.12.2
 - **Author:** josephworks
@@ -157,7 +157,7 @@ This list contains Minecraft Java mods/plugins server software.
 - **Plugins:** Bukkit, Spigot
 - **Mods:** Forge
 
-### [🔥 Hotpur](https://github.com/KettleFoundation/Kettle)
+### [🔥 Hotpur](https://github.com/ishland/Hotpur) ![Last Commit](https://img.shields.io/github/last-commit/ishland/Hotpur?style=flat-square)
 - **Alternative:** Arclight
 - **Version:** 1.16.4
 - **Author:** KettleFoundation
@@ -166,7 +166,7 @@ This list contains Minecraft Java mods/plugins server software.
 - **Plugins:** Bukkit, Spigot, Paper
 - **Mods:** Fabric
 
-### [🛑 Kettle](https://github.com/KettleFoundation/Kettle)
+### [🛑 Kettle](https://github.com/KettleFoundation/Kettle) ![Last Commit](https://img.shields.io/github/last-commit/KettleFoundation/Kettle?style=flat-square)
 - **Alternative:** CatServer
 - **Version:** 1.12.2, 1.14.4
 - **Author:** KettleFoundation
@@ -175,7 +175,7 @@ This list contains Minecraft Java mods/plugins server software.
 - **Plugins:** Bukkit, Spigot
 - **Mods:** Forge
 
-### [⚒️ BukkitForge](https://github.com/keepcalm/BukkitForge)
+### [⚒️ BukkitForge](https://github.com/keepcalm/BukkitForge) ![Last Commit](https://img.shields.io/github/last-commit/keepcalm/BukkitForge?style=flat-square)
 - **Alternative:** -
 - **Version:** 1.5.2
 - **Author:** keepcalm
@@ -184,7 +184,7 @@ This list contains Minecraft Java mods/plugins server software.
 - **Plugins:** Bukkit, Spigot
 - **Mods:** Forge
 
-### [☢️ Uranium](https://github.com/UraniumMC/Uranium)
+### [☢️ Uranium](https://github.com/UraniumMC/Uranium) ![Last Commit](https://img.shields.io/github/last-commit/UraniumMC/Uranium?style=flat-square)
 - **Alternative:** Crucible
 - **Version:** 1.7.10
 - **Author:** UraniumMC
