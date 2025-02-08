@@ -169,3 +169,10 @@ About it: Proxies manage different single minecraft servers and manage player co
 - **Author:** PaperMC
 - **Fork:** Bungeecord --> Waterfall
 - **Description:** Bungeecord focused on stability, new features and scalability.
+
+### [🔥 FlameCord](https://github.com/Foxtanium/Free-FlameCord)
+- **Alternative:** Velocity/Bungeecord
+- **Version:** 1.8 - 1.20.6
+- **Author:** PaperMC
+- **Fork:** Bungeecord --> Waterfall --> FlameCord
+- **Description:** A fork of Waterfall that fixes bugs, improves performance and adds new features focused on greater protection.
