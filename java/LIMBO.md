@@ -7,13 +7,13 @@ This list contains Minecraft Java Limbo server software.
 
 > **NOTE:** Limbo servers can be used as fallback server on your network, afk or an authorization server.
 
-### [⬛ Limbo](https://github.com/LOOHP/Limbo)
+### [⬛ Limbo](https://github.com/LOOHP/Limbo) ![Last Commit](https://img.shields.io/github/last-commit/LOOHP/Limbo?style=flat-square)
 - **Version:** 1.21.1
 - **Author:** LOOHP
 - **Fork:** -
 - **Description:** Lightweight Solution for AFK or Waiting Rooms in your Server Network.
 
-### [⬛ NanoLimbo](https://github.com/Nan1t/NanoLimbo)
+### [⬛ NanoLimbo](https://github.com/Nan1t/NanoLimbo) ![Last Commit](https://img.shields.io/github/last-commit/Nan1t/NanoLimbo?style=flat-square)
 - **Version:** 1.7-1.21
 - **Author:** Nan1t
 - **Fork:** -
