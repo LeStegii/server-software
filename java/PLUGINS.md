@@ -24,7 +24,7 @@ This list contains Minecraft Java plugins server software.
 - **Description:** Spigot with performance patches and more features.
 - **Plugins:** Bukkit, Spigot, Paper
 
-### [🎋 Leaves](https://github.com/LeavesMC/Leaves)
+### [🍃 Leaves](https://github.com/LeavesMC/Leaves)
 - **Version:** 1.18.2 - 1.21.1
 - **Author:** LeavesMC
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Leaves
@@ -170,6 +170,13 @@ This list contains Minecraft Java plugins server software.
 - **Fork:** CraftBukkit --> Project-Poseidon
 - **Description:** A CraftBukkit CB1060 fork for Beta 1.7.3 fixing bugs and adding basic features.
 - **Plugins:** Bukkit
+
+### [🍃 Leaf](https://github.com/Winds-Studio/Leaf)
+- **Version:** 1.20.4-1.21.1
+- **Author:** Winds Studio
+- **Fork:** CraftBukkit --> Spigot --> Paper --> Gale --> Leaf
+- **Description:** A fork of Gale combined with optimizations and fixes from other forks (Note: experimental and may have issues).
+- **Plugins:** Bukkit, Spigot, Paper
 
 # ❌ Inactive Development
 ### [⬛ Rainbow](https://github.com/CodeCrafter47/Rainbow)
@@ -347,6 +354,13 @@ This list contains Minecraft Java plugins server software.
 - **Description:** Performance-oriented fork of Purpur implementing multithreaded and asynchronous improvements.
 - **Plugins:** Bukkit, Spigot, Paper
 
+### [🧋 Pearl](https://github.com/Pearl-Project/Pearl)
+- **Version:** 1.19
+- **Author:** PearlMC
+- **Fork:** CraftBukkit --> Spigot --> Paper --> Pufferfish --> Pearl
+- **Description:** A fork of Pufferfish including some optimization and gameplay features
+- **Plugins:** Spigot, Paper
+
 ### [☣️ Fusion](https://github.com/IPECTER/Fusion)
 - **Version:** 1.19.2 - 1.19.3
 - **Author:** IPECTER
@@ -367,6 +381,13 @@ This list contains Minecraft Java plugins server software.
 - **Author:** Techcable
 - **Fork:** CraftBukkit --> Spigot --> Paper --> TacoSpigot
 - **Description:** Paper with even higher performance.
+- **Plugins:** Bukkit, Spigot, Paper
+
+- ### [💨 Gale](https://github.com/GaleMC/Gale)
+- **Version:** 1.19
+- **Author:** MartijnMuijsers
+- **Fork:** CraftBukkit --> Spigot --> Paper/Purpur --> Gale
+- **Description:** A performant Minecraft server fork of Paper with patches from Purpur and small optimizations from other projects.
 - **Plugins:** Bukkit, Spigot, Paper
 
 ### [🥟 NachoSpigot](https://github.com/CobbleSword/NachoSpigot)
@@ -500,3 +521,10 @@ This list contains Minecraft Java plugins server software.
 - **Fork:** -
 - **Description:** A continuation of CanaryMod under a new repository and name.
 - **Plugins:** hMod
+
+### [👏 Bravo](https://github.com/bravoserver/bravo)
+- **Version:** 1.5
+- **Author:** MostAwesomeDude
+- **Fork:** -
+- **Description:** Bravo is a reimplementation of the Minecraft server in python. Previously known as beta.
+- **Plugins:** -
