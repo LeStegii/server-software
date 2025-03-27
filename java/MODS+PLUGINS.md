@@ -72,6 +72,7 @@ This list contains Minecraft Java mods/plugins server software.
 # ❌ Inactive Development
 
 ### [🔶 Magma Maintained](https://github.com/magmamaintained)
+- **Alternative:** CatServer/Arclight
 - **Version:** 1.12.2, 1.18.2, 1.19.3 (Legacy), 1.20.1 (Unsupported)
 - **Author:** TonimatasDEV
 - **Fork:** Forge/CraftBukkit/Spigot --> Magma --> Magma Maintained
@@ -80,6 +81,7 @@ This list contains Minecraft Java mods/plugins server software.
 - **Mods:** Forge
 - 
 ### [🔶 Magma](https://magmafoundation.org)
+- **Alternative:** CatServer/Arclight
 - **Version:** 1.12.2, 1.15.2, 1.16.5, 1.18.2, 1.19.3
 - **Author:** MagmaFoundation/Hexeption
 - **Fork:** Forge/Spigot/Paper/Thermos --> Magma
@@ -88,7 +90,7 @@ This list contains Minecraft Java mods/plugins server software.
 - **Mods:** Forge
 
 ### [🌫️ Mist](https://github.com/MinecraftMist/Mist)
-- **Alternative:** Mohist
+- **Alternative:** Mohist/Arclight
 - **Version:** 1.16.5
 - **Author:** KR33PY
 - **Fork:** Forge/Spigot/Paper/Atom/Thermos/um_bukkit --> Mohist --> Mist
