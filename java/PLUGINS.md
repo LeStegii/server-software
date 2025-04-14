@@ -159,7 +159,7 @@ This list contains Minecraft Java plugins server software.
 
 ### [⬛ DivineMC](https://github.com/DivineMC/DivineMC)
 - **Version:** 1.19.2-1.21.1
-- **Author:** CraftCanvasMC
+- **Author:** BxTeam
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Pufferfish --> Purpur --> DivineMC
 - **Description:** Slightly optimized fork of Purpur.
 - **Plugins:** Bukkit, Spigot, Paper
