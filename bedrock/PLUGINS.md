@@ -4,36 +4,7 @@ This list contains Minecraft Bedrock plugins server software.
 Since most of the software does not support all vanilla features, it's recommended to use [GeyserMC](/OTHERS.md#-geysermc) (Bedrock to Java Bridge) instead if you want to play vanilla.
 
 # ✔️ Active Development
-### [☢️ Nukkit (NukkitX)](https://github.com/CloudburstMC/Nukkit)
-- **Author:** CloudburstMC
-- **Fork:** Nukkit --> NukkitX
-- **Description:** Server software for Minecraft: Pocket Edition written in Java.
-- **Plugins:** Nukkit
-- **Addons:** ❌
-
-### [💨 LiteLoader BDS](https://github.com/LiteLDev/LiteLoaderBDS)
-- **Author:** LiteLDev
-- **Fork:** -
-- **Description:** An unofficial plugin loader that provides basic API support for Bedrock Dedicated Server.
-- **Plugins:** LiteLoaderAPI (C++, JS, Lua, C#)
-- **Addons:** ❌
-
-### [💠 PocketMine-MP](https://github.com/pmmp/PocketMine-MP)
-- **Author:** pmmp
-- **Fork:** -
-- **Description:** Server software for Minecraft: Bedrock Edition written in PHP.
-- **Plugins:** PocketMine
-- **Addons:** ❌
-
-### [🦋 Dragonfly](https://github.com/df-mc/dragonfly)
-- **Author:** df-mc
-- **Fork:** -
-- **Description:** A heavily asynchronous server software for Minecraft Bedrock Edition written in Go.
-- **Plugins:** Dragonfly API
-- **Addons:** ❌
-
-# ❌ Inactive Development
-### [⚛️ Nukkit](https://github.com/Nukkit/Nukkit)
+### [⚛️ Nukkit](https://github.com/Nukkit/Nukkit) ![Last Commit](https://img.shields.io/github/last-commit/Nukkit/Nukkit?style=flat-square)
 - **Alternative:** NukkitX/Cloudburst
 - **Author:** Nukkit
 - **Fork:** -
@@ -41,28 +12,28 @@ Since most of the software does not support all vanilla features, it's recommend
 - **Plugins:** Nukkit
 - **Addons:** ❌
 
-### [🍃 GoMint](https://github.com/gomint/gomint)
+### [🍃 GoMint](https://github.com/gomint/gomint) ![Last Commit](https://img.shields.io/github/last-commit/gomint/gomint?style=flat-square)
 - **Author:** gomint
 - **Fork:** -
 - **Description:** GoMint is a modern Minecraft Bedrock Edition server written in Java.
-- **Plugins:** GoMint 
+- **Plugins:** GoMint
 - **Addons:** ❌
 
-### [✳ MiNET](https://github.com/NiclasOlofsson/MiNET)
+### [✳ MiNET](https://github.com/NiclasOlofsson/MiNET) ![Last Commit](https://img.shields.io/github/last-commit/NiclasOlofsson/MiNET?style=flat-square)
 - **Author:** NiclasOlofsson
 - **Fork:** -
 - **Description:** A (not so) basic Minecraft Pocket Edition server written in C#.
 - **Plugins:** .NET
 - **Addons:** ❌
 
-### [🔴 PowerNukkit (PowerNukkitX)](https://powernukkit.org/)
+### [🔴 PowerNukkitX](https://powernukkitx.org/) ![Last Commit](https://img.shields.io/github/last-commit/PowerNukkitX/PowerNukkitX?style=flat-square)
 - **Author:** PowerNukkit
 - **Fork:** Nukkit --> NukkitX --> PowerNukkit
 - **Description:** Advanced fork of NukkitX with support for Pistons, Water-logging and much more.
 - **Plugins:** Nukkit
 - **Addons:** ❌
 
-### [☁️ Cloudburst](https://github.com/CloudburstMC/Server)
+### [☁️ Cloudburst](https://github.com/CloudburstMC/Server) ![Last Commit](https://img.shields.io/github/last-commit/CloudburstMC/Server?style=flat-square)
 - **Author:** CloudburstMC
 - **Fork:** Nukkit/NukkitX --> Cloudburst
 - **Description:** Server software for Minecraft: Bedrock Edition written in Java.
