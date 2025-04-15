@@ -9,6 +9,13 @@ This list contains lost server software.
 - **Fork:** -
 - **Description:** A Minecraft server implementation written in Go.
 
+### ⬛ NachoBungee
+- **Alternative:** Velocity/Bungeecord
+- **Version:** 1.7 - 1.16
+- **Author:** CobbleSword
+- **Fork:** Bungeecord --> Waterfall --> Travertine --> NachoBungee
+- **Description:** NachoBungee is by the guys from NachoSpigot, which is a bad sign. On the GitHub page, they list off features of what they forked, nothing new. Was removed due to a DMCA.
+
 ### ⬛ DivineMC
 - **Version:** 1.19.2-1.21.1
 - **Author:** CraftCanvasMC
