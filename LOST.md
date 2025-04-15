@@ -3,6 +3,18 @@ This list contains lost server software.
 
 ⚠️ **Warning!** The information may be incorrect. The software listed here is likely old and official sources have been lost.
 
+### ⚓ Anchor
+- **Version:** ?
+- **Author:** AnchorMC
+- **Fork:** -
+- **Description:** A Minecraft server implementation written in Go.
+
+### ⬛ Polaris
+- **Version:** 1.8
+- **Author:** Rammelkast
+- **Fork:** -
+- **Description:** Multi-version 1.8-based Minecraft server software
+
 ### ⬛ CraftBukkit++
 - **Version:** ?
 - **Author:** Afforess
