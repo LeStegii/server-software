@@ -9,6 +9,13 @@ This list contains lost server software.
 - **Fork:** -
 - **Description:** A Minecraft server implementation written in Go.
 
+### ⬛ DivineMC
+- **Version:** 1.19.2-1.21.1
+- **Author:** CraftCanvasMC
+- **Fork:** CraftBukkit --> Spigot --> Paper --> Pufferfish --> Purpur --> DivineMC
+- **Description:** Slightly optimized fork of Purpur.
+- **Plugins:** Bukkit, Spigot, Paper
+
 ### ⬛ Polaris
 - **Version:** 1.8
 - **Author:** Rammelkast
