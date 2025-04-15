@@ -4,6 +4,35 @@ This list contains Minecraft Bedrock plugins server software.
 Since most of the software does not support all vanilla features, it's recommended to use [GeyserMC](/OTHERS.md#-geysermc) (Bedrock to Java Bridge) instead if you want to play vanilla.
 
 # ✔️ Active Development
+### [☢️ Nukkit (NukkitX)](https://github.com/CloudburstMC/Nukkit) ![Last Commit](https://img.shields.io/github/last-commit/CloudburstMC/Nukkit?style=flat-square)
+- **Author:** CloudburstMC
+- **Fork:** Nukkit --> NukkitX
+- **Description:** Server software for Minecraft: Pocket Edition written in Java.
+- **Plugins:** Nukkit
+- **Addons:** ❌
+
+### [💨 LiteLoader BDS](https://github.com/LiteLDev/LiteLoaderBDS) ![Last Commit](https://img.shields.io/github/last-commit/LiteLDev/LiteLoaderBDS?style=flat-square)
+- **Author:** LiteLDev
+- **Fork:** -
+- **Description:** An unofficial plugin loader that provides basic API support for Bedrock Dedicated Server.
+- **Plugins:** LiteLoaderAPI (C++, JS, Lua, C#)
+- **Addons:** ❌
+
+### [💠 PocketMine-MP](https://github.com/pmmp/PocketMine-MP) ![Last Commit](https://img.shields.io/github/last-commit/pmmp/PocketMine-MP?style=flat-square)
+- **Author:** pmmp
+- **Fork:** -
+- **Description:** Server software for Minecraft: Bedrock Edition written in PHP.
+- **Plugins:** PocketMine
+- **Addons:** ❌
+
+### [🦋 Dragonfly](https://github.com/df-mc/dragonfly) ![Last Commit](https://img.shields.io/github/last-commit/df-mc/dragonfly?style=flat-square)
+- **Author:** df-mc
+- **Fork:** -
+- **Description:** A heavily asynchronous server software for Minecraft Bedrock Edition written in Go.
+- **Plugins:** Dragonfly API
+- **Addons:** ❌
+
+# ❌ Inactive Development
 ### [⚛️ Nukkit](https://github.com/Nukkit/Nukkit) ![Last Commit](https://img.shields.io/github/last-commit/Nukkit/Nukkit?style=flat-square)
 - **Alternative:** NukkitX/Cloudburst
 - **Author:** Nukkit
@@ -26,7 +55,7 @@ Since most of the software does not support all vanilla features, it's recommend
 - **Plugins:** .NET
 - **Addons:** ❌
 
-### [🔴 PowerNukkitX](https://powernukkitx.org/) ![Last Commit](https://img.shields.io/github/last-commit/PowerNukkitX/PowerNukkitX?style=flat-square)
+### [🔴 PowerNukkit (PowerNukkitX)](https://powernukkit.org/) ![Last Commit](https://img.shields.io/github/last-commit/PowerNukkit/PowerNukkitX?style=flat-square)
 - **Author:** PowerNukkit
 - **Fork:** Nukkit --> NukkitX --> PowerNukkit
 - **Description:** Advanced fork of NukkitX with support for Pistons, Water-logging and much more.
