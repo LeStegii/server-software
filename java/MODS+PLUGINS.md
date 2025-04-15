@@ -94,7 +94,7 @@ This list contains Minecraft Java mods/plugins server software.
 - **Plugins:** Bukkit, Spigot, Paper
 - **Mods:** Forge
 
-### [🗑 (k)Cauldron](https://sourceforge.net/projects/cauldron-unofficial/)
+### [🗑 (k)Cauldron](https://github.com/djoveryde/KCauldron) ![Last Commit](https://img.shields.io/github/last-commit/djoveryde/KCauldron?style=flat-square)
 - **Alternative:** Crucible
 - **Version:** 1.7.10
 - **Author:** Various authors
