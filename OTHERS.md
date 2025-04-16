@@ -6,22 +6,22 @@ This list contains software which is related to minecraft servers but is not a s
 - **Version:** Latest Bedrock/Java Server Version
 - **Author:** GeyserMC
 - **Fork:** -
-- **Description:** Software that allows bedrock players to join Java servers.
+- **Description:** Software that allows Bedrock players to join Java servers.
 - **Platforms:** Bukkit/Spigot/Paper, Bungeecord, Sponge, Velocity
 
-### [✴️ Minestom](https://github.com/Minestom/Minestom)
+### [✴️ Minestom](https://github.com/Minestom/Minestom) ![Last Commit](https://img.shields.io/github/last-commit/Minestom/Minestom?style=flat-square)
 - **Version:** 1.18 - 1.21
 - **Author:** Minestom
 - **Fork:** -
 - **Description:** Minestom is an open-source library that enables developers to create their own Minecraft server software, without any code from Mojang.
 
-### [🔻 Valence](https://github.com/valence-rs/valence)
+### [🔻 Valence](https://github.com/valence-rs/valence) ![Last Commit](https://img.shields.io/github/last-commit/valence-rs/valence?style=flat-square)
 - **Version:** ?
 - **Author:** valence-rs
 - **Fork:** -
 - **Description:** A Rust framework for building Minecraft servers.
 - **Plugins:** Rust (Valence)
-- 
+
 # ❌ Inactive Development
 ### [🐟 Carbon](https://www.spigotmc.org/resources/1258/)
 - **Version:** 1.7.10
@@ -30,27 +30,27 @@ This list contains software which is related to minecraft servers but is not a s
 - **Description:** Adds future Minecraft content (1.8 blocks/features) to older Spigot versions (1.7.10).
 - **Platforms:** Spigot
 
-### [🦅 Carbon 2](https://github.com/MCCarbon/Carbon-2)
+### [🦅 Carbon 2](https://github.com/MCCarbon/Carbon-2) ![Last Commit](https://img.shields.io/github/last-commit/MCCarbon/Carbon-2?style=flat-square)
 - **Version:** 1.8
 - **Author:** MCCarbon
 - **Fork:** -
 - **Description:** Adds future Minecraft content (1.9 blocks/features) to older Spigot versions (1.8).
 - **Platforms:** Spigot
 
-### [🌐 OnlineModeFix](https://github.com/craftycodie/OnlineModeFix)
+### [🌐 OnlineModeFix](https://github.com/craftycodie/OnlineModeFix) ![Last Commit](https://img.shields.io/github/last-commit/craftycodie/OnlineModeFix?style=flat-square)
 - **Version:** Very old bukkit versions
 - **Author:** craftycodie
 - **Fork:** -
 - **Description:** Software allowing very old servers to run in online mode.
 - **Platforms:** Bukkit/hMod/Vanilla (or other modded jars)
 
-### [⬛ native-minecraft-server](https://github.com/hpi-swa/native-minecraft-server)
+### [⬛ native-minecraft-server](https://github.com/hpi-swa/native-minecraft-server) ![Last Commit](https://img.shields.io/github/last-commit/hpi-swa/native-minecraft-server?style=flat-square)
 - **Version:** 1.18.2
 - **Author:** hpi-swa
 - **Fork:** -
 - **Description:** Use GraalVM Native Image to turn the Minecraft server into native executables that are small in footprint, fast, and cheap to deploy.
 
-### [⬛ Craft](https://github.com/fogleman/Craft)
+### [⬛ Craft](https://github.com/fogleman/Craft) ![Last Commit](https://img.shields.io/github/last-commit/fogleman/Craft?style=flat-square)
 - **Version:** -
 - **Author:** fogleman
 - **Fork:** -

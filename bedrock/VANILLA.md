@@ -9,11 +9,12 @@ This list contains Minecraft Bedrock vanilla server software.
 - **Plugins:** ❌
 - **Addons:** Behaviour and Resource Packs
 
-### [📻 JukeboxMC](https://github.com/LucGamesYT/JukeboxMC)
+### [📻 JukeboxMC](https://github.com/LucGamesYT/JukeboxMC) ![Last Commit](https://img.shields.io/github/last-commit/LucGamesYT/JukeboxMC?style=flat-square)
 - **Author:** LucGamesYT
 - **Fork:** -
 - **Description:** A Minecraft Bedrock Edition Server Software written in Java.
 - **Plugins:** ❌
 - **Addons:** ❌
+
 
 # ❌ Inactive Development

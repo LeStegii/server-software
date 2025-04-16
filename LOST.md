@@ -3,6 +3,32 @@ This list contains lost server software.
 
 ⚠️ **Warning!** The information may be incorrect. The software listed here is likely old and official sources have been lost.
 
+### ⚓ Anchor
+- **Version:** ?
+- **Author:** AnchorMC
+- **Fork:** -
+- **Description:** A Minecraft server implementation written in Go.
+
+### ⬛ NachoBungee
+- **Alternative:** Velocity/Bungeecord
+- **Version:** 1.7 - 1.16
+- **Author:** CobbleSword
+- **Fork:** Bungeecord --> Waterfall --> Travertine --> NachoBungee
+- **Description:** NachoBungee is by the guys from NachoSpigot, which is a bad sign. On the GitHub page, they list off features of what they forked, nothing new. Was removed due to a DMCA.
+
+### ⬛ DivineMC
+- **Version:** 1.19.2-1.21.1
+- **Author:** CraftCanvasMC
+- **Fork:** CraftBukkit --> Spigot --> Paper --> Pufferfish --> Purpur --> DivineMC
+- **Description:** Slightly optimized fork of Purpur.
+- **Plugins:** Bukkit, Spigot, Paper
+
+### ⬛ Polaris
+- **Version:** 1.8
+- **Author:** Rammelkast
+- **Fork:** -
+- **Description:** Multi-version 1.8-based Minecraft server software
+
 ### ⬛ CraftBukkit++
 - **Version:** ?
 - **Author:** Afforess

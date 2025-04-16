@@ -4,7 +4,7 @@ This list contains Minecraft Java mods/plugins server software.
 ⚠️ **Warning!** If a project is not in active development exploits such as Log4J could still work!
 
 # ✔️ Active Development
-### [🔶 Magma Maintained](https://github.com/magmamaintained)
+### [🔶 Magma Maintained](https://github.com/magmamaintained) ![Last Commit](https://img.shields.io/github/last-commit/magmamaintained/Magma-1.20.1?style=flat-square)
 - **Version:** 1.12.2, 1.18.2, 1.19.3 (Legacy), 1.20.1 (Unsupported)
 - **Author:** TonimatasDEV
 - **Fork:** Forge/CraftBukkit/Spigot --> Magma --> Magma Maintained
@@ -94,7 +94,7 @@ This list contains Minecraft Java mods/plugins server software.
 - **Plugins:** Bukkit, Spigot, Paper
 - **Mods:** Forge
 
-### [🗑 (k)Cauldron](https://sourceforge.net/projects/cauldron-unofficial/)
+### [🗑 (k)Cauldron](https://github.com/djoveryde/KCauldron) ![Last Commit](https://img.shields.io/github/last-commit/djoveryde/KCauldron?style=flat-square)
 - **Alternative:** Crucible
 - **Version:** 1.7.10
 - **Author:** Various authors
