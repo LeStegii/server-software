@@ -4,13 +4,6 @@ This list contains Minecraft Java mods/plugins server software.
 ⚠️ **Warning!** If a project is not in active development exploits such as Log4J could still work!
 
 # ✔️ Active Development
-### [🔶 Magma Maintained](https://github.com/magmamaintained)
-- **Version:** 1.12.2, 1.18.2, 1.19.3 (Legacy), 1.20.1 (Unsupported)
-- **Author:** TonimatasDEV
-- **Fork:** Forge/CraftBukkit/Spigot --> Magma --> Magma Maintained
-- **Description:** This project is to maintain the existing versions of Magma (1.20.1, 1.19.3, 1.18.2, 1.12.2).
-- **Plugins:** Bukkit, Spigot
-- **Mods:** Forge
 
 ### [🔗 Ketting](https://github.com/kettingpowered)
 - **Version:** 1.20.1, 1.20.2, 1.20.3 (Unsupported), 1.20.4
@@ -77,7 +70,18 @@ This list contains Minecraft Java mods/plugins server software.
 - **Mods:** Forge
 
 # ❌ Inactive Development
+
+### [🔶 Magma Maintained](https://github.com/magmamaintained)
+- **Alternative:** CatServer/Arclight
+- **Version:** 1.12.2, 1.18.2, 1.19.3 (Legacy), 1.20.1 (Unsupported)
+- **Author:** TonimatasDEV
+- **Fork:** Forge/CraftBukkit/Spigot --> Magma --> Magma Maintained
+- **Description:** This project is to maintain the existing versions of Magma (1.20.1, 1.19.3, 1.18.2, 1.12.2).
+- **Plugins:** Bukkit, Spigot
+- **Mods:** Forge
+- 
 ### [🔶 Magma](https://magmafoundation.org)
+- **Alternative:** CatServer/Arclight
 - **Version:** 1.12.2, 1.15.2, 1.16.5, 1.18.2, 1.19.3
 - **Author:** MagmaFoundation/Hexeption
 - **Fork:** Forge/Spigot/Paper/Thermos --> Magma
@@ -86,7 +90,7 @@ This list contains Minecraft Java mods/plugins server software.
 - **Mods:** Forge
 
 ### [🌫️ Mist](https://github.com/MinecraftMist/Mist)
-- **Alternative:** Mohist
+- **Alternative:** Mohist/Arclight
 - **Version:** 1.16.5
 - **Author:** KR33PY
 - **Fork:** Forge/Spigot/Paper/Atom/Thermos/um_bukkit --> Mohist --> Mist
