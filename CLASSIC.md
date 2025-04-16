@@ -9,30 +9,6 @@ This list contains software which is designed for Minecraft Classic/ClassiCube.
 - **Plugins:** Yes (custom)
 - **CPE:** Yes
 - **Versions:** c0.30c
-  
-### [3️⃣ Thirty](https://dev.firestick.games/sean/thirty)
-- **Author:** Sean Baggaley
-- **Fork:** -
-- **Description:** A ClassiCube (Minecraft Classic) server written in C.
-- **Plugins:** No
-- **CPE:** Yes
-- **Versions:** c0.0.15a-c0.30c, a1.2.6
-
-### [🇨 cserver](https://github.com/igor725/cserver)
-- **Author:** igor725
-- **Fork:** -
-- **Description:** Another Minecraft Classic server in C.
-- **Plugins:** Yes
-- **CPE:** Yes
-- **Versions:** c0.30c
-- 
-### [🥯 Stuffed Classic](https://github.com/Hedwig7s/Stuffed-Classic)
-- **Author:** Hedwig7s
-- **Fork:** -
-- **Description:** A classic Minecraft server written in TypeScript using Bun
-- **Plugins:** No
-- **CPE:** No
-- **Versions:** c0.30c
 
 # ❌ Inactive Development
 ### [🌍 Vanilla](https://github.com/Minecraft-Classic-Server-Archive/Vanilla)
@@ -83,6 +59,30 @@ This list contains software which is designed for Minecraft Classic/ClassiCube.
 - **CPE:** Yes
 - **Versions:** c0.30c
 
+### [📦 blockBox](https://github.com/TheArchives/blockBox)
+- **Author:** the Arc team, the blockBox team
+- **Fork:** Myne --> iCraft --> Arc --> blockBox
+- **Description:** Server likely based on an older version of Arc
+- **Plugins:** Yes
+- **CPE:** No
+- **Versions:** c0.30c
+
+### [⚗️ brewing-stand-classic](https://github.com/Ovyerus/brewing-stand-classic)
+- **Author:** Ovyerus
+- **Fork:** -
+- **Description:** Minecraft Classic server written in Elixir.
+- **Plugins:** No
+- **CPE:** No
+- **Versions:** c0.30c
+
+### [5️⃣ Cla55ic](https://github.com/fucksophie/Cla55ic)
+- **Author:** yourfriend
+- **Fork:** -
+- **Description:** A minecraft classic server written for node
+- **Plugins:** No
+- **CPE:** Yes
+- **Versions:** c0.30c
+
 ### [🇽 ClassicX](https://github.com/Cheesse/ClassicX)
 - **Author:** Cheesse
 - **Fork:** -
@@ -97,6 +97,14 @@ This list contains software which is designed for Minecraft Classic/ClassiCube.
 - **Description:** Port of D3Classic to C++
 - **Plugins:** Yes
 - **CPE:** Partial
+- **Versions:** c0.30c
+
+### [🇨 cserver](https://github.com/igor725/cserver)
+- **Author:** igor725
+- **Fork:** -
+- **Description:** Another Minecraft Classic server in C.
+- **Plugins:** Yes
+- **CPE:** Yes
 - **Versions:** c0.30c
 
 ### [✨ GoldenSparks](https://github.com/RandomStrangers/Sparkie)
@@ -170,3 +178,20 @@ This list contains software which is designed for Minecraft Classic/ClassiCube.
 - **Plugins:** No
 - **CPE:** No
 - **Versions:** c0.30c
+
+
+### [🥯 Stuffed Classic](https://github.com/Hedwig7s/Stuffed-Classic)
+- **Author:** Hedwig7s
+- **Fork:** -
+- **Description:** A classic Minecraft server written in TypeScript using Bun
+- **Plugins:** No
+- **CPE:** No
+- **Versions:** c0.30c
+
+### [3️⃣ Thirty](https://dev.firestick.games/sean/thirty)
+- **Author:** Sean Baggaley
+- **Fork:** -
+- **Description:** A ClassiCube (Minecraft Classic) server written in C.
+- **Plugins:** No
+- **CPE:** Yes
+- **Versions:** c0.0.15a-c0.30c, a1.2.6
