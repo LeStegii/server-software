@@ -3,12 +3,6 @@ This list contains lost server software.
 
 ⚠️ **Warning!** The information may be incorrect. The software listed here is likely old and official sources have been lost.
 
-### ⬛ CraftBukkit++
-- **Version:** ?
-- **Author:** Afforess
-- **Fork:** CraftBukkit --> CraftBukkit++
-- **Description:** CraftBukkit++ was the original performance fork. It was made to improve performance for the CraftBukkit server.
-
 ### ⬛ Creativity
 - **Version:** ?
 - **Author:** ?
@@ -20,12 +14,6 @@ This list contains lost server software.
 - **Author:** ?
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Crocus
 - **Description:** Crocus is a fork of Paper that adds some patches for the Khron Minecraft server.
-
-### ⬛ DytanicSpigot
-- **Version:** 1.8.8
-- **Author:** ?
-- **Fork:** CraftBukkit --> Spigot --> DytanicSpigot
-- **Description:** Spigot fork said to be capable of stability hitting 40 TPS, although there's not much left of it to show if it was.
 
 ### ⬛ FeatherSpigot
 - **Version:** 1.13.2
