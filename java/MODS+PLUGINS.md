@@ -6,7 +6,7 @@ This list contains Minecraft Java mods/plugins server software.
 # ✔️ Active Development
 
 ### [🔗 Ketting](https://github.com/kettingpowered)
-- **Version:** 1.20.1, 1.20.2, 1.20.3 (Unsupported), 1.20.4
+- **Version:** 1.20.1, 1.20.2 (Unsupported), 1.20.3 (Unsupported), 1.20.4 (Unsupported)
 - **Author:** KettingPowered
 - **Fork:** Forge/CraftBukkit/Spigot --> Ketting
 - **Description:** Software that allows the use of Forge Mods and Bukkit/Spigot plugins on your server.
