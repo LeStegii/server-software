@@ -10,6 +10,14 @@ This list contains software which is designed for Minecraft Classic/ClassiCube.
 - **CPE:** Yes
 - **Versions:** c0.30c
 
+### [3️⃣ Thirty](https://dev.firestick.games/sean/thirty)
+- **Author:** Sean Baggaley
+- **Fork:** -
+- **Description:** A ClassiCube (Minecraft Classic) server written in C.
+- **Plugins:** No
+- **CPE:** Yes
+- **Versions:** c0.0.15a-c0.30c, a1.2.6
+
 # ❌ Inactive Development
 ### [🌍 Vanilla](https://github.com/Minecraft-Classic-Server-Archive/Vanilla)
 - **Author:** Notch
@@ -91,20 +99,20 @@ This list contains software which is designed for Minecraft Classic/ClassiCube.
 - **CPE:** No
 - **Versions:** c0.30c
 
-### [📦 D3PP](https://github.com/umby24/D3PP)
-- **Author:** umby24
-- **Fork:** -
-- **Description:** Port of D3Classic to C++
-- **Plugins:** Yes
-- **CPE:** Partial
-- **Versions:** c0.30c
-
 ### [🇨 cserver](https://github.com/igor725/cserver)
 - **Author:** igor725
 - **Fork:** -
 - **Description:** Another Minecraft Classic server in C.
 - **Plugins:** Yes
 - **CPE:** Yes
+- **Versions:** c0.30c
+
+### [📦 D3PP](https://github.com/umby24/D3PP)
+- **Author:** umby24
+- **Fork:** -
+- **Description:** Port of D3Classic to C++
+- **Plugins:** Yes
+- **CPE:** Partial
 - **Versions:** c0.30c
 
 ### [✨ GoldenSparks](https://github.com/RandomStrangers/Sparkie)
@@ -179,7 +187,6 @@ This list contains software which is designed for Minecraft Classic/ClassiCube.
 - **CPE:** No
 - **Versions:** c0.30c
 
-
 ### [🥯 Stuffed Classic](https://github.com/Hedwig7s/Stuffed-Classic)
 - **Author:** Hedwig7s
 - **Fork:** -
@@ -188,10 +195,10 @@ This list contains software which is designed for Minecraft Classic/ClassiCube.
 - **CPE:** No
 - **Versions:** c0.30c
 
-### [3️⃣ Thirty](https://dev.firestick.games/sean/thirty)
-- **Author:** Sean Baggaley
+### [🎯 Target Classic](https://github.com/Hedwig7s/Target-Classic)
+- **Author:** Hedwig7s
 - **Fork:** -
-- **Description:** A ClassiCube (Minecraft Classic) server written in C.
+- **Description:** A classic Minecraft server written in Dart
 - **Plugins:** No
-- **CPE:** Yes
-- **Versions:** c0.0.15a-c0.30c, a1.2.6
+- **CPE:** No
+- **Versions:** c0.30c
