@@ -7,11 +7,20 @@ This list contains Minecraft Java plugins server software based on Folia.
 
 > **NOTE:** The Folia API is an extension of the Paper API which itself is based on Spigot and Bukkit. Bukkit, Spigot and Paper plugins should mostly be compatible, but have to specify compatibility manually.
 
+
+
 ### [🗺 Folia](https://github.com/PaperMC/Folia)
 - **Version:** 1.19.4-1.21.1
 - **Author:** PaperMC
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Folia
 - **Description:** A software splitting the world into multiple areas and ticking them seperatly.
+- **Plugins:** _Folia_
+
+### [🎨 Canvas](https://github.com/CraftCanvasMC/Canvas)
+- **Version:** 1.21.5, 1.21.8
+- **Author:** CraftCanvas
+- **Fork:** CraftBukkit --> Spigot --> Paper --> Folia --> CanvasMC
+- **Description:** That fixes gameplay inconsistencies, bugs, and introduces further performance enhancements to the dedicated server
 - **Plugins:** _Folia_
 
 ### [⬛ Luminol](https://github.com/LuminolMC/Luminol)
