@@ -1,5 +1,5 @@
 # Minecraft Java Mods software.
-This list contains Minecraft Java proxy server software.
+This list contains Minecraft Java mods server software.
 
 If you're looking for a way to use both **plugins and mods**, checkout [this list](/java/MODS+PLUGINS.md).
 
