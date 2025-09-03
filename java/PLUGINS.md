@@ -528,3 +528,16 @@ This list contains Minecraft Java plugins server software.
 - **Fork:** -
 - **Description:** Bravo is a reimplementation of the Minecraft server in python. Previously known as beta.
 - **Plugins:** -
+
+# 👀 Lost and Found
+### [⬛ CraftBukkit++](https://archive.org/details/CraftBukkitPlusPlus)
+- **Version:** 1.0.1-1.4.2
+- **Author:** Afforess
+- **Fork:** CraftBukkit --> CraftBukkit++
+- **Description:** CraftBukkit++ was the original performance fork. It was made to improve performance for the CraftBukkit server.
+
+### [⬛ DytanicSpigot](https://eimerarchive.org/files/server-software/DytanicSpigot/unknown/)
+- **Version:** 1.8.8
+- **Author:** ?
+- **Fork:** CraftBukkit --> Spigot --> DytanicSpigot
+- **Description:** Spigot fork said to be capable of stability hitting 40 TPS, in reality the TPS limit was changed to 40 so some things like furnaces run faster but is not more "stable".
