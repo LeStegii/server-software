@@ -6,10 +6,10 @@ This list contains Minecraft Java mods/plugins server software.
 # ✔️ Active Development
 
 ### [🔗 Ketting](https://github.com/kettingpowered)
-- **Version:** 1.20.1, 1.20.2, 1.20.3 (Unsupported), 1.20.4
+- **Version:** 1.20.1, 1.20.2 (Unsupported), 1.20.3 (Unsupported), 1.20.4 (Unsupported)
 - **Author:** KettingPowered
 - **Fork:** Forge/CraftBukkit/Spigot --> Ketting
-- **Description:** Software that allows the use of Forge Mods and Bukkit/Spigot/Paper plugins on your server.
+- **Description:** Software that allows the use of Forge Mods and Bukkit/Spigot plugins on your server.
 - **Plugins:** Bukkit, Spigot
 - **Mods:** Forge
 
@@ -17,7 +17,7 @@ This list contains Minecraft Java mods/plugins server software.
 - **Version:** 1.7.10 (Deprecated), 1.12.2, 1.16.5, 1.19.2-1.21
 - **Author:** Mgazul
 - **Fork:** Forge/Spigot/Paper/Atom/Thermos/um_bukkit --> Mohist
-- **Description:** Software that allows the use of Forge Mods and Bukkit/Spigot/Paper plugins on your server.
+- **Description:** Software that allows the use of Forge Mods and Bukkit/Spigot plugins on your server.
 - **Plugins:** Bukkit, Spigot
 - **Mods:** Forge
 
@@ -33,7 +33,7 @@ This list contains Minecraft Java mods/plugins server software.
 - **Version:** 1.12.2, 1.16.5, 1.18.2
 - **Author:** Luohuayu
 - **Fork:** Forge/Spigot/Paper --> CatServer
-- **Description:** Software that allows the use of Forge Mods and Bukkit/Spigot/Paper plugins on your server.
+- **Description:** Software that allows the use of Forge Mods and Bukkit/Spigot plugins on your server.
 - **Plugins:** Bukkit, Spigot
 - **Mods:** Forge
 
@@ -49,7 +49,7 @@ This list contains Minecraft Java mods/plugins server software.
 - **Version:** 1.19.4, 1.20.1, 1.20.2 (Experimental), 1.20.4-1.21 (Experimental)
 - **Author:** MohistMC
 - **Fork:** Fabric/CraftBukkit/Spigot/Paper/Mohist/Arclight --> Banner
-- **Description:** Fabric Mod that allows the use of Bukkit/Spigot/Paper Plugins.
+- **Description:** Fabric Mod that allows the use of Bukkit/Spigot Plugins.
 - **Plugins:** Bukkit, Spigot, Paper
 - **Mods:** Fabric
 
@@ -57,7 +57,7 @@ This list contains Minecraft Java mods/plugins server software.
 - **Version:** 1.16.4-1.18.2, 1.19.2, 1.20.4
 - **Author:** IsaiahPatton (CardboardPowered)
 - **Fork:** Fabric/CraftBukkit/Spigot/Paper --> Cardboard
-- **Description:** Fabric Mod that allows the use of Bukkit/Spigot/Paper Plugins.
+- **Description:** Fabric Mod that allows the use of Bukkit/Spigot Plugins.
 - **Plugins:** Bukkit, Spigot, Paper
 - **Mods:** Fabric
 
@@ -112,7 +112,7 @@ This list contains Minecraft Java mods/plugins server software.
 - **Version:** 1.7.10
 - **Author:** CyberdyneCC
 - **Fork:** Forge/Bukkit --> MCPC+ --> Cauldron --> kCauldron --> Thermos
-- **Description:** Software that allows the use of Forge Mods and Bukkit/Spigot/Paper plugins on your server.
+- **Description:** Software that allows the use of Forge Mods and Bukkit/Spigot plugins on your server.
 - **Plugins:** Bukkit, Spigot
 - **Mods:** Forge
 
@@ -193,7 +193,7 @@ This list contains Minecraft Java mods/plugins server software.
 - **Version:** 1.7.10
 - **Author:** UraniumMC
 - **Fork:** Forge/CraftBukkit --> MCPC+ --> Cauldron --> kCauldron --> Uranium
-- **Description:** Software that allows the use of Forge Mods and Bukkit/Spigot/Paper plugins on your server.
+- **Description:** Software that allows the use of Forge Mods and Bukkit/Spigot plugins on your server.
 - **Plugins:** Bukkit, Spigot
 - **Mods:** Forge
 
